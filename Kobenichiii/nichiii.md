@@ -26,4 +26,4 @@ Values that I clearly need to work on:
 - Initiating friendly relationship to someone
 	- I have this terrible mindset of just waiting for people to make the first move on me. It's something that stems from fear.
 - Vulnerability is not weakness
-	- Whenever I'm down, mentally, I just shut myself off from the world. I tend to disappear and cut off contact entirely from pretty much everyone. This is because I'm scared. I'm scared I might say something I'll end up regretting. I'm scared of disappointing people. I'm scared that the worst parts of me might become known by the world.
+	- Whenever I'm down, mentally, I just shut myself off from the world. I tend to disappear and cut off contact entirely from pretty much everyone. This is because I'm scared. I'm scared I might say something I'll end up regretting. I'm scared of disappointing people. I'm scared that the worst parts of me might become known by the world. This mindset is very bad in building real relationships. If I don't open up to someone, can it even be considered real friendship?

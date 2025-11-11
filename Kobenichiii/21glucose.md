@@ -1,3 +1,5 @@
+[[21glucose income sources]]
+
 Essentially 21glucose is a new thing I wanna start. It's a company pretty much.
 And I, nichiii/kobenichiiii is just a part of it.
 
