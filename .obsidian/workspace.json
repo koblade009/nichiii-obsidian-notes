@@ -11,10 +11,14 @@
             "id": "0edd4da6892cc812",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Kobenichiii/21glucose.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "21glucose"
             }
           }
         ]
@@ -169,7 +173,7 @@
   "active": "0edd4da6892cc812",
   "lastOpenFiles": [
     "Kobenichiii/Oh boy.md",
-    "Kobenichiii/aNOTHER ONE.md",
+    "Kobenichiii/21glucose.md",
     "Kobenichiii/Lets add another one test test test.md",
     "Kobenichiii/Git hub test.md",
     "README.md",
