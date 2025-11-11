@@ -11,12 +11,14 @@
             "id": "23a5b43d8ff06832",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Canicee/Attachments/Pasted image 20240210081113.png"
+                "file": "Kobenichiii/Git hub test.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20240210081113"
+              "icon": "lucide-file",
+              "title": "Git hub test"
             }
           }
         ]
@@ -158,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -169,6 +172,8 @@
   },
   "active": "23a5b43d8ff06832",
   "lastOpenFiles": [
+    "Canicee/Attachments/Pasted image 20240210081113.png",
+    "Kobenichiii/Git hub test.md",
     "Canicee/Attachments/Pasted image 20240210071202.png",
     "Canicee/Attachments/Pasted image 20240210071036.png",
     "Canicee/Attachments/Pasted image 20240210070629.png",
