@@ -23,4 +23,7 @@ Fourthwall (?) - > Digital Products
 Of course, 21glucose would probably never ever get any eyes on it without work on my part. Hence, I will prolly need to somewhat merge my online identity with it for some time so that any art the I make (nichiii) will come under the 21glucose name.
 
 Therefore, I need to make changes on how I operate.
-1. When I make fanart, it has to reflect the products 21glucose makes. If I sell fashion products then the fanart
+1. When I make fanart, it has to reflect the products 21glucose makes. If I sell fashion products then the fanart I make should focus on fashion even if the fanart itself doesn't feature any of my products.
+2. I need to promote the name "21glucose" as much as possible. Which means I should make art of my ocs with giant 21glucose texts on them. Kinda like graffiti style I guess.
+3. I guess my name (Nichiii) should prolly only appear in my twitter and pixiv as the names. My banner, everything else, branding-wise should be 21glucose focused.
+
