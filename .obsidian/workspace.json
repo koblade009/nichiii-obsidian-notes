@@ -11,15 +11,32 @@
             "id": "3cefa6f3e8da914b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "Kobenichiii/Oh boy.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "Oh boy"
+            }
+          },
+          {
+            "id": "e9a590efde160176",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,10 +185,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "3cefa6f3e8da914b",
+  "active": "b4623ccb6eb40b96",
   "lastOpenFiles": [
-    "Kobenichiii/Git hub test.md",
     "Kobenichiii/Oh boy.md",
+    "Untitled.md",
+    "Kobenichiii/Git hub test.md",
     "README.md",
     "Canicee/Attachments/Pasted image 20240210081113.png",
     "Canicee/Attachments/Pasted image 20240210071202.png",
