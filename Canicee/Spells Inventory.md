@@ -1,0 +1,1 @@
+Dictates the [[Spell]]s that a [[Mage]] is able to cast

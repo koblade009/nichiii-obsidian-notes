@@ -1,0 +1,1 @@
+What the [[Creature]] has in possession and is equipped

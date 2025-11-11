@@ -1,0 +1,1 @@
+Used by the [[🌱 Witch of War]] for fighting mobs of weak creatures

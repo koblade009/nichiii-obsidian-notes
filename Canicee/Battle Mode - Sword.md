@@ -1,0 +1,1 @@
+Used by the [[🌱 Witch of War]]  for dueling strong creatures

@@ -1,0 +1,2 @@
+[[Tier 10 Spell]]
+The Phoenix willingly ends its current life for the chance to be reborn. Transforms into a burning sun for 10 seconds that scorches enemies in a huge area. However, if the sun is destroyed, the user dies. When 10 seconds is over, the sun explodes and the user is reborn anew. Health and sigil count is fully restored however they cannot use this spell again until they rest 8 hours.

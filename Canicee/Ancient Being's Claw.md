@@ -1,0 +1,1 @@
+Super sturdy, doesnt melt from the heat of [[Ancient Being's Blood]]

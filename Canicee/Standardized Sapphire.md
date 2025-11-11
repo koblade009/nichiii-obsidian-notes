@@ -1,0 +1,1 @@
+[[Sapphire]] cut into standard dimensions just enough to contain 1 [[Seal]]s worth of [[Mana]]

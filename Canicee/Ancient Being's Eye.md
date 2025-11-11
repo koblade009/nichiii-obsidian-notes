@@ -1,0 +1,1 @@
+Vastly increases reaction time

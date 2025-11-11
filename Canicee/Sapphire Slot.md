@@ -1,0 +1,1 @@
+Amount of [[Standardized Sapphire]] a [[Standard Catalyst]] can have
