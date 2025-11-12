@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kobenichiii/Businesses of Nichiii.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Businesses of Nichiii"
+              "title": "index"
             }
           }
         ]
@@ -184,8 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36ef7546264cd118",
+  "active": "6b96d3d6abc7607f",
   "lastOpenFiles": [
+    "Pasted image 20251112213327.png",
+    "index.md",
+    "Kobenichiii/Businesses of Nichiii.md",
     "Canicee/Capella Energy.md",
     "Canicee/Capella Cape.md",
     "Canicee/Capella Armor.md",
@@ -207,11 +210,8 @@
     "Canicee/❤️ Chapter 1.md",
     "Canicee/❤️ Canicee Project Story.md",
     "Canicee/❤️ 0 BRIEFING.md",
-    "index.md",
     "README.md",
     "Pasted image 20251112212613.png",
-    "Kobenichiii/SFW Commissions.md",
-    "Kobenichiii/Projects of Nichiii.md",
-    "Kobenichiii/Personal Projects of Nichiii.md"
+    "Kobenichiii/SFW Commissions.md"
   ]
 }
