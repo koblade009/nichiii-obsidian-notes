@@ -11,13 +11,13 @@ Values that I clearly need to work on:
 - Open book / Wearing your heart in your sleeve / Vulnerability is not weakness
 	- Whenever I'm down, mentally, I just shut myself off from the world. I still need to change this.
 
-These values influence how I conduct business [[Businesses of Nichiii]]
-
-Darker values I need to work on: 
+Darker values I need to embody: 
 Reflected on [[Clothing Prints]]
 - Boundless Greed
 - Opportunistic
 - Hard Head, Thick Skin
+
+These values influence how I conduct business [[Businesses of Nichiii]]
 
 ---
 

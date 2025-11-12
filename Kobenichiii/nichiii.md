@@ -4,7 +4,7 @@ Pronouns: He/Him
 - [[Personal Projects of Nichiii]]
 - [[Businesses of Nichiii]]
 - [[Interests of Nichiii]]
-- [[Nichiii Core Values]]
+- [[Core Values of Nichiii]]
 
 ![](https://pbs.twimg.com/media/GxDB6xiaQAAoXLT?format=jpg&name=4096x4096)
 

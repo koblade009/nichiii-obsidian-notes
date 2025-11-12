@@ -16,3 +16,8 @@ These interests influence what type of businesses I pursue [[Businesses of Nichi
 
 
 ![](https://pbs.twimg.com/media/G2spvOjbIAEo1wm?format=jpg&name=4096x4096)
+![](https://pbs.twimg.com/media/Gx3ruxxakAAbm1H?format=jpg&name=large)
+![](https://pbs.twimg.com/media/G3aYnxJXEAA-MlW?format=jpg&name=4096x4096)
+![](https://pbs.twimg.com/media/G0E1VFDaMAAVcev?format=jpg&name=4096x4096)
+![](https://pbs.twimg.com/media/GzbHdlLa4AEoH9W?format=jpg&name=large)
+![](https://pbs.twimg.com/media/G4wYsEnbkAAIlQK?format=jpg&name=4096x4096)
