@@ -9,3 +9,5 @@ Values that I clearly need to work on:
 	- I have this terrible mindset of just waiting for people to make the first move on me. It's something that stems from fear.
 - Vulnerability is not weakness
 	- Whenever I'm down, mentally, I just shut myself off from the world. I still need to change this.
+
+These values influence how I conduct business [[Businesses of Nichiii]]

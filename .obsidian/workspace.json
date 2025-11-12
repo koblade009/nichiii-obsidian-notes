@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "README"
             }
           }
         ]
@@ -186,7 +186,7 @@
   },
   "active": "36ef7546264cd118",
   "lastOpenFiles": [
-    "Kobenichiii/21glucose income sources.md",
+    "index.md",
     "Kobenichiii/SFW Commissions.md",
     "Kobenichiii/Projects of Nichiii.md",
     "Kobenichiii/Personal Projects of Nichiii.md",
@@ -194,10 +194,10 @@
     "Kobenichiii/Nichiii Core Values.md",
     "Kobenichiii/nichiii.md",
     "Kobenichiii/Interests of Nichiii.md",
-    "Kobenichiii/Businesses of Nichiii.md",
     "Kobenichiii/Clothing Prints.md",
     "Kobenichiii/21glucose.md",
-    "README.md",
-    "index.md"
+    "Kobenichiii/Businesses of Nichiii.md",
+    "Kobenichiii/21glucose income sources.md",
+    "README.md"
   ]
 }

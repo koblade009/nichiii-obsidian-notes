@@ -11,3 +11,5 @@ Cultures I'm interested in:
 - Others:
 	- Car Culture
 	- Game Dev
+
+These interests influence what type of businesses I pursue [[Businesses of Nichiii]]

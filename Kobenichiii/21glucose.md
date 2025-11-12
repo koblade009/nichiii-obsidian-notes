@@ -3,7 +3,7 @@
 21glucose is a new thing I wanna start. It's a company pretty much.
 
 ### How does 21glucose operate?
-ATM 21glucose only operates thru the efforts of 1 person.
+ATM 21glucose only operates thru the efforts of 1 person. [[nichiii]]
 
 ### What's the vision for 21glucose?
 I want to build 21glucose into a business that can operate without my supervision. Or at least with less work on my part. I want it to be able to generate money for me even in times that I am unable to work.
