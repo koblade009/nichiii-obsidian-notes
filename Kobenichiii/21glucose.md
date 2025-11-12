@@ -19,3 +19,6 @@ Game plan right now is just:
 - Make product
 - Promote brand and product
 - Generate as much visibility as possible to my twitter account via fan art and maybe collaborating with other artists/businesses if given the chance.
+
+## Value proposition/Problems 21glucose aim to solve
+- Right now, I think there is a gap for weebs like myself who are struggling with balancing living in the real world and living in the culture/internet. I, for example, struggle with living out the weeb lifestyle irl because of my environment and financial limitations. Not only that, I also struggle to fit in both in the real world and in online communities. I think the issue stems from the fact that I am too much of a degenerate to 

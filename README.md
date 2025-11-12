@@ -1,1 +1,1 @@
-This is my public journal. 
+This is my public journal/pkm. 
