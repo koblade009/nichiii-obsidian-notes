@@ -1,3 +1,1 @@
-# nichiii-obsidian-notes
-
-REEEEEEEEEEEEEEEEEEEEEEE
+This is my public journal. 
