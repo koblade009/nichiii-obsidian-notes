@@ -8,7 +8,7 @@ Currently pursuing these as a source of income:
 Future move: 
 - Commissions should become a lot more streamlined. Good example of this is my SFW Monochrome Portrait on Artistree. Less variables, less stress.
 - Need to open up a Skeb-type Commission where there is absolutely no interaction, no wips to report, no revisions due to lack of info.
-- Completely custom commissions should be priced insanely high. This is because custom art involves not just drawing. It also often involves design work. As well 
+- Completely custom commissions should be priced insanely high. This is because custom art involves not just drawing. It also often involves design work. As well as a lot of trial and error/brainstorming to find what works.
 
 
 Absolute no-go:
