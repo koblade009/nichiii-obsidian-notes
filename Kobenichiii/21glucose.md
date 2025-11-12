@@ -21,4 +21,21 @@ Game plan right now is just:
 - Generate as much visibility as possible to my twitter account via fan art and maybe collaborating with other artists/businesses if given the chance.
 
 ## Value proposition/Problems 21glucose aim to solve
-- Right now, I think there is a gap for weebs like myself who are struggling with balancing living in the real world and living in the culture/internet. I, for example, struggle with living out the weeb lifestyle irl because of my environment and financial limitations. Not only that, I also struggle to fit in both in the real world and in online communities. I think the issue stems from the fact that I am too much of a degenerate to 
+
+Right now, I think there is a gap for weebs like myself who are struggling with balancing living in the real world and living in the culture/internet. I, for example, struggle with living out the weeb lifestyle irl because of my environment and financial limitations. 
+
+Not only that, I also struggle to fit in both in the real world and in online communities. I think the issue stems from the fact that I am too much of a degenerate for the real world and I have too many irl obligations to fully commit myself to the online life. 
+
+Another is regional limitations, I am a weeb in Cebu who also likes the stuff that I see here in Cebu which does not really fit exactly well with weeb culture entirely. 
+
+With this in mind, I think there are some things that I could probably put effort in that would provide value to people who have the same struggles that I have:
+
+- Create merchandise that represents weeb stuff but are still going to be presentable irl.
+- Create merchandise that is extremely affordable. At the same time, they look really good. Merchandise that you will not feel ashamed of wearing in real life.
+- Create products/merch that bridge non-weeb hobbies to weeb culture. 
+- Create products/merch that represent Cebu culture. Ones that represent well but also will fit in naturally wherever you are. 
+
+Therefore, the core offer:
+- Cheap / Affordable products
+- High quality designs
+- 
