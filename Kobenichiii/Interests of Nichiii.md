@@ -13,3 +13,4 @@ Cultures I'm interested in:
 	- Game Dev
 
 These interests influence what type of businesses I pursue [[Businesses of Nichiii]]
+

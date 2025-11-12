@@ -1,3 +1,4 @@
+![](https://pbs.twimg.com/media/G1ukKfOaAAQoiGM?format=jpg&name=4096x4096)
 
 ### What is 21glucose?
 21glucose is a new thing I wanna start. It's a company pretty much.

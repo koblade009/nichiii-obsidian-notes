@@ -1,7 +1,7 @@
 
 -  [[Clothing Prints]]
 -  Merchandising for [[Personal Projects of Nichiii]]
--  Fan Merc
+-  Fan Merc (Needs to be studied best way to approach this)
 
 Key points to consider before pursuing income sources:
 - Scalability
