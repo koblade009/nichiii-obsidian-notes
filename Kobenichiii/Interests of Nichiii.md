@@ -14,3 +14,5 @@ Cultures I'm interested in:
 
 These interests influence what type of businesses I pursue [[Businesses of Nichiii]]
 
+
+![](https://pbs.twimg.com/media/G2spvOjbIAEo1wm?format=jpg&name=4096x4096)
