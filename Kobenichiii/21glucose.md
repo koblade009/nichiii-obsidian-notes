@@ -35,7 +35,14 @@ With this in mind, I think there are some things that I could probably put effor
 - Create products/merch that bridge non-weeb hobbies to weeb culture. 
 - Create products/merch that represent Cebu culture. Ones that represent well but also will fit in naturally wherever you are. 
 
-Therefore, the core offer:
+Therefore, the core offerings would be:
 - Cheap / Affordable products
 - High quality designs
-- 
+- Products/Merchandise that express love for the culture
+- Products that express love for non-weeb hobbies but expressed in weeb ways
+- Products that you will not be ashamed to wear in the real world
+
+## Core Value of 21glucose as a brand: Love
+Therefore there are rules that I to abide by when designing products:
+- Never make a product for something that you don't love.
+- Never make a product that promotes division/hate. Don't participate in culture war.
