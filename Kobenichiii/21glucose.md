@@ -43,6 +43,7 @@ Therefore, the core offerings would be:
 - Products that you will not be ashamed to wear in the real world
 
 ## Core Value of 21glucose as a brand: Love
+Mainly influenced by [[Nichiii Core Values]] #2
 Therefore there are rules that I to abide by when designing products:
 - Never make a product for something that you don't love.
 - Never make a product that promotes division/hate. Don't participate in culture war.
