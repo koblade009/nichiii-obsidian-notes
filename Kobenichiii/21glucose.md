@@ -1,16 +1,16 @@
 [[21glucose income sources]]
 
-Essentially 21glucose is a new thing I wanna start. It's a company pretty much.
-And I, nichiii/kobenichiiii is just a part of it. 
+### What is 21glucose?
+21glucose is a new thing I wanna start. It's a company pretty much.
 
-nichiii - artist / person
-21glucose - brand/company
+### How does 21glucose make money?
+ATM it generates no money at all.
+The things I'm considering can
+
 
 21glucose currently operates via fourthwall
 
-nichiii (me) currently has these sources of income
-Artistree -> SFW Commissions
-Unifans - > NSFW Commissions
+
 
 I want to build 21glucose into a business that can operate without my supervision. Or at least with less work on my part. I want it to be able to generate money for me even in times that I am unable to work.
 
