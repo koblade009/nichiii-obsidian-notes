@@ -1,22 +1,3 @@
-Nichiii is a hobby artist residing in Cebu Philippines
-<<<<<<< HEAD
-
-Pronouns: He/Him
-
-Cultures I'm interested in:
-- Music:
-	- Filipino HipHop Music
-	- Vocaloid (I love PinocchioP's stuff especially)
-	- Bisrock (Visayan Rock Music)
-- Weeb Culture:
-	- Gacha: (Nikke is by far my favorite atm. BD2 is next. And then WuWa.)
-	- VTubers: (My faves ATM are Kaheru, Bancho, AmeNina, and Ina)
-	- Anime/Manga: (I fucking love horror manga. But there's also so many more. I actually made a list for it. But it's in comic form and I kinda forgot about it.)
-	- Gaming: (I love FlyFF, FromSoftware games and DMC series. Also Nier Automata)
-- Others:
-	- Car Culture
-	- Game Dev
-
 Values that I hold dear:
 - Variety is the spice of life / Never stuck in a box
 	- I'm aware it's going to be hard. Modern internet forces artists/cc's to stick to one thing that works in order to succeed. But I don't want that. My brain just doesn't thrive on that. When I do something repeatedly for long, I become depressed.
@@ -27,12 +8,4 @@ Values that I clearly need to work on:
 - Initiating friendly relationship to someone
 	- I have this terrible mindset of just waiting for people to make the first move on me. It's something that stems from fear.
 - Vulnerability is not weakness
-	- Whenever I'm down, mentally, I just shut myself off from the world. I tend to disappear and cut off contact entirely from pretty much everyone. This is because I'm scared. I'm scared I might say something I'll end up regretting. I'm scared of disappointing people. I'm scared that the worst parts of me might become known by the world. This mindset is very bad in building real relationships. If I don't open up to someone, can it even be considered real friendship?
-=======
-Pronouns: He/Him
-
-[[Nichiii Culture]]
-[[Nichiii Core Values]]
-[[Businesses of Nichiii]]
-[[Personal Projects of Nichiii]]
->>>>>>> c67db0d (replacing old corrupted files)
+	- Whenever I'm down, mentally, I just shut myself off from the world. I tend to disappear and cut off contact entirely from pretty much everyone. This is because I'm scared. I'm scared I might say something I'll end up regretting. I still need to change this.
