@@ -1,4 +1,6 @@
-asdasdas
+Welcome to my journal.
 
-git remote remove origin
-git remote add origin https://github.com/koblade009/nichiii-obsidian-quartz.git
+It kinda sucks tbh cuz flower show doesn't seem to have link maps. Whatever
+
+Anyways I am [[nichiii]]
+Welcome
