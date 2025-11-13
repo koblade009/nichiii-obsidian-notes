@@ -7,6 +7,7 @@ Inhabitants:
 
 Continents:
 [[Witchlands]]
+[[Madrigal]]
 [[Darklands]]
 [[Dragonlands]]
 [[Atlans]]
