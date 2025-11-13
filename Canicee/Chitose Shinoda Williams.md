@@ -36,9 +36,9 @@ Member of [[Golden Troupe]]
 	-  Rending Entry - Leaps towards a target at full force, it creates a shockwave, long cooldown
 
 # Relationships:
-- [[Bonnie Davidsen Merriweather]] - She is her best friend. They met through their old guild [[Bloody Cross]]. Chitose is really bad at forming relationships with others. This is due to her mostly seeing her interactions with people as purely transactional. However, due to being partnered with Bonnie at Bloody Cross, they went through 100+ missions together. Faced hardships together and eventually came to understand one another more than anyone else. Bonnie understands her struggles with interacting with people and gives her encouragement. On the other hand, Chitose also understand Bonnie's complex at being looked down by other people. 
+- [[Bonnie Davidsen Merriweather]] - She is her best friend. They met through their old guild [[Bloody Cross]]. Chitose is really bad at forming relationships with others. This is due to her mostly seeing her interactions with people as purely transactional. However, due to being partnered, they went through 100+ missions together. Faced hardships and eventually came to understand one another more than anyone else. Bonnie understands her struggles with people and gives her encouragement to keep going. On the other hand, Chitose also understand Bonnie's complex at being constantly made out to be an enemy by other people. In turn Chitose serves as her unconditional ally no matter what.
 - [[Zullie Frankenstein Von Koenigsegg]] - She treats Zullie as a senpai. Also they bond through their love of anime and manga.
-- [[John Merriweather Goldman]] - She obeys him, no questions asked, as long as it is paid work. Her nickname for him is "Bossman".
+- [[John Merriweather Goldman]] - She obeys him, no questions asked, as long as it is paid work. Her nickname for him is "Bossman". She has complete trust on him due to how well he treats Bonnie. (He treats Bonnie like his own sister).
 
 
 # Images: 
