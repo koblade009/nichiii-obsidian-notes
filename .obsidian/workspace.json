@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b51c86b6fcd3cf71",
+        "id": "855818ca54eaba0d",
         "type": "tabs",
         "children": [
           {
-            "id": "36ef7546264cd118",
+            "id": "c5ab9f61d80aab50",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
+              "title": "New tab"
             }
           }
         ]
@@ -184,34 +180,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36ef7546264cd118",
+  "active": "6b96d3d6abc7607f",
   "lastOpenFiles": [
-    "Canicee/Golden Troupe.md",
-    "Canicee/Madrigal.md",
-    "Canicee/🌍 Canicee.md",
+    "Kobenichiii/NSFW Commissions.md",
+    "Kobenichiii/SFW Commissions.md",
+    "Kobenichiii/Businesses of Nichiii.md",
+    "Kobenichiii/nichiii.md",
     "index.md",
-    "README.md",
-    "Canicee/Witchlands.md",
-    "Canicee/Bonnie Davidsen Merriweather.md",
-    "Canicee/Lodelight.md",
-    "Canicee/Revival Mutation.md",
-    "Canicee/Perfect Resurrection.md",
+    "Canicee/Goblin.md",
+    "Canicee/Giant Spider.md",
+    "Canicee/Giant Sloth.md",
+    "Canicee/Giant Centipede.md",
+    "Canicee/Freedom from Wolves Lending Company.md",
+    "Canicee/Rapture.md",
+    "Canicee/New Gen Witch.md",
+    "Canicee/Witch.md",
+    "Canicee/Old Gen Witch.md",
+    "Canicee/Old Witches' Kingdom.md",
     "Canicee/Zullie Frankenstein Von Koenigsegg.md",
-    "Canicee/John Merriweather Goldman.md",
-    "Canicee/Reapers.md",
-    "Canicee/Resurrection.md",
-    "Canicee/Bloody Cross.md",
-    "Canicee/Chitose Shinoda Williams.md",
-    "Grim.md",
-    "[Grim.md",
-    "Canicee/Fortune Finders.md",
-    "[[Grim.md",
-    "Canicee/Creature.md",
-    "Canicee/Mana.md",
-    "Canicee/Corazon - Witch of Smoldering Blood.md",
-    "Canicee/Helen - Witch of the Graves.md",
-    "Canicee/Serpent Pocket.md",
-    "Canicee/Outsider.md",
+    "Canicee/Wyvern.md",
+    "Canicee/Witchlands.md",
+    "Canicee/Witchcraft.md",
+    "Canicee/CBBZO.md",
+    "Canicee/Beast.md",
+    "Canicee/Atlans.md",
+    "Canicee/Ancient Being's Eye.md",
+    "Canicee/Ancient Being's Claw.md",
+    "Canicee/Ancient Being's Blood.md",
+    "Canicee/Ancient Being.md",
     "Canicee/Attachments/Pasted image 20251113151406.png",
     "Canicee/Attachments/Pasted image 20251113151923.png",
     "Canicee/Attachments/Pasted image 20251113151522.png",

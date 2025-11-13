@@ -3,7 +3,7 @@
 Turncoat [[Debt Collector]] for [[Freedom from Wolves Lending Company]]
 
 Hunted by [[Mikah]]
-Has a daughter [[🌱 Anne Juanette Fuentes]]
+Has a daughter [[🌱 Anne Fuentes]]
 
 First opponent seen on Canicee [[Mikah]] 1st chapter
 A hardass looking criminal. Loves her daughter so much.

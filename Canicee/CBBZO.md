@@ -1,1 +1,1 @@
-[[🌱 Anne Juanette Fuentes]]
+[[🌱 Anne Fuentes]]

@@ -10,7 +10,7 @@ Assistant Guild Master of [[Adventurer's Guild]]
 |  |
 
 
-[[🌱 Berth]] is an
+[[🌱 Berth McKraken]] is an
 
 ![[Pasted image 20240210070426.png]]
 

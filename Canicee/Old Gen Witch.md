@@ -1,5 +1,7 @@
 Subcategory for [[Witch]]
 
+Witches who witnessed the [[Rapture]]
+
 Members:
 [[Rhea - Witch of War]]
 [[🌱 Witch of Demonology]]

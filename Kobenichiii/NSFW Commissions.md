@@ -1,1 +1,1 @@
-[[NSFW Comic Commission]]
+Currently operating via Unifans
