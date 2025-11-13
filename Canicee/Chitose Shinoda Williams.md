@@ -13,6 +13,9 @@ Williams - Hailey Williams from Paramore
 
 She likes these music:
 - Paramore: Paramore, Riot, Brand New Eyes
+- Linkin Park: Hybrid Theory, Meteora, A Thousand Suns
+- 2000s music in general (Black Eyed Peas, Emo Bands, Alt Rock bands, White Girl Music)
+- Vocaloid Music: PinnochioP, DECO27, Inabakumori, 
 
 
 Quick bullet point summary of her back story 

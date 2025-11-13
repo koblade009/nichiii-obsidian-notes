@@ -8,3 +8,9 @@ Name reference:
 Bonnie - I love Jewelry Bonney from One Piece
 Davidsen - Not a reference to anything
 Merriweather - Merriweather Pavillion
+
+She likes these music:
+- Kanye West : The Life of Pablo, My Beautiful Dark Twisted Fantasy
+- Young Thug : Jefferey
+- Kendrick Lamar : Section80 , Good Kid MAAD City
+- 

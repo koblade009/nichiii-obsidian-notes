@@ -16,3 +16,4 @@ He loves these music:
 - Slowdive : Souvlaki
 - The Beatles
 - Nirvana : In Utero
+- Vocaloid Music: Kikuo
