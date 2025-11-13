@@ -12,4 +12,4 @@ Von Koenigsegg - From the car company Koenigsegg cuz I love cars [[Interests of 
 She loves these music:
 - Grimes: Art Angels
 - Poppy: I disagree
-- Aespa: Savage
+- KPop music: Aespa, Red Velvet, Twice, BTS

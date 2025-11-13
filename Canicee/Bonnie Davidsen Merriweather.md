@@ -10,7 +10,9 @@ Davidsen - Not a reference to anything
 Merriweather - Merriweather Pavillion
 
 She likes these music:
-- Kanye West : The Life of Pablo, My Beautiful Dark Twisted Fantasy
+- Kanye West : The Life of Pablo, My Beautiful Dark Twisted Fantasy, Kids See Ghost (with Cudi)
 - Young Thug : Jefferey
 - Kendrick Lamar : Section80 , Good Kid MAAD City
-- 
+- 2000s Pop and R&B (Justin Beiber, Nicki Minaj, Katy Perry, Chris Brown, etc)
+- Filipino HipHop : (exBatallion, Shanti Dope, Koykoy na Bugoy, Omar Baliw, CLR, Gloc9)
+- Filipino Rock Bands: (Parokya ni Edgar, Eraserheads,)
