@@ -12,6 +12,11 @@ Travelling with [[Corazon - Witch of Smoldering Blood]] and [[Mikah]]
 | [[Hat of the Witch of the Graves]] |
 | [[Spear of the Witch of the Graves]] |
 | [[Serpent Pocket]] |
+Abilities:
+- She has no offensive witchcraft abilities
+- She can sense souls of living beings
+- She can resonate with souls of living beings, making it easy for them to trust her
+
 
 History:
 Anyways right now, I'm thinking of making the witch of the graves' story a story about regrets. She hit a reset button and restarted her own lifecycle, forgeting everything shes done. But the consequences of her actions in the previous life remain. You can think of it as her hating herself so much that she wanted to have a chance to a new beginning. I want the new witch of the graves to be someone like phos. Someone who is essentially a blank slate but gets changed along the way. She is changed by the people she meets or the circumstances she face. Kinda like the ship of theseus.
