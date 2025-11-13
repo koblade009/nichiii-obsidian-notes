@@ -4,7 +4,7 @@
 
 
 Currently working in [[Lazulia]] as advisor
-Friend of [[🌱 Witch of War]]
+Friend of [[Rhea - Witch of War]]
 
 Fond of [[Sapphire]]
 

@@ -19,4 +19,20 @@ Other Groups
 
 # Canicee Index:
 
-Witchlands Characters:
+## Witchlands Characters:
+- [[Helen, Witch of the Graves]]
+- [[Mikah]]
+- [[Corazon, Witch of Smoldering Blood]]
+- [[Rhea - Witch of War]]
+- [[Witch of Sapphire]]
+- [[🌱 Witch of Halloween]]
+- [[🌱 Caroline]]
+- [[🌱 Mantis]]
+- [[🌱 Ed Pascual]]
+- [[🌱 Mafi the Destroyer]]
+
+## Golden Troupe Characters
+- [[John Merriweather Goldman]]
+- [[Bonnie Davidsen Merriweather]]
+- [[Zullie Frankenstein Von Koenigsegg]]
+- [[Chitose Shinoda Williams]]

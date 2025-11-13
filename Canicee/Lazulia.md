@@ -7,8 +7,8 @@ Districts:
 [[Pinas]]
 
 Inhabitants:
-[[🌱 Witch of War]]
-[[🌱 Witch of Sapphire]]
+[[Rhea - Witch of War]]
+[[Witch of Sapphire]]
 
 Forces:
 [[Blue Kingdom's Army]]

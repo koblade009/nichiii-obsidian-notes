@@ -7,7 +7,7 @@ Protagonist for Canicee Part 1
 Used to work as an [[Executioner]] for the [[Freedom from Wolves Lending Company]]
 Lives in [[Pinas]], a decrepit district of [[Lazulia]]
 
-She gains a different outlook on life due to [[⭐ Helen, Witch of the Graves]]
+She gains a different outlook on life due to [[Helen, Witch of the Graves]]
 
 [[Seal Count]]: 3
 
@@ -18,7 +18,7 @@ She gains a different outlook on life due to [[⭐ Helen, Witch of the Graves]]
 | [[T3 - Asura]] |
 
 Spells:
-[[T3 - Asura]] given to her by [[🌱 Corazon, Witch of Smoldering Blood]]
+[[T3 - Asura]] given to her by [[Corazon, Witch of Smoldering Blood]]
 
 Equipment:
 [[Bombproof Jacket]]

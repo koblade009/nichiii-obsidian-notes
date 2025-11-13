@@ -5,11 +5,15 @@
 Name: Rhea
 
 Currently working in [[Lazulia]] as head of military
-Friend of [[🌱 Witch of Sapphire]]
-
+Friend of [[Witch of Sapphire]]
 
 
 Battle Modes:
 [[Battle Mode - Halberd]]
 [[Battle Mode - Sword]]
 [[Battle Mode - Railgun]]
+
+![[Pasted image 20251113145946.png]]
+
+Rhea (Left), Corazon (Right)
+![[Pasted image 20251113150044.png]]

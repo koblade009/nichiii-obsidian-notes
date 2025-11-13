@@ -1,5 +1,5 @@
 List of Human characters:
-[[⭐ Mikah]]
+[[Mikah]]
 [[🌱 Simon]]
 [[🌱 Caroline]]
 

@@ -1,7 +1,7 @@
-Old friend of [[🌱 Noah]] and [[⭐ Mikah]], the three of them founded [[Freedom from Wolves Lending Company]]
+Old friend of [[🌱 Noah]] and [[Mikah]], the three of them founded [[Freedom from Wolves Lending Company]]
 He is an excellent swordsman, he weilds a scimitar
 [[🌱 Simon]] oversees the following:
-[[⭐ Mikah]]
+[[Mikah]]
 [[🌱 Saul]]
 [[🌱 Clarice Goodman]]
 

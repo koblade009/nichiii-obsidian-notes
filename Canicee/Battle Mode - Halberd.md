@@ -1,1 +1,1 @@
-Used by the [[🌱 Witch of War]] for fighting mobs of weak creatures
+Used by the [[Rhea - Witch of War]] for fighting mobs of weak creatures

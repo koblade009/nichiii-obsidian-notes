@@ -6,7 +6,7 @@ They provide loans of the lowest interest but unpaid loans comes at the cost of 
 Founding Members:
 [[🌱 Noah]]
 [[🌱 Simon]]
-[[⭐ Mikah]]
+[[Mikah]]
 
 Executives:
 [[🌱 Saul]]
