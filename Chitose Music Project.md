@@ -1,0 +1,2 @@
+# What is Chitose Music Project?
+I had this idea of turning [[Chitose Shinoda Williams]] into a virtual performer. Motivation for this is that there are some music that I really love that don't really get much covers by vtubers due to the genre not fitting well with weeb culture. Refer to [[21glucose]] value proposition.
