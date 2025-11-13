@@ -1,7 +1,7 @@
 List of Human characters:
 [[Mikah]]
 [[🌱 Simon]]
-[[🌱 Caroline]]
+[[Caroline]]
 
 
 List of [[Demihuman]]s

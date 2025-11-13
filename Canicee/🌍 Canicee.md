@@ -20,18 +20,19 @@ Other Groups
 # Canicee Index:
 
 ## Witchlands Characters:
-- [[Helen, Witch of the Graves]]
+- [[Helen - Witch of the Graves]]
 - [[Mikah]]
-- [[Corazon, Witch of Smoldering Blood]]
+- [[Corazon - Witch of Smoldering Blood]]
 - [[Rhea - Witch of War]]
-- [[Witch of Sapphire]]
-- [[🌱 Witch of Halloween]]
-- [[🌱 Caroline]]
-- [[🌱 Mantis]]
-- [[🌱 Ed Pascual]]
-- [[🌱 Mafi the Destroyer]]
+- [[Elise - Witch of Sapphire]]
+- [[Jill - Witch of Halloween]]
+- [[Caroline]]
+- [[Mantis - Mantis Demihuman]]
+- [[Elizabeth - Spider Demihuman]]
+- [[Ed Pascual - 2nd Outsider]]
+- [[Mafi the Destroyer - 1st Outsider]]
 
-## Golden Troupe Characters
+## Golden Troupe Characters:
 - [[John Merriweather Goldman]]
 - [[Bonnie Davidsen Merriweather]]
 - [[Zullie Frankenstein Von Koenigsegg]]

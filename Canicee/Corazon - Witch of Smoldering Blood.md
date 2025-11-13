@@ -2,10 +2,10 @@
 [[Witchcraft]]: manipulation of the body parts of [[Ancient Being]]s
 [[True Title]]: Scholar of [[Ancient Being]]s
 
-Travelling with [[Helen, Witch of the Graves]]
+Travelling with [[Helen - Witch of the Graves]]
 Part of the [[Old Gen Witch]]
 
-Trivia: Due to the fact the she carries [[Ancient Being]] body parts with her, her presence would passively slightly increase the [[Mana]] in the atmosphere. This is the reason for why [[Witch of Sapphire]] is quite fond and clingy of her.
+Trivia: Due to the fact the she carries [[Ancient Being]] body parts with her, her presence would passively slightly increase the [[Mana]] in the atmosphere. This is the reason for why [[Elise - Witch of Sapphire]] is quite fond and clingy of her.
 
 
 Equipment:

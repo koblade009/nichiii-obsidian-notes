@@ -1,4 +1,4 @@
 [[Demihuman]]
-Maid at the [[Dawn Winery]]
+Maid at the [[Winter Mansion]]
 
 ![[Pasted image 20240210070215.png]]

@@ -5,7 +5,7 @@
 Name: Rhea
 
 Currently working in [[Lazulia]] as head of military
-Friend of [[Witch of Sapphire]]
+Friend of [[Elise - Witch of Sapphire]]
 
 
 Battle Modes:

@@ -3,7 +3,7 @@
 [[True Title]]: Scholar of Emotions
 
 Used to be tutored by [[🌱 Witch of Demonology]]
-She is being hunted by [[🌱 Ed Pascual]]
+She is being hunted by [[Ed Pascual - 2nd Outsider]]
 
 She now resides at [[Pumpkin Village]]
 

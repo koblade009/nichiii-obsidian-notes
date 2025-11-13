@@ -3,7 +3,8 @@
 [[True Title]]: Scholar of [[Soul]]s
 
 Main Character of Canicee
-Travelling with [[Corazon, Witch of Smoldering Blood]] and [[Mikah]]
+Travelling with [[Corazon - Witch of Smoldering Blood]] and [[Mikah]] 
+
 
 | [[Items Equipped]]: |
 | ---- |

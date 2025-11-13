@@ -4,7 +4,7 @@ Inventory:
 [[Ed's Amulet]]
 
 Killed the [[🌱 Witch of Demonology]]
-Currently hunting the [[🌱 Witch of Halloween]]
+Currently hunting the [[Jill - Witch of Halloween]]
 Grieving and consumed by vengeance after the death of [[🌱 Yessica]]
 
 Abilities and Powers:

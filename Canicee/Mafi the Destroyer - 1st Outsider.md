@@ -1,6 +1,6 @@
 [[Outsider]]
 
-Somewhat associated with [[🌱 Ed Pascual]]
+Somewhat associated with [[Ed Pascual - 2nd Outsider]]
 Equipped with high tech items powered by [[Capella Energy]]
 
 Inventory:

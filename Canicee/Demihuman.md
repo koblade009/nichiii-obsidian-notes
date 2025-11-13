@@ -1,4 +1,5 @@
 List of Demihumans:
 [[🌱 Jardani]]
-[[🌱 Mantis]]
+[[Mantis - Mantis Demihuman]]
+[[Elizabeth - Spider Demihuman]]
 [[🌱 Refuella]]

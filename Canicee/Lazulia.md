@@ -8,7 +8,7 @@ Districts:
 
 Inhabitants:
 [[Rhea - Witch of War]]
-[[Witch of Sapphire]]
+[[Elise - Witch of Sapphire]]
 
 Forces:
 [[Blue Kingdom's Army]]
