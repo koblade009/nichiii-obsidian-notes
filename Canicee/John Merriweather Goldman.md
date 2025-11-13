@@ -2,8 +2,8 @@ Driving motivation: Pride
 
 Leader of [[Golden Troupe]]
 Close friend of [[Zullie Frankenstein Von Koenigsegg]] (She rescued him from a life of slavery)
-His closest friends were killed during his rescue
-Their names are: Mamon, Jeyd, Keken, Mark, Dave, Atan
+His closest friends got transported to another world during his rescue. Essentially losing all contacts. (Escape portal mishap)
+Their names are: Mamon, Soysoy, Pogi, Marktabz, Dabidi, Atan
 
 Name reference:
 John - Not a reference to anything. I wanted to name him "Mike Goldman" based on a username I use on a car game I used to play. However Mike just sounds too modern.

@@ -2,7 +2,7 @@ Considering:
 -  [[Clothing Prints]]
 -  Merchandising for [[Personal Projects of Nichiii]]
 -  [[Season of Obsession]] Fan Merch/Not just clothing prints (Needs to be studied best way to approach this)
-- [[Chitose Music Project]] - Music project < - This is not going to be significant. Moreso, I see this as a way to advertise merch since I plan to only draw for the sake of fun in the future.
+-  [[Chitose Music Project]] - Music project < - This is not going to be significant. Moreso, I see this as a way to advertise merch since I plan to only draw for the sake of fun in the future.
 
 Key points to consider before pursuing income sources:
 - Scalability
