@@ -3,8 +3,8 @@
 # Info
 Driving motivation: Laziness / Sloth
 
-Member of [[Golden Troupe]]
-Close friend of [[John Merriweather Goldman]] (She saved his life from slavery)
+Close friend of [[John Merriweather Goldman]] (She saved his life from slavery).
+Zullie and Goldman were apprentices of the same master. On one occasion, a group of bandits raided them, killed their master, other students, and kidnapped [[John Merriweather Goldman]]. She was able to escape. Upon hearing of the news, Goldman's friends came to her to ask her information about the bandits to stage a rescue mission. At the end of the rescue, only her and Goldman survived. Though, she still had to pay the price of mutated revival. 
 
 # Name reference:
 Zullie - From the FlyFF in-game character she's based on, named "WitchLazuli2e"
@@ -20,11 +20,14 @@ Von Koenigsegg - From the car company Koenigsegg cuz I love cars [[Interests of 
 	- Grimes: Art Angels
 	- Poppy: I disagree
 	- KPop music: Aespa, Red Velvet, Twice, BTS
-	- 
-	Other obsessions:
-- Cats
+- Other obsessions:
+	- Cats
 
-Abilities:
+# Abilities:
+- Magician spells:
+	- Blinkpool (Short range teleport)
+	- Mental strike (Inflicts mental pain)
+	- Rock Crash (Stun)
 - Psykeeper spells:
 	- Satanology (Roots enemy in place)
 	- Demonology (Disrupts enemy senses/ causes confusion)
