@@ -3,7 +3,10 @@
 Driving motivation: 
 Wants to become the best Battle Ringmaster in existence 
 
-Kuudere hothead, she has a really short temper, she's super sweet otherwise to those she trusts. Due to her mannerism (being generally expressionless), her tendency to use as few words as possible, and bluntness she
+Due to her mannerism (being generally expressionless), her tendency to use as few words as possible (and refusal to explain her side even when needed), and bluntness, she often finds herself in conflict with other people. People distrust her and think she's looking down on them even when she's trying to be genuine. 
+Years of being casted as the villain gave her mental issues. In turn, she now distrusts most people and constantly judges them if they're genuine sorta like a self-fulfilling prophecy. She holds hatred to unknown people by default so her temper tends to be short when she felt she's been done wrong.
+
+She has a few people that she trusts. And with them, she's 
 
 Cousin of [[John Merriweather Goldman]]
 Best friend of [[Chitose Shinoda Williams]]
