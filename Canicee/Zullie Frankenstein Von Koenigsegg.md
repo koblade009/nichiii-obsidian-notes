@@ -22,3 +22,15 @@ She loves these music:
 
 Other obsessions:
 - Cats
+
+Abilities:
+- Psykeeper spells:
+	- Satanology (Roots enemy in place)
+	- Demonology (Disrupts enemy senses/ causes confusion)
+	- Psychic Bomb (Stun)
+	- Spirit Bomb (Damage)
+	- Psychic Wall (Pushes enemies away)
+	- Maximum Crisis (Damages and stuns around her. Damages herself and allies.)
+	- Crucio Spell (Damage inflicted on her is also inflicted on enemy)
+- Physically weak:
+	- Her lungs has been badly 

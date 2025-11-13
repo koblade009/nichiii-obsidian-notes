@@ -23,3 +23,9 @@ Hobbies:
 - Pro Wrestling WWE
 - Basketball
 - Riding her BMX bike
+
+Abilities:
+- Ringmaster abilities: 
+	- Supportive Enhancement Spells
+	- Healing Spells
+	- Resurrection (Standard)

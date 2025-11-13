@@ -21,3 +21,8 @@ Hobbies:
 - Gardening
 - Carpentry / Engineering / Architecture
 - MotoGP (He likes Marc Marquez and Fabio Quartararo)
+
+Abilities:
+- Physical Strength
+- Healing Spell (Low level)
+- Perfect Resurrection

@@ -25,6 +25,8 @@ Hobbies:
 - Drawing
 - Lurking on internet imageboards
 
+Abilities:
+- Physical strength
 
 Quick bullet point summary of her back story 
 ![](https://pbs.twimg.com/media/Gxmr9dCawAQs1PK?format=jpg&name=4096x4096)
