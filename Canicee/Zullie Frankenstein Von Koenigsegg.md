@@ -4,7 +4,7 @@
 Driving motivation: Laziness / Sloth
 
 Close friend of [[John Merriweather Goldman]] (She saved his life from slavery).
-Zullie and Goldman were apprentices of the same master. On one occasion, a group of bandits raided them, killed their master, other students, and kidnapped [[John Merriweather Goldman]]. She was able to escape. Upon hearing of the news, Goldman's friends came to her to ask her information about the bandits to stage a rescue mission. At the end of the rescue, only her and Goldman survived. Though, she still had to pay the price of mutated revival. 
+Zullie and Goldman were apprentices of the same master. On one occasion, a group of bandits, the [[Grim Reapers]] raided them, killed their master, other students, and kidnapped [[John Merriweather Goldman]]. She was able to escape. Upon hearing of the news, Goldman's friends came to her to ask her information about the bandits to stage a rescue mission. At the end of the rescue, only her and Goldman survived. Though, she still had to pay the price of mutated revival. 
 
 # Name reference:
 Zullie - From the FlyFF in-game character she's based on, named "WitchLazuli2e"

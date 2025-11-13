@@ -6,6 +6,8 @@ Driving motivation: Greed
 Best friend of [[Bonnie Davidsen Merriweather]]
 Member of [[Golden Troupe]]
 
+She lost her parents (Both of which are blades) during a crossing on an area with a broken lodelight. This was orchestrated by a sp
+
 # Name reference:
 - Chitose - from the FlyFF character this is based on named Nichiii01 (I just wanted a name that can be called Chi-chan)
 - Shinoda - Mike Shinoda from Linkin Park
