@@ -6,7 +6,7 @@ Driving motivation: Greed
 Best friend of [[Bonnie Davidsen Merriweather]]
 Member of [[Golden Troupe]]
 
-She lost her parents (Both of which are blades) during a crossing on an area with a broken lodelight. This was orchestrated by a sp
+She lost her parents (Both of which are blades) during a crossing on an area with a broken lodelight. This was orchestrated by a specific guild [[Fortune Finders]] who had bad blood with her parents who are prominent members of a rival guild. She was able to get to a lodelight area but still got killed there which resulted in her permanently losing her left eye due to [[Revival Mutation]]. 
 
 # Name reference:
 - Chitose - from the FlyFF character this is based on named Nichiii01 (I just wanted a name that can be called Chi-chan)
