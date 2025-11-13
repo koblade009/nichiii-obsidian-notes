@@ -33,4 +33,6 @@ Abilities:
 	- Maximum Crisis (Damages and stuns around her. Damages herself and allies.)
 	- Crucio Spell (Damage inflicted on her is also inflicted on enemy)
 - Physically weak:
-	- Her lungs has been badly 
+	- Her lungs has been badly mutilated. As such she is runs out of breath VERY easily.
+	- Mutilated heart. 
+	- Anemia

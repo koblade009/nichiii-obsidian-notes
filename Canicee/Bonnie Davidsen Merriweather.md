@@ -26,6 +26,18 @@ Hobbies:
 
 Abilities:
 - Ringmaster abilities: 
-	- Supportive Enhancement Spells
-	- Healing Spells
+	- Supportive Enhancement Spells:
+		- Geburah Tipreth - Enhances speed
+		- Beef Up - Enhances muscle mass
+		- Cat's Reflex - Increases reaction time
+	- Supportive Spells:
+		- Holyguard - Protects from one instance of damage
+		- Gvur Tialla - Cleanse ailments or at least lessens severity
+	- Healing Spells:
+		- Standard Heal
+		- Heal Rain
 	- Resurrection (Standard)
+	- Offensive Spells:
+		- Moonbeam - 
+		- Merkaba Hanzelrusha - Strong offensive spell. Area of effect.
+		- Holycross - Instance of damage is inflicted twice
