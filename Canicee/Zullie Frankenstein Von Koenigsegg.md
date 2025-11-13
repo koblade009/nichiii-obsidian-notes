@@ -1,5 +1,6 @@
 
 Driving motivation: Laziness / Sloth
+
 Member of [[Golden Troupe]]
 Close friend of [[John Merriweather Goldman]] (She saved his life from slavery)
 
@@ -9,7 +10,14 @@ Frankenstein - From Viktor Frankenstein. I initially thought of her as super int
 Von Koenigsegg - From the car company Koenigsegg cuz I love cars [[Interests of Nichiii]]
 
 
+Hobbies:
+- Watching anime and reading manga (She loves horror manga in particular)
+- Listening to true crime and horror podcasts
+
 She loves these music:
 - Grimes: Art Angels
 - Poppy: I disagree
 - KPop music: Aespa, Red Velvet, Twice, BTS
+
+Other obsessions:
+- Cats

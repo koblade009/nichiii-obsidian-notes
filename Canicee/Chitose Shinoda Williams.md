@@ -19,6 +19,11 @@ She likes these music:
 - Vocaloid Music: PinnochioP, DECO27, Inabakumori, 
 - Nikke OST
 
+Hobbies:
+- Singing
+- Playing the guitar
+- Drawing
+
 
 Quick bullet point summary of her back story 
 ![](https://pbs.twimg.com/media/Gxmr9dCawAQs1PK?format=jpg&name=4096x4096)

@@ -17,3 +17,8 @@ He loves these music:
 - The Beatles
 - Nirvana : In Utero
 - Vocaloid Music: Kikuo
+
+Hobbies:
+- Gardening
+- Carpentry / Engineering
+- MotoGP (His )

@@ -1,5 +1,6 @@
 Driving motivation: Wants to become the best Battle Ringmaster in existence 
-Flaw: Emotions tend to get out of control
+
+Kuudere hothead, she has a really short temper, she's super sweet otherwise tho
 
 Cousin of [[John Merriweather Goldman]]
 Best friend of [[Chitose Shinoda Williams]]
@@ -15,4 +16,10 @@ She likes these music:
 - Kendrick Lamar : Section80 , Good Kid MAAD City
 - 2000s Pop and R&B (Justin Beiber, Nicki Minaj, Katy Perry, Chris Brown, etc)
 - Filipino HipHop : (exBatallion, Shanti Dope, Koykoy na Bugoy, Omar Baliw, CLR, Gloc9)
-- Filipino Rock Bands: (Parokya ni Edgar, Eraserheads,)
+- Filipino Rock Bands: (Parokya ni Edgar, Eraserheads, December Avenue, Sponge Cola)
+
+Hobbies:
+- Watching contact sports: Boxing and MMA
+- Pro Wrestling WWE
+- Basketball
+- Riding her BMX bike
