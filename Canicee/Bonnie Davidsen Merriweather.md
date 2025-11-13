@@ -1,7 +1,6 @@
-
+[[Golden Troupe]]
 # Info: 
-Driving motivation: 
-Competitive nature
+Driving motivation: Competitive nature
 
 Due to her mannerism (being generally expressionless), competitive nature, her tendency to use as few words as possible (and refusal to explain her side even when needed), and bluntness, she often finds herself in conflict with other people. People distrust her and think she's looking down on them even when she's trying to be genuine. 
 Years of being casted as the villain gave her mental issues. In turn, she now distrusts most people and constantly judges them if they're genuine sorta like a self-fulfilling prophecy. She holds hatred and distrust to unknown people by default so her temper tends to be short when she felt she's been done wrong.
