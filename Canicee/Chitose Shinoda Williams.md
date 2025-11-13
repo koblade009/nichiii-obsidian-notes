@@ -27,6 +27,10 @@ Hobbies:
 
 Abilities:
 - Physical strength
+- Blade Skills:
+	- Rending Entry - Moves towards a target so fast, it creates a shockwave
+	- Silent Strike - Pounce to an enemy silently
+	- Armor Penetrate
 
 Quick bullet point summary of her back story 
 ![](https://pbs.twimg.com/media/Gxmr9dCawAQs1PK?format=jpg&name=4096x4096)

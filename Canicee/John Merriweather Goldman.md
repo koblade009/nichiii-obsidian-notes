@@ -1,6 +1,7 @@
 Driving motivation: Pride
 
 Leader of [[Golden Troupe]]
+Cousin of [[Bonnie Davidsen Merriweather]]
 Close friend of [[Zullie Frankenstein Von Koenigsegg]] (She rescued him from a life of slavery)
 His closest friends got transported to another world during his rescue. Essentially losing all contacts. (Escape portal mishap)
 Their names are: Mamon, Soysoy, Pogi, Marktabz, Dabidi, Atan
@@ -26,3 +27,8 @@ Abilities:
 - Physical Strength
 - Healing Spell (Low level)
 - Perfect Resurrection
+- Billposter spell:
+	- Asalraalaikum - Nuke, consumes everything
+	- Sonichand - Fast punches
+	- Burst Crack - AoE
+	- Stonehand - His attacks can stun
