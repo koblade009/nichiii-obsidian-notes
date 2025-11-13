@@ -1,15 +1,12 @@
 
 # Info: 
 Driving motivation: 
-Wants to become the best Battle Ringmaster in existence 
+Competitive nature
 
-Due to her mannerism (being generally expressionless), her tendency to use as few words as possible (and refusal to explain her side even when needed), and bluntness, she often finds herself in conflict with other people. People distrust her and think she's looking down on them even when she's trying to be genuine. 
-Years of being casted as the villain gave her mental issues. In turn, she now distrusts most people and constantly judges them if they're genuine sorta like a self-fulfilling prophecy. She holds hatred to unknown people by default so her temper tends to be short when she felt she's been done wrong.
+Due to her mannerism (being generally expressionless), competitive nature, her tendency to use as few words as possible (and refusal to explain her side even when needed), and bluntness, she often finds herself in conflict with other people. People distrust her and think she's looking down on them even when she's trying to be genuine. 
+Years of being casted as the villain gave her mental issues. In turn, she now distrusts most people and constantly judges them if they're genuine sorta like a self-fulfilling prophecy. She holds hatred and distrust to unknown people by default so her temper tends to be short when she felt she's been done wrong.
 
-She has a few people that she trusts. And with them, she's 
-
-Cousin of [[John Merriweather Goldman]]
-Best friend of [[Chitose Shinoda Williams]]
+She has a few people that she trusts, whom she's sweet and caring. Chief among them is [[John Merriweather Goldman]], her cousin, who has treated her with nothing but love and care since childhood (He spoils her with gifts and also takes interest in stuff that she's into). She is fond of [[Zullie Frankenstein Von Koenigsegg]] for saving [[John Merriweather Goldman]] from a life of slavery. And she is also fond of [[Chitose Shinoda Williams]] for being with her unconditionally through hardships.
 
 # Name reference:
 - Bonnie - I love Jewelry Bonney from One Piece
