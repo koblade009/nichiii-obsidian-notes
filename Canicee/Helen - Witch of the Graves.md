@@ -7,15 +7,16 @@
 Travelling with [[Corazon - Witch of Smoldering Blood]] and [[Mikah]] 
 [[Outcast Trio]]
 
-| [[Items Equipped]]: |
-| ---- |
-| [[Hat of the Witch of the Graves]] |
+| [[Items Equipped]]:                  |
+| ------------------------------------ |
+| [[Hat of the Witch of the Graves]]   |
 | [[Spear of the Witch of the Graves]] |
-| [[Serpent Pocket]] |
+| [[Serpent Pocket]]                   |
 Abilities:
-- She has no offensive witchcraft abilities
+- She has no offensive witchcraft abilities, she wields a spear instead of a staff for this reason
 - She can sense souls of living beings
-- She can resonate with souls of living beings, making it easy for them to trust her
+- She can resonate with souls of living beings, making them feel more at ease with her (Only works if said beings don't see her as a threat) . More importantly, she can feel how a person is feeling by doing this.
+- She's really good at chucking the pointy end of her hat towards an enemy
 
 
 History:
