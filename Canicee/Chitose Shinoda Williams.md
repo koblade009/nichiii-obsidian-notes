@@ -28,9 +28,13 @@ Hobbies:
 Abilities:
 - Physical strength
 - Blade Skills:
-	- Rending Entry - Moves towards a target so fast, it creates a shockwave
-	- Silent Strike - Pounce to an enemy silently
-	- Armor Penetrate
+	- Silent Strike - Pounce to an enemy silently, long cast time
+	- Armor Penetrate - Shred's enemy armor
+	- Sonic Blade -  Smashes both blades at full force creating an explosion, long cast time
+	- Guillotine - Ranged attack, launches shockwave toward enemy, long cast time
+	- Cross Strike - Concentrated direct strike using both blades. Her strongest attack
+	- Hit Reflect - Defensive stance, counters enemy when they attack
+	-  Rending Entry - Leaps towards a target at full force, it creates a shockwave, long cooldown
 
 Quick bullet point summary of her back story 
 ![](https://pbs.twimg.com/media/Gxmr9dCawAQs1PK?format=jpg&name=4096x4096)
