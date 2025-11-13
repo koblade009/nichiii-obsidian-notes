@@ -23,6 +23,7 @@ Hobbies:
 - Singing
 - Playing the guitar
 - Drawing
+- Lurking on internet imageboards
 
 
 Quick bullet point summary of her back story 

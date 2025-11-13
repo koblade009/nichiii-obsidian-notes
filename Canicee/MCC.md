@@ -1,1 +1,1 @@
-[[🌱 Witch of Smoldering Blood]]
+[[🌱 Corazon, Witch of Smoldering Blood]]

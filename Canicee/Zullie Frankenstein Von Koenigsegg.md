@@ -12,7 +12,8 @@ Von Koenigsegg - From the car company Koenigsegg cuz I love cars [[Interests of 
 
 Hobbies:
 - Watching anime and reading manga (She loves horror manga in particular)
-- Listening to true crime and horror podcasts
+- Listening to true crime and horror podcasts, horror reviews (Faves: KyotoRobato, MrBallen, HorrorMine)
+- Shitposting on internet image boards
 
 She loves these music:
 - Grimes: Art Angels
