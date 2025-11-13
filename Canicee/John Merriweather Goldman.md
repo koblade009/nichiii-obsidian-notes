@@ -6,6 +6,8 @@ Close friend of [[Zullie Frankenstein Von Koenigsegg]] (She rescued him from a l
 His closest friends got transported to another world during his rescue. Essentially losing all contacts. (Escape portal mishap)
 Their names are: Mamon, Soysoy, Pogi, Marktabz, Dabidi, Atan
 
+Even though he's the leader, the only person he can reliably command is [[Chitose Shinoda Williams]]. [[Zullie Frankenstein Von Koenigsegg]] tends to disobey him due to her wanting to avoid work as much as possible. And [[Bonnie Davidsen Merriweather]] also tends to disobey him cuz she's a bit spoiled, not only that, he tends to give her special treatment willingly anyways.
+
 Name reference:
 John - Not a reference to anything. I wanted to name him "Mike Goldman" based on a username I use on a car game I used to play. However Mike just sounds too modern.
 Merriweather - Merriweather Pavillion

@@ -6,7 +6,7 @@ Driving motivation: Greed
 Best friend of [[Bonnie Davidsen Merriweather]]
 Member of [[Golden Troupe]]
 
-Name reference:
+# Name reference:
 Chitose - from the FlyFF character this is based on named Nichiii01 (I just wanted a name that can be called Chi-chan)
 Shinoda - Mike Shinoda from Linkin Park
 Williams - Hailey Williams from Paramore
@@ -19,13 +19,13 @@ She likes these music:
 - Vocaloid Music: PinnochioP, DECO27, Inabakumori, 
 - Nikke OST
 
-Hobbies:
+# Hobbies:
 - Singing
 - Playing the guitar
 - Drawing
 - Lurking on internet imageboards
 
-Abilities:
+# Abilities:
 - Physical strength
 - Blade Skills:
 	- Silent Strike - Pounce to an enemy silently, long cast time
@@ -35,6 +35,10 @@ Abilities:
 	- Cross Strike - Concentrated direct strike using both blades. Her strongest attack
 	- Hit Reflect - Defensive stance, counters enemy when they attack
 	-  Rending Entry - Leaps towards a target at full force, it creates a shockwave, long cooldown
+
+# Relationships:
+- [[Bonnie Davidsen Merriweather]] - She is her best friend
+- [[Zullie Frankenstein Von Koenigsegg]] - She treats Zullie as a senpai. Also they 
 
 Quick bullet point summary of her back story 
 ![](https://pbs.twimg.com/media/Gxmr9dCawAQs1PK?format=jpg&name=4096x4096)
