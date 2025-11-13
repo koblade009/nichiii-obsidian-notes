@@ -4,7 +4,7 @@
 
 Main Character of Canicee
 Travelling with [[Corazon - Witch of Smoldering Blood]] and [[Mikah]] 
-
+[[Outcast Trio]]
 
 | [[Items Equipped]]: |
 | ---- |

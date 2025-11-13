@@ -15,5 +15,8 @@ Battle Modes:
 
 ![[Pasted image 20251113145946.png]]
 
-Rhea (Left), Corazon (Right)
+Friendship with [[Elise - Witch of Sapphire]]
+![[Pasted image 20251113151923.png]]
+
+Rivalry with [[Corazon - Witch of Smoldering Blood]]
 ![[Pasted image 20251113150044.png]]

@@ -9,6 +9,9 @@ Used to work as an [[Executioner]] for the [[Freedom from Wolves Lending Company
 Lives in [[Pinas]], a decrepit district of [[Lazulia]]
 
 She gains a different outlook on life due to [[Helen - Witch of the Graves]]
+![[Pasted image 20251113151452.png]]
+
+
 
 [[Seal Count]]: 3
 

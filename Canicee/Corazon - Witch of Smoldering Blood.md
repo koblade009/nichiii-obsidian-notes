@@ -13,5 +13,9 @@ Equipment:
 [[Ancient Being's Claw]]
 [[Ancient Being's Eye]]
 
-Rhea (Left), Corazon (Right)
+She hardens the blood to form a suit when entering human settlements
+![[Pasted image 20251113151522.png]]
+Travelling with [[Helen - Witch of the Graves]]
+![[Pasted image 20251113151513.png]]
+Rivalry with [[Rhea - Witch of War]]
 ![[Pasted image 20251113150044.png]]
