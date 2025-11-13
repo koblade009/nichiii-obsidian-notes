@@ -1,0 +1,1 @@
+An ability to resurrect someone without them suffering the effects of [[Revival Mutation]]

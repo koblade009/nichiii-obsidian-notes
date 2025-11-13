@@ -1,6 +1,6 @@
 
 # Info:
-Established by [[John Merriweather Goldman]] as his means of accumulating wealth. Motivated by his desire for vengeance against the [[Grim Reapers |people]] who kidnapped him, tortured him, killed his closest friends, and plotted to turn him into a slave for his perfect resurrection ability.
+Established by [[John Merriweather Goldman]] as his means of accumulating wealth. Motivated by his desire for vengeance against the [[Reapers|people]] who kidnapped, tortured him, killed his closest friends, and plotted to turn him into a slave for his [[Perfect Resurrection]] ability.
 
 # Members:
 - [[John Merriweather Goldman]] - Chief Executive Officer

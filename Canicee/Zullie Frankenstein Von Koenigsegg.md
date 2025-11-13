@@ -4,7 +4,7 @@
 Driving motivation: Laziness / Sloth
 
 Close friend of [[John Merriweather Goldman]] (She saved his life from slavery).
-Zullie and Goldman were apprentices of the same master. On one occasion, a group of bandits, the [[Grim Reapers]] raided them, killed their master, other students, and kidnapped [[John Merriweather Goldman]]. She was able to escape. Upon hearing of the news, Goldman's friends came to her to ask her information about the bandits to stage a rescue mission. At the end of the rescue, only her and Goldman survived. Though, she still had to pay the price of mutated revival. 
+Zullie and Goldman were apprentices of the same master. On one occasion, a group of bandits, the [[Reapers]] raided them, killed their master, other students, and kidnapped [[John Merriweather Goldman|Goldman]]. She was able to escape. Upon hearing of the news, [[John Merriweather Goldman|Goldman]]'s friends came to her to ask her information about the bandits to stage a rescue mission. At the end of the rescue, only her and [[John Merriweather Goldman|Goldman]] survived. Though, she still had to pay the price of [[Revival Mutation]]
 
 # Name reference:
 Zullie - From the FlyFF in-game character she's based on, named "WitchLazuli2e"
@@ -37,6 +37,6 @@ Von Koenigsegg - From the car company Koenigsegg cuz I love cars [[Interests of 
 	- Maximum Crisis (Damages and stuns around her. Damages herself and allies.)
 	- Crucio Spell (Damage inflicted on her is also inflicted on enemy)
 - Physically weak:
-	- Her lungs has been badly mutilated. As such she is runs out of breath VERY easily.
-	- Mutilated heart. 
+	- Her lungs has been badly mutilated. As such she is runs out of breath VERY easily. [[Revival Mutation]]
+	- Mutilated heart.  [[Revival Mutation]]
 	- Anemia

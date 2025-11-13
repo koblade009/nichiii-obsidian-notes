@@ -31,7 +31,7 @@ Goldman - See John
 # Abilities:
 - Physical Strength
 - Healing Spell (Low level)
-- Perfect Resurrection
+- [[Perfect Resurrection]]
 - Billposter spell:
 	- Asalraalaikum - Nuke, consumes everything
 	- Sonichand - Fast punches

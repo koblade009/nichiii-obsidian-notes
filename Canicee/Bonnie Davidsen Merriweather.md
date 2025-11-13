@@ -42,7 +42,7 @@ She has a few people that she trusts, whom she's sweet and caring. Chief among t
 		- Standard Heal
 		- Circle Healing
 		- Heal Rain
-	- Resurrection (Standard)
+	- [[Resurrection]]
 	- Offensive Spells:
 		- Moonbeam - Damage over time, single target
 		- Merkaba Hanzelrusha - Strong offensive spell. Area of effect.
