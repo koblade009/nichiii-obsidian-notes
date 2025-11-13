@@ -1,3 +1,5 @@
+[[🌍 Canicee]]
+
 List of Demihumans:
 [[🌱 Jardani]]
 [[Mantis - Mantis Demihuman]]

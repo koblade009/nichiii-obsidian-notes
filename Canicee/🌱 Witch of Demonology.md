@@ -3,3 +3,4 @@
 [[True Title]]: Scholar of Subjugation
 
 Killed [[Ed Pascual - 2nd Outsider]]'s girlfriend, [[🌱 Yessica]] 
+Mentor of [[Jill - Witch of Halloween]]

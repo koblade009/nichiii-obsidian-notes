@@ -1,8 +1,9 @@
+[[🌍 Canicee]]
 [[Witch]], [[New Gen Witch]]
 [[Witchcraft]]: Manipulation of the [[Soul]] of living creatures
 [[True Title]]: Scholar of [[Soul]]s
 
-Main Character of Canicee
+
 Travelling with [[Corazon - Witch of Smoldering Blood]] and [[Mikah]] 
 [[Outcast Trio]]
 

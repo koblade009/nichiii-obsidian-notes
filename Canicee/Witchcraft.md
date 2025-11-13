@@ -1,2 +1,2 @@
 Part of Canicee's [[Magic System]]
-Unique for [[Witch]]
+Unique for [[Witch]]es

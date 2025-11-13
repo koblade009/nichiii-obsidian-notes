@@ -1,6 +1,6 @@
 [[Witch]], [[New Gen Witch]]
-[[Witchcraft]]: Manipulation of emotions
-[[True Title]]: Scholar of Emotions
+[[Witchcraft]]: Golem creation
+[[True Title]]: Scholar of Golems
 
 Used to be tutored by [[🌱 Witch of Demonology]]
 She is being hunted by [[Ed Pascual - 2nd Outsider]]

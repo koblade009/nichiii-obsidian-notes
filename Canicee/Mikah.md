@@ -1,3 +1,4 @@
+[[🌍 Canicee]]
 [[Human]]
 [[Outcast Trio]]
 
