@@ -5,6 +5,7 @@
 
 
 I think this is important so that I don't entirely lose my marbles. 
+This doesn't violate [[Core Values of Nichiii]] #1
 
 # Proposed changes:
 ## [[NSFW Commissions]]

@@ -1,9 +1,8 @@
 
-# Current:
-
+## Current:
 - [[21glucose]]
 - [[NSFW Commissions]]
 - [[SFW Commissions]]
-# No go:
-- Fanbox
+## Won't do:
+- Fanbox/Patreon/Subscribestar etc. 
 
