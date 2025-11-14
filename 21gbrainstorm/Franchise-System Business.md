@@ -3,21 +3,19 @@
 Refer to this video:
 ![](https://youtu.be/wnsU-9YPGow)
 
-Takeaways:
+## Takeaways:
 - Real business is built on systems not people.
 - I'm stressed out with my art commissions because I handle everything: Customer Service (Spending time with clients), Manufacturing (Drawing), Marketing (Being active on twitter), Business Planning etc. This is the reason why my art commissions always fail because I burn out after just doing a few.
 - Hustle/grind is not a good business strategy because your business dies the moment you get sick, get flooded/ravaged by typhoon or anything happens at all that prevents you from putting in work. Building a system that lets your business run like clockwork is the way to go.
 - Systems = Repeatable process that guarantees the same result every.single.time.
 - Think: How can someone do this without me?
+- The caveat tho is that this relies on labor from other people, which is something I couldn't afford just yet. 
 
 
-The caveat tho is that this relies on labor from other people, which is something I couldn't afford just yet. 
-
-Therefore I think the workaround for this would be to simplify/eliminate as much steps as possible from the process.
 
 ---
-v Obsolete refer to -> [[Scaling back on operations 01]]
 
+## ~~Brainstorming:~~
 ~~To be clear, I don't think this thing is at all applicable to commissions. Commissions I feel are just inherently not scalable. Which is why 21glucose is likely never going to sell services. Only products. Hence, why these two are under my personal name [[nichiii]]~~
 
 ~~[[SFW Commissions]]~~
@@ -60,9 +58,5 @@ v Obsolete refer to -> [[Scaling back on operations 01]]
 
 
 ~~There's nothing wrong with step by step wips and revisions. I think it's necessary for certain projects. Especially with design work. But due to the amount of workload it adds, I feel like it should just be reserved for commercial use art.~~ 
-
-
-~~I don't know tho, I think I'm just really burnt out. I really don't think commissions are a good fit for me. I love drawing, but other things involved with commission work makes me hate drawing. But hey, that's just life. There's always something to be upset about if you look for it.~~
-
-~~I don't know man. I don't know... T_T~~
-
+### Edit:
+==This is obsolete refer to -> [[Scaling back on operations 01]]==
