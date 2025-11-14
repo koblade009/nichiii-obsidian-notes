@@ -1,14 +1,14 @@
 
-[[0021gbrnstrm index|Index]]
+## [[0021gbrnstrm index|Business Journal Index]]
 
 
 
-# Key points to consider before pursuing income sources:
+## Key points to consider before pursuing income sources:
 - Scalability
 - Ease
 - Can be replicated reliably
 
-# Currently considering:
+## Currently considering:
 -  [[Clothing Prints]]
 -  Merchandising for [[Personal Projects of Nichiii]]
 -  [[Season of Obsession]] Fan Merch/Not just clothing prints (Needs to be studied best way to approach this)
@@ -20,4 +20,4 @@
 - YouTube <- Mayhaps? Dunno tho. It is very scalable though.
 
 # Absolute no-go:
- - Streaming <- I am not good at this
+ - Streaming 

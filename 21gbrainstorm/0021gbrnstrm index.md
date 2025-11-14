@@ -1,5 +1,5 @@
 
-# Business notes/study index
+## Business notes/study index
 - [[Franchise-System Business]]
-- [[Skill issue]]
+- [[Notes on Diagnosis-ProblemSolving-ValueCreation]]
 - [[Scaling back on operations]]
