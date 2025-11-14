@@ -15,6 +15,8 @@ The caveat tho is that this relies on labor from other people, which is somethin
 
 Therefore I think the workaround for this would be to simplify/eliminate as much steps as possible from the process.
 
+---
+
 [[SFW Commissions]]
 [[NSFW Commissions]]
 
@@ -34,7 +36,7 @@ Currently:
 13. Wait till they approve it manually so that I can get paid. If not I'm fucked. <- This is a specific issue with unifans
 14. I get paid, I thank the client
 
-Streamlined:
+Streamlined a bit:
 1. Client sends me info, and how much they're willing to pay for it
 2. I approve it or decline it
 3. If approve, draw it
@@ -44,4 +46,13 @@ Streamlined:
 7. Wait till they approve it manually so that I can get paid. If not I'm fucked. <- This is a specific issue with unifans
 8. I get paid, I thank the client
 
-There are still problems with this, consider the client side, they're not sure if they're going to get their money's worth. And they'll also worry about whether they're underpaying
+There are still problems with this, consider the client side, they're not sure if they're going to get their money's worth. And they'll also worry about whether they're underpaying or overpaying the artist. It requires trust, tho tbh, if a client doesn't trust me, they really shouldn't try commissioning me in the first place.
+
+The ideal scenario is really the Skeb model. Japanese artists are blessed:
+1. Client gives info and how much they're willing to pay for it.
+2. Artist approve or declines request.
+3. If approved, artist draws picture.
+4. Delivery, with a thank you on it attached. 
+
+
+There's nothing wrong with step by step wips and revisions. I think it's necessary for certain projects. Especially with design work. But due to the amount of workload it adds, I feel like it should just be reserved for commercial use art. 
