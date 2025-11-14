@@ -17,7 +17,10 @@ Therefore I think the workaround for this would be to simplify/eliminate as much
 
 ---
 
+To be clear, I don't think this thing is at all applicable to commissions. Commissions I feel are just inherently not scalable. Which is why 21glucose is likely never going to sell services. Only products. Hence, why these two are under my personal name [[nichiii]]
+
 [[SFW Commissions]]
+
 [[NSFW Commissions]]
 
 Currently:
@@ -56,3 +59,6 @@ The ideal scenario is really the Skeb model. Japanese artists are blessed:
 
 
 There's nothing wrong with step by step wips and revisions. I think it's necessary for certain projects. Especially with design work. But due to the amount of workload it adds, I feel like it should just be reserved for commercial use art. 
+
+
+I don't know tho, I think I'm just really burnt out. I really don't think commissions are a good fit for me. I love drawing, but other things involved with commission work makes me hate drawing. But hey, that's just life. There's always something to be upset about if you look for it.
