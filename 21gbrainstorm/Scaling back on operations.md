@@ -26,3 +26,5 @@ Therefore eventually, [[Businesses of Nichiii]] is just going to be:
 - NIKKE Skeb via Unifans
 
 I'd be losing out on sales for sure. I prolly won't even get ANY commissions. But I think it's better to put myself at risk for a potential future where I'm happy compared to a certain future of me being constantly miserable.
+
+Eitherway, if I don't get commissions, it also means more time to work on developing [[21glucose]]
