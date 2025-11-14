@@ -9,4 +9,6 @@ Referencing this video:
 - ... (cont.) instead,  focus on being good at knowing what x business is suffering from and then coming up with a solution for it. (In this video's case, communicate that problem to an AI so that they'll come up with a solution for it.)
 	- What not to focus: technical mastery (tool usage), processes, workflows, etc.
 	- What to focus: Understanding business systems & patterns in value creation 
-- Technical skills is not everything, it's just a part of what makes a system work. It's required 100%. But, it's important not to get lost in the sauce
+- Technical skills is not everything, it's just a part of what makes a system work. It's required 100%. But, it's important not to get lost in the sauce I guess, is one way to put it. It's super important to be able to diagnose problems and provide solutions. 
+- Also, aside from problem-solving, understanding value creation is super important. 
+	- Instead of complaining about my art not standing a chance when 
