@@ -1,0 +1,9 @@
+
+
+Refer to this video:
+![](https://youtu.be/wnsU-9YPGow)
+
+Takeaways:
+- Real business is built on systems not people
+- I'm stressed out with my art commissions because I handle everything: Customer Service (Spending time with clients), Manufacturing (Drawing), Marketing (Being active on twitter), Business Planning etc. This is the reason why my art commissions always fail because I burn out after just doing a few.
+

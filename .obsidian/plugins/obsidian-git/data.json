@@ -1,5 +1,5 @@
 {
-  "commitMessage": "Updated by nichiii",
+  "commitMessage": "auto {{hostname}} - {{date}} ",
   "autoCommitMessage": "vault backup: {{date}}",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",

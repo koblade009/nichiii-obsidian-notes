@@ -1,3 +1,7 @@
+
+Some notes:
+- [[Franchise-System Business]]
+
 Considering:
 -  [[Clothing Prints]]
 -  Merchandising for [[Personal Projects of Nichiii]]
