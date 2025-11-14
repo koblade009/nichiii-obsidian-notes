@@ -2,4 +2,4 @@
 ## Business notes/study index
 - [[Franchise-System Business]]
 - [[Notes on Diagnosis-ProblemSolving-ValueCreation]]
-- [[Scaling back on operations]]
+- [[Scaling back on operations 01]]

@@ -16,7 +16,7 @@ The caveat tho is that this relies on labor from other people, which is somethin
 Therefore I think the workaround for this would be to simplify/eliminate as much steps as possible from the process.
 
 ---
-v Obsolete refer to -> [[Scaling back on operations]]
+v Obsolete refer to -> [[Scaling back on operations 01]]
 
 ~~To be clear, I don't think this thing is at all applicable to commissions. Commissions I feel are just inherently not scalable. Which is why 21glucose is likely never going to sell services. Only products. Hence, why these two are under my personal name [[nichiii]]~~
 
