@@ -24,7 +24,3 @@
 ## Reflection
 - I think it's difficult to have an idea how to market it if I'm not even sure what the target market is, or if there even is a market for it.
 - Based on some vids I've seen, it's pretty much a folly to try to build a market for something that doesn't already have a market
-## Unrelated note:
-- Something that I've noticed while trying to build apps is that the less bloat there is, the better.
-- A good business is something that feels like playing to you but looks like work to others.
-	- Extremely on point,

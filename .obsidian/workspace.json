@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "21glucose Marketing.md",
+                "file": "21gbrainstorm/Scaling back on operations 01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21glucose Marketing"
+              "title": "Scaling back on operations 01"
+            }
+          },
+          {
+            "id": "e83a3bbe93eeecf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,20 +199,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5ab9f61d80aab50",
+  "active": "e83a3bbe93eeecf2",
   "lastOpenFiles": [
-    "21glucose/21glucose income sources.md",
-    "21glucose Marketing.md",
-    "21glucose/Season of Obsession.md",
-    "21glucose/21glucose.md",
-    "21glucose/Chitose Music Project.md",
-    "21gbrainstorm/Franchise-System Business.md",
-    "21gbrainstorm/Notes on Diagnosis-ProblemSolving-ValueCreation.md",
     "21gbrainstorm/Scaling back on operations 01.md",
-    "21glucose/Clothing Prints.md",
-    "21gbrainstorm/0021gbrnstrm index.md",
-    "README.md",
-    "index.md",
+    "Untitled.md",
+    "21glucose/21glucose Marketing.md",
+    "21gbrainstorm/Notes on Diagnosis-ProblemSolving-ValueCreation.md",
+    "21gbrainstorm/Franchise-System Business.md",
     "Kobenichiii/SFW Commissions.md",
     "Kobenichiii/Personal Projects of Nichiii.md",
     "Kobenichiii/NSFW Commissions.md",
@@ -205,6 +213,14 @@
     "Kobenichiii/Interests of Nichiii.md",
     "Kobenichiii/Core Values of Nichiii.md",
     "Kobenichiii/Businesses of Nichiii.md",
+    "21glucose/21glucose income sources.md",
+    "21glucose/Season of Obsession.md",
+    "21glucose/21glucose.md",
+    "21glucose/Chitose Music Project.md",
+    "21glucose/Clothing Prints.md",
+    "21gbrainstorm/0021gbrnstrm index.md",
+    "README.md",
+    "index.md",
     "21gbrainstorm",
     "test note.md",
     "21glucose notes",
@@ -214,7 +230,6 @@
     "Canicee/Giant Sloth.md",
     "Canicee/Giant Centipede.md",
     "Canicee/Freedom from Wolves Lending Company.md",
-    "Canicee/Rapture.md",
     "Canicee/Attachments/Pasted image 20251113151406.png",
     "Canicee/Attachments/Pasted image 20251113151923.png",
     "Canicee/Attachments/Pasted image 20251113151522.png",
