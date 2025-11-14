@@ -1,5 +1,4 @@
 
-[[0021gbrnstrm index]]
 
 ![](https://pbs.twimg.com/media/G1ukKfOaAAQoiGM?format=jpg&name=4096x4096)
 
