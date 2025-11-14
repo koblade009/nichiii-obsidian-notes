@@ -62,3 +62,5 @@ There's nothing wrong with step by step wips and revisions. I think it's necessa
 
 
 I don't know tho, I think I'm just really burnt out. I really don't think commissions are a good fit for me. I love drawing, but other things involved with commission work makes me hate drawing. But hey, that's just life. There's always something to be upset about if you look for it.
+
+I don't know man. I don't know... T_T

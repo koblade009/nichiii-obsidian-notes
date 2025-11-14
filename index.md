@@ -1,4 +1,4 @@
-[[test note]]
+
 ## Nichiii
 [[nichiii]]
 ![](https://pbs.twimg.com/media/G1ZmQA8bIAA47W2?format=jpg&name=4096x4096)
