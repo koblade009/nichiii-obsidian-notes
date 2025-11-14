@@ -22,17 +22,26 @@ Currently:
 1. Client dms me if im open for commission
 2. I reply and ask what they'd like drawn
 3. Client gives me info
-4. I take it, tell them I'll make the sketch
-5. Make sketch
-6. Send to client, see if they approve of it
-7. If not, either revise or just drop it entirely
-8. If yes, proceed with refining
-9. Send wips
-10. Deliver
-11. Wait till they approve it manually so that I can get paid
-12. I get paid, I thank the client
+4. Price negotiations <- the worst thing ever, drains the fun out of drawing, now you're doubting your abilities and how much your shit is worth, obliterates self worth
+5. I take it, tell them I'll make the sketch
+6. Make sketch
+7. Send to client, see if they approve of it
+8. If not, either revise or just drop it entirely
+9. If yes, proceed with refining
+10. Send wips, ask if there's revisions needed <- most painful
+11. Implement revisions 
+12. Deliver
+13. Wait till they approve it manually so that I can get paid. If not I'm fucked. <- This is a specific issue with unifans
+14. I get paid, I thank the client
 
-Ideally:
+Streamlined:
 1. Client sends me info, and how much they're willing to pay for it
 2. I approve it or decline it
-3. If approve, I draw the t
+3. If approve, draw it
+4. Send wips ask if there's revisions needed <- this is the most painful part
+5. Implement revisions
+6. Deliver
+7. Wait till they approve it manually so that I can get paid. If not I'm fucked. <- This is a specific issue with unifans
+8. I get paid, I thank the client
+
+There are still problems with this, consider the client side, they're not sure if they're going to get their money's worth. And they'll also worry about whether they're underpaying
