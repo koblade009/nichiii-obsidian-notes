@@ -28,3 +28,7 @@ Therefore eventually, [[Businesses of Nichiii]] is just going to be:
 I'd be losing out on sales for sure. I prolly won't even get ANY commissions. But I think it's better to put myself at risk for a potential future where I'm happy compared to a certain future of me being constantly miserable.
 
 Eitherway, if I don't get commissions, it also means more time to work on developing [[21glucose]]
+
+
+## Edit: 
+- I think the right move is really just to not do commissions or even skeb at all. This is really just a way to earn to money for me. I don't enjoy the process of it. See [[Uncategorized reflections]] #2
