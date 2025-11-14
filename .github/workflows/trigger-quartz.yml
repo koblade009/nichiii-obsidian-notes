@@ -1,0 +1,17 @@
+name: Trigger Quartz Update
+
+on:
+  push:
+    branches: [ main ]  # Triggers on every push from Obsidian Git
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch to Quartz repo
+        run: |
+          curl -X POST \
+            -H "Authorization: token ${{ secrets.GH_PAT }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/koblade009/quartz-k9/dispatches \
+            -d '{"event_type": "vault-updated"}'
