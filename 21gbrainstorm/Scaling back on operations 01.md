@@ -32,3 +32,4 @@ Eitherway, if I don't get commissions, it also means more time to work on develo
 
 ## Edit: 
 - I think the right move is really just to not do commissions or even skeb at all. This is really just a way to earn to money for me. I don't enjoy the process of it. See [[Uncategorized reflections]] #2
+- I should have done this sooner tbh. Though, I didn't really have much time to think about things at all until I actually spent time journalling like this. So I don't blame myself.
