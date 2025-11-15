@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "855818ca54eaba0d",
+        "id": "f3620bb123d41e8f",
         "type": "tabs",
         "children": [
           {
-            "id": "c5ab9f61d80aab50",
+            "id": "a1bdc9f3145cbfc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "21gbrainstorm/Scaling back on operations 01.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scaling back on operations 01"
-            }
-          },
-          {
-            "id": "e83a3bbe93eeecf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "21gbrainstorm/Scaling back on operations 01.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scaling back on operations 01"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,20 +184,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e83a3bbe93eeecf2",
+  "active": "a1bdc9f3145cbfc5",
   "lastOpenFiles": [
+    "index.md",
+    "Kobenichiii/SFW Commissions.md",
+    "Kobenichiii/Personal Projects of Nichiii.md",
+    "Kobenichiii/NSFW Commissions.md",
+    "Kobenichiii/nichiii.md",
+    "Kobenichiii/Interests of Nichiii.md",
+    "Kobenichiii/Core Values of Nichiii.md",
+    "Kobenichiii/Businesses of Nichiii.md",
+    "21glucose/Season of Obsession.md",
+    "21glucose/Clothing Prints.md",
+    "21glucose/Chitose Music Project.md",
+    "21glucose/21glucose Marketing.md",
+    "21glucose/21glucose income sources.md",
+    "21glucose/21glucose.md",
     "21gbrainstorm/Uncategorized reflections.md",
     "21gbrainstorm/Scaling back on operations 01.md",
     "21gbrainstorm/Notes on Diagnosis-ProblemSolving-ValueCreation.md",
     "21gbrainstorm/Franchise-System Business.md",
     "21gbrainstorm/0021gbrnstrm index.md",
-    "Kobenichiii/Businesses of Nichiii.md",
-    "21glucose/21glucose income sources.md",
-    "21glucose/21glucose Marketing.md",
-    "21glucose/21glucose.md",
-    "21glucose/Season of Obsession.md",
-    "21glucose/Clothing Prints.md",
-    "21glucose/Chitose Music Project.md",
     "Canicee/🌱 Jardani.md",
     "Canicee/🌱 Clarice Goodman.md",
     "Canicee/🌱 Carlos Fuentes.md",
@@ -220,13 +212,6 @@
     "Canicee/🌱 Anne Fuentes.md",
     "Canicee/🌍 Canicee.md",
     "Canicee/❤️ Chapter 2.md",
-    "Canicee/❤️ Chapter 1.md",
-    "Canicee/❤️ Canicee Project Story.md",
-    "Canicee/❤️ 0 BRIEFING.md",
-    "Kobenichiii/NSFW Commissions.md",
-    "Kobenichiii/Personal Projects of Nichiii.md",
-    "Kobenichiii/SFW Commissions.md",
-    "Kobenichiii/nichiii.md",
     "21gbrainstorm",
     "21glucose notes",
     "21glucose",
