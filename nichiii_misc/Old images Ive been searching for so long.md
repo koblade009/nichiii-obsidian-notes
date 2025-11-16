@@ -12,4 +12,5 @@ https://www.reddit.com/r/HistoryPorn/comments/16zq7o2/the_rollover_of_the_truck_
 
 
 https://www.pixiv.net/en/artworks/14382554
+https://youtu.be/HOz-9FzIDf0
 ![[Pasted image 20251117010357.png]]
