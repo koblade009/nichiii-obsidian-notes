@@ -1,5 +1,5 @@
 ## What is Chitose Music Project?
-I had this idea of turning [[Chitose Shinoda Williams]] into a virtual performer. Motivation for this is that there are some music that I really love that don't really get much covers by vtubers due to the genre not fitting well with weeb culture. Refer to [[21glucose]] value proposition.
+I had this idea of turning [[Chitose Shinoda Williams|Chitose]] into a virtual performer. Motivation for this is that there are some music that I really love that don't really get much covers by vtubers due to the genre not fitting well with weeb culture. Refer to [[21glucose]] value proposition.
 
 Right now, I really want to make a cover of some local bisrock songs just to get it started. [[Interests of Nichiii]]
 
@@ -7,11 +7,13 @@ Right now, I really want to make a cover of some local bisrock songs just to get
 - Advertisement for [[21glucose]] [[Clothing Prints]] and other products.
 - YT audience is new audience.
 - Even though it's unlikely for this to generate much income (if at all) by itself, I think it's still really nice to just be able to post something and then get money from it forever 
+- While all the things mentioned above is nice, I think I should prolly just keep the focus of this not on generating money but more about just fun little side project. I think music is also oversaturated with talent already and I have zero talent/education/actual background on it. So I think it's important to keep things grounded.
+- Another way to express myself instead of just drawing.
 
 
 ## Additional info:
 Don't wanna make things too high effort. The idea right now is to just use static art as the backdrop for the video. Maybe even add some translated lyrics to it. 
-But the main draw is to just hear an anime girl cover some songs.
+But the main draw is to just hear an anime girl cover some songs that I love.
 
 ## Asset wishlists:
 - 3D model for chitose
@@ -22,10 +24,6 @@ But the main draw is to just hear an anime girl cover some songs.
 
 Exbatallion Hayaan Mo Sila Cover by [MangoSiRyan12](https://www.youtube.com/@MangoSiRyan12)
 ![](https://youtu.be/4gUaSMZkROM)
-
-
-Gikumot-kumot Yui Cover [Marienyan 【マリにゃん】](https://www.youtube.com/@mariechanneru)
-![](https://youtu.be/oVTBLOGvVM4)
 
 
 Prolly my favorite Vocaloid track of all. I love how he makes Miku rap.

@@ -10,7 +10,7 @@
 
 ## Currently considering:
 -  [[Clothing Prints]]
--  [[Chitose Music Project]] - Music project 
+-  [[Chitose Music]] - Music project 
 
 ## Not yet:
 - Merchandising for [[Personal Projects of Nichiii]]:
