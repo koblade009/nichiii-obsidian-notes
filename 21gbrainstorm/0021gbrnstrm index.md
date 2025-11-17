@@ -1,6 +1,6 @@
 
 ## Business notes/study index
-- [[Its all about systems baby]]
+- [[Importance of systems in businesses]]
 - [[Problem Solving]]
 - [[De-bloating v2]]
 - [[Value creation]]

@@ -5,7 +5,7 @@
 
 ## Currently considering:
 - [[Clothing Prints via Fourthwall]] - This is more like a long-term/accumulating thing. 
-- [[ChitoseYK]] - It's a personal project but at the same it's also a product/asset of the company
+- [[ChitoseYK]] - It's a personal project but at the same time it's also a product/asset of the company
 
 ## Not yet:
 - Merchandising for [[Personal Projects of Nichiii]]:
