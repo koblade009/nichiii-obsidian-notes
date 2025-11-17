@@ -3,3 +3,4 @@
 - [[Its all about systems baby]]
 - [[Problem Solving]]
 - [[De-bloating v2]]
+- [[Value creation]]

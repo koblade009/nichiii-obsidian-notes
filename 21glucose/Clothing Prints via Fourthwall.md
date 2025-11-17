@@ -4,6 +4,9 @@
 - **Benefits from accumulation. The more products and choices, the better.**
 - Manufacturing, Customer Service, and Logistics is handled by Fourthwall
 
+## Value proposition
+- Addressing the need for : ESTEEM: Self-esteem, Status, Recognition  [[Value creation]]
+
 ## Clothing lines:
 - Sweetened Death - > Celebration of living a full life
 - Boundless Greed - > Celebration of taking action to get what you want
