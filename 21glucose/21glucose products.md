@@ -4,17 +4,16 @@
 - Already has a successful example of it that can be copied, iterate/differentiate from it later.
 
 ## Currently considering:
-- [[Clothing Prints]] - This is actually a bit uncertain rn
-- YouTube content creation
-- [[Fan Merch]] - for gacha games
-
+- [[Clothing Prints]] - This is more like a long-term/accumulating thing. 
+- [[ChitoseYK]] - It's a personal project but at the same it's also a product/asset of the company
 
 ## Not yet:
 - Merchandising for [[Personal Projects of Nichiii]]:
 	- Reasoning: No audience for it yet
 
 ## Low chance but considering:
-- 3D animation
+- 3D animation for YouTube
+- [[Fan Merch]] - for gacha games
 
 ## Absolute no-go:
  - Streaming 

@@ -6,9 +6,9 @@ Right now, I really want to make a cover of some local bisrock songs just to get
 ## Advantages:
 - Advertisement for [[21glucose]] [[Clothing Prints]] and other products.
 - YT audience is new audience.
-- Even though it's unlikely for this to generate much income (if at all) by itself, I think it's still really nice to just be able to post something and then get money from it forever 
-- While all the things mentioned above is nice, I think I should prolly just keep the focus of this not on generating money but more about just fun little side project. I think music is also oversaturated with talent already and I have zero talent/education/actual background on it. So I think it's important to keep things grounded.
 - Another way to express myself instead of just drawing.
+- **Benefits from accumulation. The more stuff I make, the better.**
+- **Once made, can provide income indefinitely**
 
 
 ## Asset wishlists:

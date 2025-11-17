@@ -13,7 +13,7 @@ I want to build 21glucose into a business that can operate without my supervisio
 
 ### How does 21glucose make money?
 ATM it generates no money at all.
-The things I'm considering can be found at [[21glucose income sources]]
+The things I'm considering can be found at [[21glucose products]]
 
 ### What's the game plan to promote 21glucose into a thriving, self-sustaining machine?
 Tbh, I have no fucking clue. 

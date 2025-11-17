@@ -11,4 +11,6 @@ Super important to keep my life balanced
 		- Maintaining certain gacha game dailies
 3. If I do something for the express purpose of making money and it's neither: growing nor making money, it's probably bloat.
 
+Bloat doesn't just consume time, it also consumes brainspace / causes stress.
+
 
