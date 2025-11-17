@@ -1,4 +1,4 @@
-[[🌍 Canicee]]
+[[Canicee]]
 [[Outsider]]
 
 Somewhat associated with [[Ed Pascual - 2nd Outsider]]

@@ -1,4 +1,4 @@
-[[🌍 Canicee]]
+[[Canicee]]
 
 Friend of [[Jill - Witch of Halloween]]
 Partners with [[Mantis - Mantis Demihuman]]

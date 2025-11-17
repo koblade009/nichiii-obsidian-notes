@@ -6,7 +6,7 @@
 [[21glucose]]
 ![](https://pbs.twimg.com/media/G3Q58WSacAA9y_i?format=jpg&name=4096x4096)
 ## Canicee
-[[🌍 Canicee]]
+[[Canicee]]
 
 [[Witchlands]]
 ![](https://pbs.twimg.com/media/GsG1LF0bkAAJqnW?format=jpg&name=4096x4096)

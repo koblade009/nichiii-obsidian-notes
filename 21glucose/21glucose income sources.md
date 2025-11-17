@@ -4,7 +4,7 @@
 - Already has a successful example of it that can be copied, iterate/differentiate from it later.
 
 ## Currently considering:
-- [[Clothing Prints]]
+- [[Clothing Prints]] - This is actually a bit uncertain rn
 - YouTube content creation
 - [[Fan Merch]] - for gacha games
 

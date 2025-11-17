@@ -1,4 +1,4 @@
-[[🌍 Canicee]]
+[[Canicee]]
 
 List of Demihumans:
 [[🌱 Jardani]]

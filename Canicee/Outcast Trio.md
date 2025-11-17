@@ -1,4 +1,4 @@
-[[🌍 Canicee]]
+[[Canicee]]
 
 [[Helen - Witch of the Graves]]
 [[Corazon - Witch of Smoldering Blood]]

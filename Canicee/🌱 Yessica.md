@@ -1,5 +1,5 @@
 
-[[🌍 Canicee]]
+[[Canicee]]
 [[Human]]
 
 Spouse of [[Ed Pascual - 2nd Outsider]]

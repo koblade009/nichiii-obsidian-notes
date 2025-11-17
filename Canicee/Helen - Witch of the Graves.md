@@ -1,4 +1,4 @@
-[[🌍 Canicee]]
+[[Canicee]]
 [[Witch]], [[New Gen Witch]]
 [[Witchcraft]]: Manipulation of the [[Soul]] of living creatures
 [[True Title]]: Scholar of [[Soul]]s

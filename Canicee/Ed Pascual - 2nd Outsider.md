@@ -1,4 +1,4 @@
-[[🌍 Canicee]]
+[[Canicee]]
 [[Outsider]], [[Esper]]
 
 Inventory:
@@ -8,7 +8,7 @@ Slayer of  [[🌱 Witch of Demonology]]
 Currently hunting  [[Jill - Witch of Halloween]]
 Grieving and consumed by vengeance after the death of [[🌱 Yessica]]
 
-Being an [[Outsider]], he was not born in the world of [[🌍 Canicee]] . Instead he was a soldier from a different world who got transported upon stumbling into a portal.
+Being an [[Outsider]], he was not born in the world of [[Canicee]] . Instead he was a soldier from a different world who got transported upon stumbling into a portal.
 He lost his sense of purpose, until one inhabitant, named [[🌱 Yessica]] showed him kindness. Eventually, their relationship developed and they started living together as a couple. For reasons unknown to him, [[🌱 Yessica]] possessed something that [[🌱 Witch of Demonology]] wanted. 
 
 Abilities and Powers:

@@ -1,4 +1,4 @@
-[[🌍 Canicee]]
+[[Canicee]]
 
 Types of Magic Systems:
 [[Witchcraft]]

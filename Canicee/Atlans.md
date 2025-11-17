@@ -1,1 +1,1 @@
-Underwater continent under the [[Great Sea]] of [[🌍 Canicee]]
+Underwater continent under the [[Great Sea]] of [[Canicee]]
