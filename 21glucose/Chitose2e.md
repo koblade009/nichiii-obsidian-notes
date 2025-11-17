@@ -50,6 +50,8 @@ Right now, I really want to make a cover of some local bisrock songs just to get
 Exbatallion Hayaan Mo Sila Cover by [MangoSiRyan12](https://www.youtube.com/@MangoSiRyan12)
 ![](https://youtu.be/4gUaSMZkROM)
 
+Raining in Manila【cover】by [Kiichan Ch. 狐井アキラ](https://www.youtube.com/@KitsuiAkira)
+![](https://youtu.be/QxfyQc-zIaU)
 
 Prolly my favorite Vocaloid track of all. I love how he makes Miku rap.
 PinocchioP - With or Without Me ![](https://youtu.be/A1XqqVWyUl4)
