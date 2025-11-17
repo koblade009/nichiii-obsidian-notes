@@ -1,7 +1,12 @@
 
+
+## Value creation:
+- asdasdas
 ![](https://youtu.be/iAYVVLHm5Oc)
 
 
+---
+## Copying businesses
 This one has something I feel I needed to hear:
 - "I like copying businesses that already work and then iterate/differentiate myself later"
 - Originality is mostly just ego/pride, therefore it should not be allowed to get in the way of starting a business

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "YT vids to watch later.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "YT vids to watch later"
             }
           }
         ]
@@ -186,10 +186,10 @@
   },
   "active": "ebc1f39aba5ca428",
   "lastOpenFiles": [
+    "index.md",
     "README.md",
     "test note.md",
     "YT vids to watch later.md",
-    "index.md",
     "21glucose/Chitose Music.md",
     "21glucose/21glucose.md",
     "nichiii/Core Values of Nichiii.md",
