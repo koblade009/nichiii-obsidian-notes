@@ -11,7 +11,7 @@
 - Open book / Wearing your heart in your sleeve / Vulnerability is not weakness
 	- Whenever I'm down, mentally, I just shut myself off from the world. I still need to change this.
 
-## Darker [[Clothing Prints|values]] I want to embody:
+## Darker [[Clothing Prints via Fourthwall|values]] I want to embody:
 - Boundless Greed
 - Opportunistic
 - Hard Head, Thick Skin

@@ -4,7 +4,7 @@
 - Already has a successful example of it that can be copied, iterate/differentiate from it later.
 
 ## Currently considering:
-- [[Clothing Prints]] - This is more like a long-term/accumulating thing. 
+- [[Clothing Prints via Fourthwall]] - This is more like a long-term/accumulating thing. 
 - [[ChitoseYK]] - It's a personal project but at the same it's also a product/asset of the company
 
 ## Not yet:

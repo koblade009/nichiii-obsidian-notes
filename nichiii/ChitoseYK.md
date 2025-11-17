@@ -4,7 +4,7 @@ I had this idea of turning [[Chitose Shinoda Williams|Chitose]] into a virtual p
 Right now, I really want to make a cover of some local bisrock songs just to get it started. [[Interests of Nichiii]]
 
 ## Advantages:
-- Advertisement for [[21glucose]] [[Clothing Prints]] and other products.
+- Advertisement for [[21glucose]] [[Clothing Prints via Fourthwall]] and other products.
 - YT audience is new audience.
 - Another way to express myself instead of just drawing.
 - **Benefits from accumulation. The more stuff I make, the better.**
