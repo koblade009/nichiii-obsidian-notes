@@ -20,6 +20,15 @@ But the main draw is to just hear an anime girl cover some songs that I love.
 - FL Studio
 - Kasane Teto or custom UTAU voicebank
 
+## Additional Notes:
+- This one was waaaay harder than I initially expected. I realize I encounter the same issues that I do in art, in that the recording sounds really good once I used to it, but then the day after, I find that I'm actually singing out of tune.
+	- I have a couple of solutions for this:
+		- Learn how to sing better (Really hard, people literally train their whole lives for this)
+		- Use customized UTAU/FLStudio for vocals (Also has a learning curve to it, also might needs knowledge of some music theory)
+		- Outsource singing to someone else (Costs money and takes time to find someone who's willing to do it)
+- Big
+		
+
 ## Inspirations:
 
 Exbatallion Hayaan Mo Sila Cover by [MangoSiRyan12](https://www.youtube.com/@MangoSiRyan12)
