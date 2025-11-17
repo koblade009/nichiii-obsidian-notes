@@ -24,7 +24,12 @@ Right now, I really want to make a cover of some local bisrock songs just to get
 		- Use customized UTAU/FLStudio for vocals (Also has a learning curve to it, also might needs knowledge of some music theory)
 		- Outsource singing to someone else (Costs money and takes time to find someone who's willing to do it)
 	- I might just be overthinking it though again cuz I didn't want it to be high effort, but at the same time, part of me feels ashamed of releasing something that's just bad.
-		
+
+## Ideas:
+- KDB - Small World
+- Ambassadors - Daw Sama sa Iro
+- Radiohead - Let Down
+- Omar Baliw x CLR
 
 ## Inspirations:
 
