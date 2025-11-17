@@ -1,2 +1,0 @@
-Currently operating via Artistree
-

@@ -1,6 +1,4 @@
 
-
-
 ## Marketing methods I guess:
 - Not really sure rn tbh. 
 - Marketing is kinda just like funneling I think
