@@ -28,8 +28,10 @@ Right now, I really want to make a cover of some local bisrock songs just to get
 ## Ideas:
 - KDB - Small World
 - Ambassadors - Daw Sama sa Iro
+- Mantequilla - Ibog-ibog
 - Radiohead - Let Down
-- Omar Baliw x CLR
+- Omar Baliw x CLR - R.O.T. OR K&B IV
+- 
 
 ## Inspirations:
 
