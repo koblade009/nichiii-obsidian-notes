@@ -11,7 +11,7 @@
 
 ## Currently considering:
 -  [[Clothing Prints]]
--  [[Chitose Music]] - Music project 
+-  [[Chitose2e]] - Music project 
 
 ## Not yet:
 - Merchandising for [[Personal Projects of Nichiii]]:

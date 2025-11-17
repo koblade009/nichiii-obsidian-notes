@@ -31,19 +31,16 @@ Right now, I really want to make a cover of some local bisrock songs just to get
 - Mantequilla - Ibog-ibog
 - Radiohead - Let Down
 - Omar Baliw x CLR - R.O.T. OR K&B IV
-- 
-
-
-## Protocol (Recorded vocals )
+## Protocol (Recorded vocals convert)
  1. Curate song
- 2. Creation of backdrop image > Clip Studio Paint > Max 1 day of working
- 3. Record / Acquire vocals > Audacity
- 4. Record / Acquire instrumentals > Audacity
- 5. Convert vocals to Chitose voice > 
- 6. Combine & Mix Audio
- 7. DaVinci Resolve, video edit
- 8. Schedule publish on YT
- 9. Only after scheduling. For translation of non-english tracks, mayhaps edit the YT CC?
+ 2. Creation of backdrop image > Clip Studio Paint > 1-2 days
+ 3. Record / Acquire vocals > Audacity > however long < This is very important
+ 4. Acquire instrumentals > Audacity < 1-2 days < Ideally, I won't have to record
+ 5. Convert vocals to Chitose voice > W-okada
+ 6. Combine & Mix Audio > Audacity (Ideally, FL Studio would be used here)
+ 7. Video Editing > Davinci Resolve
+ 8. Schedule publish on YT (Credit all assets used, songwriters and instrumentals especially)
+ 9. Only after scheduling: For translation of non-english tracks, mayhaps edit the YT CC?
 
 - Input: Audio, and drawing
 - Output: Youtube Video
