@@ -33,6 +33,21 @@ Right now, I really want to make a cover of some local bisrock songs just to get
 - Omar Baliw x CLR - R.O.T. OR K&B IV
 - 
 
+
+## Protocol (Recorded vocals )
+ 1. Curate song
+ 2. Creation of backdrop image > Clip Studio Paint > Max 1 day of working
+ 3. Record / Acquire vocals > Audacity
+ 4. Record / Acquire instrumentals > Audacity
+ 5. Convert vocals to Chitose voice > 
+ 6. Combine & Mix Audio
+ 7. DaVinci Resolve, video edit
+ 8. Schedule publish on YT
+ 9. Only after scheduling. For translation of non-english tracks, mayhaps edit the YT CC?
+
+- Input: Audio, and drawing
+- Output: Youtube Video
+
 ## Inspirations:
 
 Exbatallion Hayaan Mo Sila Cover by [MangoSiRyan12](https://www.youtube.com/@MangoSiRyan12)

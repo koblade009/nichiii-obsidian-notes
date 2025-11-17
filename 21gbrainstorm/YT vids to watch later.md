@@ -1,7 +1,7 @@
 
 
 ## Value creation:
-- asdasdas
+- 
 ![](https://youtu.be/iAYVVLHm5Oc)
 
 

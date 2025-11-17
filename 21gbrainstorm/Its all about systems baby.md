@@ -59,4 +59,4 @@ Refer to this video:
 
 ~~There's nothing wrong with step by step wips and revisions. I think it's necessary for certain projects. Especially with design work. But due to the amount of workload it adds, I feel like it should just be reserved for commercial use art.~~ 
 ### Edit:
-==This is obsolete refer to -> [[Scaling back on operations 01]]==
+==This is obsolete refer to -> [[De-bloating v1]]==

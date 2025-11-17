@@ -6,7 +6,8 @@
 ## Key points to consider before pursuing income sources:
 - Scalability
 - Ease
-- Can be replicated reliably
+- Results/Products/Fulfillment can be replicated reliably
+- Comes with as few bloat as possible [[De-bloating v1]]
 
 ## Currently considering:
 -  [[Clothing Prints]]
