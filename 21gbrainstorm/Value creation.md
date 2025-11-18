@@ -13,4 +13,6 @@
 ---
 ## Video reference:
 
+- ![](https://youtu.be/q8d9uuO1Cf4)
+- ![](https://www.youtube.com/shorts/czQxHhp7jec)
 - ![](https://youtu.be/iAYVVLHm5Oc)
