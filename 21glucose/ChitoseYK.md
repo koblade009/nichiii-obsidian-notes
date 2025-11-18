@@ -1,7 +1,15 @@
 ## What is Chitose Music Project?
-I had this idea of turning [[Chitose Shinoda Williams|Chitose]] into a virtual performer. Motivation for this is that there are some music that I really love that don't really get much covers by vtubers due to the genre not fitting well with weeb culture. Refer to [[21glucose]] value proposition.
+I had this idea of turning [[Chitose Shinoda Williams|Chitose]] into a virtual performer/an avatar for me to do music covers. Motivation for this is that there are some music that I really love that don't really get much covers by vtubers due to the genre not fitting well with weeb culture. Refer to [[21glucose]] value proposition.
 
 Right now, I really want to make a cover of some local bisrock songs just to get it started. [[Interests of Nichiii]]
+
+## Simplifying things:
+- Guitar and vocals only
+- I think it's important to grind out the guitar and vocals first and hopefully improve at it before adding more complexity to it
+- Just a simple drawing as the video backdrop
+- No 3D music, or lyrics on screen. 
+- As barebones as possible. I want it to feel like just hanging out with friends and jamming out.
+- Just focus on improving on guitar and vocals bit by bit.
 
 ## Advantages:
 - Advertisement for [[21glucose]] [[Clothing Prints via Fourthwall]] and other products.
@@ -11,13 +19,7 @@ Right now, I really want to make a cover of some local bisrock songs just to get
 - **Once made, can provide income indefinitely**
 
 
-## Asset wishlists:
-- 3D model for chitose
-- FL Studio
-- Kasane Teto or custom UTAU voicebank
-
 ## Additional Notes:
-- Don't wanna make things too high effort. The idea right now is to just use static art as the backdrop for the video. Maybe even add some translated lyrics to it. But the main draw is to just hear an anime girl cover some songs that I love.
 - This one was waaaay harder than I initially expected. I realize I encounter the same issues that I do in art, in that the recording sounds really good once I used to it, but then the day after, I find that I'm actually singing out of tune.
 	- I have a couple of solutions for this:
 		- Learn how to sing better, (Really hard, people literally train their whole lives for this) I am severely out of practice, I've been skipping vocal warmups and practicing scales 
@@ -26,7 +28,7 @@ Right now, I really want to make a cover of some local bisrock songs just to get
 	- I might just be overthinking it though again cuz I didn't want it to be high effort, but at the same time, part of me feels ashamed of releasing something that's just bad.
 
 ## Ideas:
-- KDB - Small World
+- Parokya ni Edgar - Your Song
 - Ambassadors - Daw Sama sa Iro
 - Mantequilla - Ibog-ibog
 - Radiohead - Let Down
