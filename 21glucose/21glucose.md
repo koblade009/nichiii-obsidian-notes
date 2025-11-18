@@ -40,4 +40,7 @@ Therefore there are rules that I to abide by when designing products:
 - Never make a product that promotes division/hate. Don't participate in culture war.
 ## Aesthetic Inspiration:
 - Cebu street art
-	- 
+	- ![[Pasted image 20251118110135.png]]
+	- Karingkay ![[Pasted image 20251118110245.png]]
+	- ![[Pasted image 20251118110332.png]]
+	- ![[Pasted image 20251118110435.png]]- Soika ![[Pasted image 20251118110549.png]]
