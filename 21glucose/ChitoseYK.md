@@ -34,8 +34,8 @@ Right now, I really want to make a cover of some local bisrock songs just to get
 ## Protocol (Recorded vocals convert)
  1. Curate song
  2. Creation of backdrop image > Clip Studio Paint > 1-2 days
- 3. Record / Acquire vocals > Audacity > however long < This is very important
- 4. Acquire instrumentals > Audacity < 1-2 days < Ideally, I won't have to record
+ 3. [[Vocal recording]] / Acquire vocals > Audacity > however long < This is very important
+ 4. Record guitar > I think it's important for me to keep instrumentals acoustic, so that I won't get my channel copyright struck
  5. Convert vocals to Chitose voice > W-okada
  6. Combine & Mix Audio > Audacity (Ideally, FL Studio would be used here)
  7. Video Editing > Davinci Resolve

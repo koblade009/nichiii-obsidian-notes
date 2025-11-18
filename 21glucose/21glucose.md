@@ -38,3 +38,6 @@ Mainly influenced by [[Core Values of Nichiii]] #2
 Therefore there are rules that I to abide by when designing products:
 - Never make a product for something that you don't love.
 - Never make a product that promotes division/hate. Don't participate in culture war.
+## Aesthetic Inspiration:
+- Cebu street art
+	- 
