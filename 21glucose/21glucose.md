@@ -9,7 +9,7 @@
 I want to build 21glucose into a business that can operate without my supervision. Or at least with less work on my part. I want it to be able to generate money for me even in times that I am unable to work.
 
 ## Related links:
-- [[21glucose products]]
+- [[21glucose offerings]]
 
 ## Value proposition/Problems 21glucose aim to solve
 
