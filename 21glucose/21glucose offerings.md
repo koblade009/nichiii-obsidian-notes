@@ -4,8 +4,8 @@
 - Already has a successful example of it that can be copied, iterate/differentiate from it later.
 
 ## Currently considering:
-- [[Clothing Prints via Fourthwall]] - This is more like a long-term/accumulating thing. 
-- [[ChitoseYK]] - It's a personal project but it's on the 21glucose YT Channel
+- [[21glucose Clothing]] - This is more like a long-term/accumulating thing. 
+- [[Chitose2e Music]] - It's a personal project but it's on the 21glucose YT Channel
 
 ## Not yet:
 - Merchandising for [[Personal Projects of Nichiii]]:

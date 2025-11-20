@@ -12,11 +12,12 @@ Right now, I really want to make a cover of some local bisrock songs just to get
 - Just focus on improving on guitar and vocals bit by bit.
 
 ## Advantages:
-- Advertisement for [[21glucose]] [[Clothing Prints via Fourthwall]] and other products.
+- Advertisement for [[21glucose]] [[21glucose Clothing]] and other products.
 - YT audience is new audience.
 - Another way to express myself instead of just drawing.
 - **Benefits from accumulation. The more stuff I make, the better.**
 - **Once made, can provide income indefinitely**
+- Great synerygy with [[21glucose Clothing]]
 
 
 ## Additional Notes:
