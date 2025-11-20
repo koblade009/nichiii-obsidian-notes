@@ -42,6 +42,10 @@ Right now, I really want to make a cover of some local bisrock songs just to get
 - 8 Ballin - Know Me
 - Skusta Clee - Sa Susunod Nalang or Dance With You
 - Radiohead - Black Star
+- Secondhand Serenade
+- The Script
+- Dashboard Confessionals - Hands Down
+- Boys Like Girls - The Great Escape
 
 
 
