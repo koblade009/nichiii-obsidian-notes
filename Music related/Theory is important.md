@@ -1,0 +1,1 @@
+Knowing theory allows an artist to be more intentional with their art
