@@ -29,11 +29,26 @@ Right now, I really want to make a cover of some local bisrock songs just to get
 	- I might just be overthinking it though again cuz I didn't want it to be high effort, but at the same time, part of me feels ashamed of releasing something that's just bad.
 
 ## Ideas:
+- Kay tagal kitang hinintay
 - Parokya ni Edgar - Your Song
 - Ambassadors - Daw Sama sa Iro
 - Mantequilla - Ibog-ibog
 - Radiohead - Let Down
 - Omar Baliw x CLR - R.O.T. OR K&B IV
+- All American Rejects - It Ends Tonight
+- Paramore - Pressure
+- Linkin Park - Waiting for the End
+- 8 Ballin - Know Me
+- Skusta Clee - Sa Susunod Nalang or Dance With You
+- Radiohead - Black Star
+
+
+
+## Content aside from music: (Might need a dedicated note for this)
+- Powerpoint presentation ala Dota2Powerpoint - Maybe for Nikke? Or Gacha? I think instead of going for the gameplay/meta perspective, I could prolly go for the character history angle. 
+	- Say, powerpoint presentation about Cammelya's backstory on Wuwa etc.
+- Cuz I kinda wanna expand a bit some more from just bisrock music. I don't think there's an active community for it. It was the same when I made art for FlyFF, there wasn't really a community around it. < - On this note tho, I think the fault is partly on myself as well. Cuz if you look around on twitter, there are communities who literally exist solely because one artist is hella dedicated on making content for it. Like Houseki no Kuni and even Orb. On this note, I think I'll need to give it more thought. [[]]
+
 ## Protocol (Recorded vocals convert)
  1. Curate song
  2. Creation of backdrop image > Clip Studio Paint > 1-2 days

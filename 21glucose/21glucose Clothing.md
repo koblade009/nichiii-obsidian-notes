@@ -3,7 +3,7 @@
 - **Once the design is made, it can be sold forever.** 
 - **Benefits from accumulation. The more products and choices, the better.**
 - Manufacturing, Customer Service, and Logistics is handled by Fourthwall
-- Great synerygy with [[Chitose2e Music]]
+- Great synerygy with [[Chi2se Ch]]
 
 ## Value proposition
 - Addressing the need for : ESTEEM: Self-esteem, Status, Recognition  [[Value creation]]

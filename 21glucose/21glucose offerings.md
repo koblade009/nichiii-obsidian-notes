@@ -5,7 +5,7 @@
 
 ## Currently considering:
 - [[21glucose Clothing]] - This is more like a long-term/accumulating thing. 
-- [[Chitose2e Music]] - It's a personal project but it's on the 21glucose YT Channel
+- [[Chi2se Ch]] - It's a personal project but it's on the 21glucose YT Channel
 
 ## Not yet:
 - Merchandising for [[Personal Projects of Nichiii]]:
