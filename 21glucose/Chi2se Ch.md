@@ -29,7 +29,8 @@ Right now, I really want to make a cover of some local bisrock songs just to get
 	- I might just be overthinking it though again cuz I didn't want it to be high effort, but at the same time, part of me feels ashamed of releasing something that's just bad.
 
 ## Ideas:
-- Kay tagal kitang hinintay
+- Yellowcard - Ocean Avenue
+- Spongecola - Kay tagal kitang hinintay
 - Parokya ni Edgar - Your Song
 - Ambassadors - Daw Sama sa Iro
 - Mantequilla - Ibog-ibog
