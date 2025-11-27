@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "Audacity Stuff"
             }
+          },
+          {
+            "id": "7350eb807b907490",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -227,7 +239,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99ef66fcfd6e7164",
+  "active": "7350eb807b907490",
   "lastOpenFiles": [
     "Music related/Vocal recording.md",
     "Music related/Components of singing.md",
