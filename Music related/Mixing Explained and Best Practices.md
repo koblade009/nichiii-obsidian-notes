@@ -14,4 +14,9 @@
 - Other mixing best practice
 	- Moving frequencies towards the sweet spot
 	- ![](https://youtu.be/api8s3a_GZA)
-- 
+
+- ![](https://youtu.be/YEorsfZe4vU)
+- Moving sounds forward backward and left and right:
+	- Volume - Forward and Backward
+	- Panning - Left and Right - There's actually not a way to put sound on both sides, when sound is centered it means both right and left speakers are playing it
+	- There is something nice to learn tho, which is panning. Instead of putting both lead and rhythm guitars dead center,  put them in different places instead. Put the rhythm off center and lead off center on the other side for example. Also, forward and backward via volume. It would be also nice if maybe the rhythm is moved towards the back a bit. Essentially, just imagine a real band. How they'll be placed when they're playing. Vocalist on the center, both guitars on the left and right somewhere. Drummer at the center rear.
