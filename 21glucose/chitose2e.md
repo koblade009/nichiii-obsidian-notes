@@ -35,15 +35,26 @@ Right now, I really want to make a cover of some local bisrock songs just to get
 - Mantequilla - Ibog-ibog
 - Omar Baliw x CLR - R.O.T. OR K&B IV
 - All American Rejects - It Ends Tonight
-- Paramore - Pressure
-- Linkin Park - Waiting for the End
-- 8 Ballin - Know Me
+
+
+
 - Skusta Clee - Sa Susunod Nalang or Dance With You
-- Radiohead - Black Star
 - Secondhand Serenade
 - The Script
 - Dashboard Confessionals - Hands Down
 - Boys Like Girls - The Great Escape
+
+### Visayan Songs:
+- asdasd
+
+### Tagalog Songs:
+- Skusta Clee - Sa Susunod Nalang
+- - 8 Ballin - Know Me
+
+### English Songs:
+- Radiohead - Black Star
+- Linkin Park - Waiting for the End
+- Paramore - Pressure
 
 
 
