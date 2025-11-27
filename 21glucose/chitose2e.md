@@ -30,11 +30,9 @@ Right now, I really want to make a cover of some local bisrock songs just to get
 
 ## Ideas:
 - Yellowcard - Ocean Avenue
-- Spongecola - Kay tagal kitang hinintay
 - Parokya ni Edgar - Your Song
 - Ambassadors - Daw Sama sa Iro
 - Mantequilla - Ibog-ibog
-- Radiohead - Let Down
 - Omar Baliw x CLR - R.O.T. OR K&B IV
 - All American Rejects - It Ends Tonight
 - Paramore - Pressure
@@ -42,7 +40,6 @@ Right now, I really want to make a cover of some local bisrock songs just to get
 - 8 Ballin - Know Me
 - Skusta Clee - Sa Susunod Nalang or Dance With You
 - Radiohead - Black Star
-- Radiohead - Let Down
 - Secondhand Serenade
 - The Script
 - Dashboard Confessionals - Hands Down
