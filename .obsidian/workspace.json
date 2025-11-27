@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music related/Cover song workflow.md",
+                "file": "Music related/Equalizer Explained.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cover song workflow"
+              "title": "Equalizer Explained"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "fa71876391857ff5",
   "lastOpenFiles": [
-    "Music related/Equalizer Explained.md",
     "Music related/Cover song workflow.md",
+    "Music related/Equalizer Explained.md",
     "Music related/Compressor Explained.md",
     "Music related/Components of singing.md",
     "Music related/Music Key Explained.md",
