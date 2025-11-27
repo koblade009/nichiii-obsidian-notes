@@ -14,4 +14,4 @@
 - Mixing best practices -> 
 	- Instruments should not overlap in frequencies 
 	- Mixing is primarily about volume. The goal is to make every sound be audible.
-- 
+- Music Theory Knowledge [[Music Theory Index]]
