@@ -9,3 +9,9 @@
 - Others:
 	- I think I need to learn proper vocal layering
 		- Just putting two vocal tracks together to enhance the chorus doesn't seem like the way to go. I think this is also because of possible phasing. There's prolly a better approach for vocal layering [[Vocal Layering Explained]]
+
+
+- Other mixing best practice
+	- Moving frequencies towards the sweet spot
+	- ![](https://youtu.be/api8s3a_GZA)
+- 
