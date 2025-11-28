@@ -9,7 +9,8 @@ I should prolly make an index for
 
 
 ## Inbox
-
+![](https://youtu.be/JLQ99XrsY_8)
+![](https://youtu.be/8Ldj9PLhI1I) 
 
 ![](https://youtu.be/o-qNepGpI3U)
 ![](https://youtu.be/vjIv4Gbmnj8)
@@ -23,4 +24,10 @@ I should prolly make an index for
 ![](https://youtu.be/MrMTPG-Nzac)
 
 
+
+![](https://youtu.be/ieC8LN0YXrk)
+![](https://youtu.be/uBp3yWXE1pI)
+![](https://youtu.be/8qWEfJiZZTY)
+
+![](https://youtu.be/DzDUoWZGFMM)
 
