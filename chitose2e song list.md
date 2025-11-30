@@ -15,15 +15,17 @@
 - Jewel Villaflores - Duyog
 - Agadiers - Gugma / Pagbakho
 - Phylum - Palagot sa Kontra
-- LQ
+- Mantequilla - LQ
 - Prinsepal
 - Harana
 - Inday
 - Kamagayan
-- Any Enchi song
+- Enchi - Gugmang Giatay / Baboy / Baso
 - Lapida sa Gugma
 - Smooth Friction - Solid ug lawas
 - Scrambled Eggs - Tagay / Maanad Ra Ka
+- Agipo - Batang Nangka 
+- Mantequilla - Pinoti
 
 ### Tagalog:
 - Any Skusta Clee songs
