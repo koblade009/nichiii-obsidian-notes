@@ -1,5 +1,5 @@
 
-### Visayan:
+### Visayan/Bisrock:
 - Ambassadors - Daw Sama sa Iro
 - Scrambled Eggs - Naglibog
 - Abscond - Agay
@@ -11,7 +11,7 @@
 - Di madutlan
 - Tabang
 - Agipo - Pag sure oi
-- Ipanumpa ko di tika byaan
+- Oh Caraga! - Ipanumpa ko
 - Jewel Villaflores - Duyog
 - Agadiers - Gugma / Pagbakho
 - Phylum - Palagot sa Kontra
@@ -22,6 +22,8 @@
 - Kamagayan
 - Any Enchi song
 - Lapida sa Gugma
+- Smooth Friction - Solid ug lawas
+- Scrambled Eggs - Tagay / Maanad Ra Ka
 
 ### Tagalog:
 - Any Skusta Clee songs
