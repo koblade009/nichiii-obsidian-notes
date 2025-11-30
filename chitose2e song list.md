@@ -5,14 +5,23 @@
 - Abscond - Agay
 - Phylum - Sabot sabot
 - Ambassadors -Ulipon sa gugmang giatay
-- Missing Filemon - Sine sine
-- Circle of Willis -Nalumay 
+- Missing Filemon - Sine-sine / Suroy-suroy
+- Circle of Willis - Nalumay / Reyna Prinsesa
 - KDB - Wa Gyud
 - Di madutlan
 - Tabang
 - Agipo - Pag sure oi
 - Ipanumpa ko di tika byaan
 - Jewel Villaflores - Duyog
+- Agadiers - Gugma / Pagbakho
+- Phylum - Palagot sa Kontra
+- LQ
+- Prinsepal
+- Harana
+- Inday
+- Kamagayan
+- Any Enchi song
+- Lapida sa Gugma
 
 ### Tagalog:
 - Any Skusta Clee songs
