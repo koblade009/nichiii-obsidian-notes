@@ -12,3 +12,10 @@
 	1. Different melody, different style/direction,
 3. Pedal point harmony:
 	1. Lower tone and you stay in one note singing it. While the main track dances on top of it
+4. Open harmony:
+	1. Far intervals, harmony is very high compared to the main track,
+	2. Maybe an octave above the main track then perhaps try changing up the melody as it goes
+5. Close harmony:
+	1. Super close intervals and prolly multiple of them, 2nd, 3rd, 5th. 
+	2. Sounds like the voices are melting together
+	3. It's like chords per note I guess
