@@ -7,8 +7,8 @@ Double track:
 Triple track:
 - One dead center, two at the very sides (100% pan) at lower volumes
 Harmonies:
-- Use with purpose
-- 5 types > ![](https://www.youtube.com/watch?v=urZoxWljlXw)
+- Use with purpose 
+- 5 types > [[Harmonies Explained]]
 
 Vocal pads:
  - Kinda like harmonies but just oooohs and aaaahs etc
