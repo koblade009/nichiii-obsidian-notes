@@ -7,5 +7,10 @@ Wanna do:
 - Learn how to sing properly <- [[My voice is also an instrument]]
 	- After that I can post moar covers
 - Daw Sama Sa Iro Cover 
-	- ![](https://youtu.be/Tdq1_u2GJKg) 
+	- ![](https://youtu.be/Tdq1_u2GJKg)
+- Reyna Prinsesa Cover
+	- ![](https://www.youtube.com/watch?v=m3jDQTqnLWw)
+	- ![](https://youtu.be/sCYvQyTEouw)
+- Sabot-sabot
+	- ![](https://youtu.be/RW_augIcr1M?list=PL-Fr-h7HN1L3ookZveXQA0L9RPauTkD14)
 -
