@@ -13,6 +13,7 @@ Wanna do:
 		- Groovy bassline
 		- Lead guitar stuff
 		- Groovy rhythm guitar
+		- + Relaxed / Groovy singing
 	- I think I want to prioritize groovy-ness over complexity if possible. I mean the point of the covers after all is to make it feel like an acoustic guitar jam session with friends.
 	- As long as I'm able to bob my head while listening to it. I think it's golden. 
 - Daw Sama Sa Iro Cover 
