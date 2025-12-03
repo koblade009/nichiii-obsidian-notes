@@ -25,7 +25,6 @@
 - Smooth Friction - Solid ug lawas
 - Scrambled Eggs - Tagay / Maanad Ra Ka
 - Agipo - Batang Nangka 
-- Mantequilla - Pinoti
 
 ### Tagalog:
 - Any Skusta Clee songs
