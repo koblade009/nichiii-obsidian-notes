@@ -7,6 +7,13 @@ Wanna do:
 - Make fourthwall prints
 - Learn how to sing properly <- [[My voice is also an instrument]]
 	- After that I can post moar covers
+- Prioritization:
+	- For covers I think I need to prioritize the singing. I think as long as the singing is good, then it prolly shouldn't really matter if I don't make the instrumentation as complex as I want it to be. 
+	- That being said I still really, REALLY, want to incorporate these to my covers tho:
+		- Groovy bassline
+		- Lead guitar stuff
+		- Groovy rhythm guitar
+	- I think I want to prioritize groovy-ness over complexity if possible. I mean the point of the covers after all is to make it feel like an acoustic guitar jam session with friends.
 - Daw Sama Sa Iro Cover 
 	- ![](https://youtu.be/Tdq1_u2GJKg)
 - Reyna Prinsesa Cover
