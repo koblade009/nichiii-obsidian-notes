@@ -1,6 +1,6 @@
 
 
-"Anyone Can Play Guitar" Radiohead - Live at the MTV Beach House (1993)
+- [ ] "Anyone Can Play Guitar" Radiohead - Live at the MTV Beach House (1993)
 https://www.youtube.com/watch?v=0si0fB0lnow
 ![[Pasted image 20251205015340.png]]
 
