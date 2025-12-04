@@ -86,14 +86,27 @@
 - Paramore - Turn it off <- Prolly fave Paramore Track
 - Will need to check playlist later
 
-#### 2000s White Girl Music ™️
+#### Girl™️ Music
 - The Corrs - Breathless
+- The Corrs - All the Love In the World
 - Jordin Sparks - Tattoo
 - Selena - Dreaming of You
 - Katy Perry - Thinking of You
 - Clair Marlo - Til They Take My Heart Away
 - Sixpence non the richer - Kiss Me
 - Alanis Morisette - Ironic
+- Shania Twain - Youre Still The One
+- Natalie Imbruglia - Torn
+- 
+
+#### The Beatles
+- Penny Lane
+- Something
+- When My Guitar Gently Weeps
+- In My Life
+- Hey Jude
+- Here Comes The Sun
+- Let It Be
 
 #### Oji-san Music
 - Eric Clapton - Tears in Heaven
