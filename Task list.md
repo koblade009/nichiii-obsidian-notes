@@ -16,6 +16,10 @@ Wanna do:
 		- + Relaxed / Groovy singing
 	- I think I want to prioritize groovy-ness over complexity if possible. I mean the point of the covers after all is to make it feel like an acoustic guitar jam session with friends.
 	- As long as I'm able to bob my head while listening to it. I think it's golden. 
+- The Coors - Breathless Cover
+	- ![](https://youtu.be/fZAB9vbZPoI)
+	- ![](https://youtu.be/aTGi9X5pd1w)
+	- ![](https://youtu.be/2-oWgLi3ZBc)
 - Daw Sama Sa Iro Cover 
 	- ![](https://youtu.be/Tdq1_u2GJKg)
 - Reyna Prinsesa Cover
