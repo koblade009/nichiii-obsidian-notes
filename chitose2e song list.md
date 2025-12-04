@@ -86,6 +86,20 @@
 - Paramore - Turn it off <- Prolly fave Paramore Track
 - Will need to check playlist later
 
+#### 2000s White Girl Music ™️
+- The Corrs - Breathless
+- Jordin Sparks - Tattoo
+- Selena - Dreaming of You
+- Katy Perry - Thinking of You
+- Clair Marlo - Til They Take My Heart Away
+- Sixpence non the richer - Kiss Me
+- Alanis Morisette - Ironic
+
+#### Oji-san Music
+- Eric Clapton - Tears in Heaven
+- Bee Gees - Islands In The Stream
+- Savage Garden - Truly Madly
+- Savage Garden - I Knew I Loved You
 
 
 - Yellow Card
@@ -95,4 +109,4 @@
 - All American Rejects - It Ends Tonight
 - Thousand Foot Krutch - Phenomenon
 - Disturbed - Indestructible
-- The Corrs - Breathless
+
