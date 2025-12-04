@@ -20,6 +20,7 @@ Wanna do:
 	- ![](https://youtu.be/fZAB9vbZPoI)
 	- ![](https://youtu.be/aTGi9X5pd1w)
 	- ![](https://youtu.be/2-oWgLi3ZBc)
+	- ![](https://youtu.be/AJwyd8FrSmE)
 - Daw Sama Sa Iro Cover 
 	- ![](https://youtu.be/Tdq1_u2GJKg)
 - Reyna Prinsesa Cover
