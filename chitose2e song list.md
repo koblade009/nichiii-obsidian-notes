@@ -22,9 +22,12 @@
 - Scrambled Eggs - Tagay / Maanad Ra Ka
 
 ### Tagalog:
-- Any Skusta Clee songs
+- Skusta Clee
+	- Zebbiana
+	- Lagi
+	- Sa susunod nalang
 - 8 Ballin - Know Me
-- Boston Drama or the other track
+- Typecast - The Boston Drama or Will You Ever Learn
 - Omar Baliw x CLR - R.O.T. OR K&B IV
 - 1096 Gang - TOKTOK or Inumaga
 - Any Parokya ni Edgar Songs
@@ -65,9 +68,15 @@
 - Anything from Hybrid Theory
 	- Pushing me away <- Fave / Also maybe the reanimation version
 - Anything from Meteora
-	- Lying from you <- 
+	- Lying from you <- Prolly my fave
 - Linkin Park - Waiting for the End
-
+- Linkin Park - Blackout <- Prolly downright impossible xD
+- Linkin Park - The Catalyst
+- Linkin Park - One More Light
+- Linkin Park - Good Goodbye
+- Linkin Park - Nobody Can Save Me
+- Linkin Park - Burn it Down
+- Prolly something from From Zero <- Still need to listen to the whole album
 
 #### Paramore
 - Paramore - Pressure
