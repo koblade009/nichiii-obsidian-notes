@@ -34,6 +34,7 @@
 - Any December Avenue
 
 ### English Songs:
+#### Radiohead:
 - Radiohead - Planet Telex
 - Radiohead - Fake Plastic Trees
 - Radiohead - Nice Dream
@@ -57,8 +58,25 @@
 - Radiohead - Jigsaw Falling into Place
 - Radiohead - Faust Arp <-Depends
 - Radiohead - All I Need <- Depends
+- Radiohead - Decks Dark <- Diz my fave track from AMSP
+- Radiohead - Present Tense
+- Radiohead - True Love Waits <- Both the OG and the AMSP version I guess
+#### Linkin Park
+- Anything from Hybrid Theory
+	- Pushing me away <- Fave / Also maybe the reanimation version
+- Anything from Meteora
+	- Lying from you <- 
 - Linkin Park - Waiting for the End
+
+
+#### Paramore
 - Paramore - Pressure
+- Paramore - Here We Go Again
+- Paramore - My Heart
+- Paramore - Hallelujah
+
+
+
 - Yellow Card
 - Fall Out Boy - Sugar Were Going Down
 - All American Rejects
