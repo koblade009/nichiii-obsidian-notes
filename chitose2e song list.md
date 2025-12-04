@@ -83,13 +83,16 @@
 - Paramore - Here We Go Again
 - Paramore - My Heart
 - Paramore - Hallelujah
+- Paramore - Turn it off <- Prolly fave Paramore Track
+- Will need to check playlist later
 
 
 
 - Yellow Card
 - Fall Out Boy - Sugar Were Going Down
-- All American Rejects
+- Fall Out Boy - Thnks Fr Th Mmrs
+- Boys Like Girls - The Great Escape
+- All American Rejects - It Ends Tonight
 - Thousand Foot Krutch - Phenomenon
 - Disturbed - Indestructible
-- Any LP - Hybrid Theory or Meteora Track
 - The Corrs - Breathless
