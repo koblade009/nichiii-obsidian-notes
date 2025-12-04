@@ -5,17 +5,13 @@
 - Abscond - Agay
 - Phylum - Sabot sabot
 - Ambassadors -Ulipon sa gugmang giatay
-- Missing Filemon - Sine-sine / Suroy-suroy
+- Missing Filemon - Sine-sine
 - Circle of Willis - Nalumay / Reyna Prinsesa
 - KDB - Wa Gyud
 - Di madutlan
 - Tabang
-- Agipo - Pag sure oi
-- Oh Caraga! - Ipanumpa ko
 - Jewel Villaflores - Duyog
-- Agadiers - Gugma / Pagbakho
 - Phylum - Palagot sa Kontra
-- Mantequilla - LQ
 - Prinsepal
 - Harana
 - Inday
@@ -24,7 +20,6 @@
 - Lapida sa Gugma
 - Smooth Friction - Solid ug lawas
 - Scrambled Eggs - Tagay / Maanad Ra Ka
-- Agipo - Batang Nangka 
 
 ### Tagalog:
 - Any Skusta Clee songs
@@ -39,7 +34,29 @@
 - Any December Avenue
 
 ### English Songs:
+- Radiohead - Planet Telex
+- Radiohead - Fake Plastic Trees
+- Radiohead - Nice Dream
+- Radiohead - Just <- Depends on mood
+- Radiohead - My Iron Lung <- Depends on mood
+- Radiohead - Street Spirit
 - Radiohead - Black Star
+- Radiohead - Airbag
+- Radiohead - Climbing up the walls
+- Radiohead - Exit Music
+- Radiohead - Subterranean Homesick Alien <- This is really fucking hard I can already tell
+- Radiohead - No Surprises
+- Radiohead - Lucky
+- Radiohead - Karma Police <- Literally everyone and their mom has covered this track already so I prolly shouldn't, depends on mood I guess.
+- Radiohead - How to Disappear Completely
+- Radiohead - Optimistic <- Depends on how difficult it is
+- Radiohead - Knives Out
+- Radiohead - I Might Be Wrong
+- Radiohead - Like Spinning Plates <- Depends I guess
+- Radiohead - Weird Fishes
+- Radiohead - Jigsaw Falling into Place
+- Radiohead - Faust Arp <-Depends
+- Radiohead - All I Need <- Depends
 - Linkin Park - Waiting for the End
 - Paramore - Pressure
 - Yellow Card
