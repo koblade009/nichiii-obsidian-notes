@@ -26,6 +26,4 @@ Wanna do:
 - Reyna Prinsesa Cover
 	- ![](https://www.youtube.com/watch?v=m3jDQTqnLWw)
 	- ![](https://youtu.be/sCYvQyTEouw)
-- Sabot-sabot
-	- ![](https://youtu.be/RW_augIcr1M?list=PL-Fr-h7HN1L3ookZveXQA0L9RPauTkD14)
 -
