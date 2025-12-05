@@ -3,7 +3,6 @@
 - Ambassadors - Daw Sama sa Iro
 - Scrambled Eggs - Naglibog
 - Abscond - Agay
-- Phylum - Sabot sabot
 - Ambassadors -Ulipon sa gugmang giatay
 - Missing Filemon - Sine-sine
 - Circle of Willis - Nalumay / Reyna Prinsesa
@@ -16,8 +15,6 @@
 - Harana
 - Inday
 - Kamagayan
-- Enchi - Gugmang Giatay / Baboy / Baso
-- Lapida sa Gugma
 - Smooth Friction - Solid ug lawas
 - Scrambled Eggs - Tagay / Maanad Ra Ka
 
