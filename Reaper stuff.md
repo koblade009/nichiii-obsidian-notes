@@ -17,3 +17,7 @@ Use the plugin ReaFir:
 
 ### Other stuff
 I think my process needs an overhaul
+
+
+### Finding the BPM of a track
+
