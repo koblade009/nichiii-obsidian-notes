@@ -20,4 +20,10 @@ I think my process needs an overhaul
 
 
 ### Finding the BPM of a track
-
+![](https://www.youtube.com/watch?v=Z9k09zgbE6g)
+- Cut off 4 bars of 4 beats if the track is 4/4
+- Actions > create new measure
+- Check the approx bpm . ex 84.9 = 85bpm
+- Change project setting
+- Delete everything and place them again
+- 
