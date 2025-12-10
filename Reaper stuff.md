@@ -10,5 +10,10 @@ Use the plugin ReaFir:
 
 
 
+### For amplifying waveform sections
+- Split
+- F2 for item properties
+- Adjust volume
+
 ### Other stuff
 I think my process needs an overhaul
