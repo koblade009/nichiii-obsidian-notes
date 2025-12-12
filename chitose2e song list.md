@@ -1,11 +1,10 @@
 
 ### Visayan/Bisrock:
 - Ambassadors - Daw Sama sa Iro
-- Scrambled Eggs - Naglibog
 - Abscond - Agay
 - Ambassadors -Ulipon sa gugmang giatay
 - Missing Filemon - Sine-sine
-- Circle of Willis - Nalumay / Reyna Prinsesa
+- Circle of Willis - Nalumay
 - KDB - Wa Gyud
 - Di madutlan
 - Tabang
