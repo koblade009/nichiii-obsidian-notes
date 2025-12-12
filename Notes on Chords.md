@@ -6,9 +6,16 @@ which means 3 notes
 Root note, 3rd, 5th 
 
 Major chords formula
-Root note > 3 semitones inbetween Middle Note > 5 semitones inbetween this and root
+1 . . . 2 . . 3
+Minor chords formula
+1 . . 2 . . . 3
 ![[Pasted image 20251213002707.png]]
 
-So like for a C major chords
+![[Pasted image 20251213004139.png]]
 
+C major chord
 C Root > [C#, D, D#] > E > [F, F#] G
+
+C minor chord
+C Root > [C#, D,] > D# > [E, F, F#] G
+
