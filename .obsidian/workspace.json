@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "midi or piano stuff.md",
+                "file": "Cover song workflow tutorial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "midi or piano stuff"
+              "title": "Cover song workflow tutorial"
             }
           }
         ]
@@ -186,8 +186,10 @@
   },
   "active": "fa71876391857ff5",
   "lastOpenFiles": [
-    "chitose2e song list.md",
+    "Wu Wei.md",
+    "Cover song workflow tutorial.md",
     "midi or piano stuff.md",
+    "chitose2e song list.md",
     "Chord change and metronome exercise.md",
     "Chord Formula.md",
     "Scales Formula.md",
@@ -197,7 +199,6 @@
     "Guitar scales cheat sheet.md",
     "README.md",
     "Reaper stuff.md",
-    "Wu Wei.md",
     "Pasted image 20251213004139.png",
     "Pasted image 20251213002707.png",
     "Pasted image 20251205191139.png",
@@ -221,7 +222,6 @@
     "21glucose/chitose2e.md",
     "Music related/Noise Gate Explained.md",
     "Music related/Theory is important.md",
-    "Music related/Equalizer Explained.md",
     "Music related",
     "nichiii_misc/nmattach",
     "nichiii_misc",
