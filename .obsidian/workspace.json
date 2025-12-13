@@ -11,10 +11,14 @@
             "id": "8ea1db223f0f7a78",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "chitose2e song list.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "chitose2e song list"
             }
           }
         ]
