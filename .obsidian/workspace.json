@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chord Formula.md",
+                "file": "midi or piano stuff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chord Formula"
+              "title": "midi or piano stuff"
             }
           }
         ]
@@ -186,17 +186,18 @@
   },
   "active": "fa71876391857ff5",
   "lastOpenFiles": [
+    "chitose2e song list.md",
+    "midi or piano stuff.md",
+    "Chord change and metronome exercise.md",
+    "Chord Formula.md",
     "Scales Formula.md",
     "Task list.md",
-    "chitose2e song list.md",
-    "Chord change and metronome exercise.md",
     "Cure for analysis paralysis.md",
     "Figuring out melody for bass and guitar solo.md",
     "Guitar scales cheat sheet.md",
     "README.md",
     "Reaper stuff.md",
     "Wu Wei.md",
-    "Chord Formula.md",
     "Pasted image 20251213004139.png",
     "Pasted image 20251213002707.png",
     "Pasted image 20251205191139.png",
@@ -221,7 +222,6 @@
     "Music related/Noise Gate Explained.md",
     "Music related/Theory is important.md",
     "Music related/Equalizer Explained.md",
-    "Music related/Compressor Explained.md",
     "Music related",
     "nichiii_misc/nmattach",
     "nichiii_misc",
