@@ -9,7 +9,6 @@
 - KDB - Wa Gyud
 - Di madutlan
 - Tabang
-- Jewel Villaflores - Duyog
 - Phylum - Palagot sa Kontra
 - Prinsepal
 - Harana
@@ -26,7 +25,6 @@
 - 8 Ballin - Know Me
 - Typecast - The Boston Drama or Will You Ever Learn
 - Omar Baliw x CLR - R.O.T. OR K&B IV
-- 1096 Gang - TOKTOK or Inumaga
 - Any Parokya ni Edgar Songs
 - Any Eheads
 - Any Rivermaya

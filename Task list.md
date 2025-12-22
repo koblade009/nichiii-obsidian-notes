@@ -1,24 +1,6 @@
 
 Wanna do:
-- Writing antagonists, maybe for golden troupe or for witchlands.
-	- I find it hard to make a character that I'm supposed to hate. I think I'm too attached to the things I make. I think if I'm able to detach myself better, it will prolly help me look at my works more objectively. Be it quality of art or music. I think it will also help me take critiques without stinging as much.
-
-- Make fourthwall prints
-- Learn how to sing properly <- [[My voice is also an instrument]]
-	- After that I can post moar covers
-- Prioritization:
-	- For covers I think I need to prioritize the singing. I think as long as the singing is good, then it prolly shouldn't really matter if I don't make the instrumentation as complex as I want it to be. 
-	- That being said I still really, REALLY, want to incorporate these to my covers tho:
-		- Groovy bassline
-		- Lead guitar stuff
-		- Groovy rhythm guitar
-		- + Relaxed / Groovy singing
-	- I think I want to prioritize groovy-ness over complexity if possible. I mean the point of the covers after all is to make it feel like an acoustic guitar jam session with friends.
-	- As long as I'm able to bob my head while listening to it. I think it's golden. 
-- The Coors - Breathless Cover
-	- ![](https://youtu.be/fZAB9vbZPoI)
-	- ![](https://youtu.be/aTGi9X5pd1w)
-	- ![](https://youtu.be/2-oWgLi3ZBc)
-	- ![](https://youtu.be/AJwyd8FrSmE)
-- Daw Sama Sa Iro Cover 
-	- ![](https://youtu.be/Tdq1_u2GJKg)
+- Covers:
+	- Chicosci - A Promise
+	- A Thorn for Every Heart - You're the One
+	- Dashboard Confessional - Am I missing
