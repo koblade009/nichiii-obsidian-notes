@@ -7,7 +7,6 @@ Right now, I really want to make a cover of some local bisrock songs just to get
 - Guitar and vocals only
 - I think it's important to grind out the guitar and vocals first and hopefully improve at it before adding more complexity to it
 - Just a simple drawing as the video backdrop
-- No 3D music, or lyrics on screen. 
 - As barebones as possible. I want it to feel like just hanging out with friends and jamming out.
 - Just focus on improving on guitar and vocals bit by bit.
 
