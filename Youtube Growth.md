@@ -42,20 +42,36 @@ Notes:
 				- Classic
 					- The Beatles
 					- Queen
+					- Eagles
+					- Scorpions
+					- Bee Gees
 				- 2000s pop music
 					- Savage Garden
 					- Britney Spears
 					- The Corrs
 					- The Black Eyed Peas
-				- 2000s alt rock music
+					- Justin Bieber
+					- Bruno Mars
+				- 2000s alt/rock music
 					- Linkin Park
+					- Foo Fighters
+					- Green Day
+					- Nickelback
 					- Yellow Card
 					- Fall Out Boy
 					- Boys Like Girl
+					- Evanescence
+					- 3 Doors Down
+					- Papa Roach
+					- Limp Bizkit
+					- Three Days Grace
+					- Seether
 				- Emo era music
 					- My Chemical Romance
 					- Paramore
 					- All Time Low
+					- Panic at the Disco
+					- The All-American Rejects
 				- Post-hardcore era
 					- Sleeping with Sirens
 					- Pierce the Veil
@@ -66,6 +82,8 @@ Notes:
 					- Nirvana
 					- My Bloody Valentine
 					- Slowdive
+					- The Strokes <- Is this It
+					- Arctic Monkeys <- Whatever People Say I Am, That's What I'm Not, Humbug
 				- Modern-day music
 					- I don't have much in mind tbh
 
