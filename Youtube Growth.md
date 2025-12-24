@@ -45,6 +45,7 @@ Notes:
 					- Eagles
 					- Scorpions
 					- Bee Gees
+					- Guns n Roses
 				- 2000s pop music
 					- Savage Garden
 					- Britney Spears
@@ -83,7 +84,7 @@ Notes:
 					- My Bloody Valentine
 					- Slowdive
 					- The Strokes <- Is this It
-					- Arctic Monkeys <- Whatever People Say I Am, That's What I'm Not, Humbug
+					- Arctic Monkeys <- Whatever People Say I Am, That's What I'm Not, Humbug, AM 
 				- Modern-day music
 					- I don't have much in mind tbh
 
