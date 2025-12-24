@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4d8208d6697f5362",
+        "id": "2cae8b6b49cc19aa",
         "type": "tabs",
         "children": [
           {
-            "id": "8ea1db223f0f7a78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Music related/Figuring out melody for bass and guitar solo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Figuring out melody for bass and guitar solo"
-            }
-          },
-          {
-            "id": "74d4bb2de958cf50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Music related/Reaper stuff.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reaper stuff"
-            }
-          },
-          {
-            "id": "e8594cd2d6b01b60",
+            "id": "0c449c9952fe4bfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,8 +21,7 @@
               "title": "chitose2e wishlist"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,9 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8594cd2d6b01b60",
+  "active": "0c449c9952fe4bfc",
   "lastOpenFiles": [
     "chitose2e song list.md",
+    "Music related/Figuring out melody for bass and guitar solo.md",
+    "Music related/Reaper stuff.md",
     "chitose2e wishlist.md",
     "Task list.md",
     "21glucose/chitose2e.md",
@@ -226,11 +199,9 @@
     "images/Pasted image 20251204183909.png",
     "images/Pasted image 20251205015340.png",
     "images",
-    "Music related/Reaper stuff.md",
     "Music related/Scales Formula.md",
     "Music related/Knowing every note in the fretboard.md",
     "Guitar scales cheat sheet.md",
-    "Music related/Figuring out melody for bass and guitar solo.md",
     "Music related/Chord change and metronome exercise.md",
     "Wu Wei.md",
     "images/Pasted image 20251219033443.png",
