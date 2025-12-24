@@ -1,7 +1,7 @@
 
 I wanna move beyond doing acoustic covers since I've sorta gotten the hang of adding digital drums now. 
 
-I still have a lot of gripes with the converted vocals, it just doesn't really capture my singing properly and it sounds really dead/janky a lot of times. I think I'll need to start looking to using something like Synthesizer V, like vocaloid stuff since from what I've seen it's makes clean vocals and you have a lot more control with it.
+I still have a lot of gripes with the converted vocals, it just doesn't really capture my singing properly and it sounds really emotionless/janky a lot of times. I think I'll need to start looking to using something like Synthesizer V, like vocaloid stuff since from what I've seen it's makes clean vocals and you have a lot more control with it.
 
 Anyways, wishlist:
 - Synth V / free alternatives
