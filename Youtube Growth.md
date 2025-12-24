@@ -23,9 +23,10 @@ Notes:
 					- Parokya ni Edgar
 					- Kamikazee
 					- Sponge Cola
-				- I think it's a bit more niche, but PH emo music prolly has really chill tech savvy audience too:
+				- I think it's a lot more niche, but PH emo-adjacent music prolly has really chill tech savvy audience too:
 					- Chicosci
 					- Typecast
+					- Urbandub
 
 		- Rap Covers <- 1 sub <- 2 twitter followers <- I initially thought these would be more popular than opm rock music, but in actuality, it's more niche. I don't think filipino weebs listen to rap music as much, they prolly listen to rock opm tho. I do feel like the audience ph rap music are so fucking cool and chill.
 			- I think I need to dissect it more tho.
@@ -38,14 +39,35 @@ Notes:
 			- I think there's a lot of people who listen to radiohead and are interested in watching covers
 			- I think english music just has the most number of audience in general.
 			- To dissect it
+				- Classic
+					- The Beatles
+					- Queen
+				- 2000s pop music
+					- Savage Garden
+					- Britney Spears
+					- The Corrs
+					- The Black Eyed Peas
 				- 2000s alt rock music
+					- Linkin Park
 					- Yellow Card
 					- Fall Out Boy
 					- Boys Like Girl
 				- Emo era music
-					- 
+					- My Chemical Romance
+					- Paramore
 					- All Time Low
-					- 
+				- Post-hardcore era
+					- Sleeping with Sirens
+					- Pierce the Veil
+				- /mu/core stuff
+					- Radiohead
+					- Death Grips
+					- Neutral Milk Hotel
+					- Nirvana
+					- My Bloody Valentine
+					- Slowdive
+				- Modern-day music
+					- I don't have much in mind tbh
 
 - The plan:
 	- Bisrock Covers 
