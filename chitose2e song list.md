@@ -18,6 +18,8 @@
 - Scrambled Eggs - Tagay / Maanad Ra Ka
 
 ### Tagalog:
+- December Avenue - Sleep Tonight
+- Chicosci - Raspberry Girl
 - Skusta Clee
 	- Zebbiana
 	- Lagi
@@ -29,7 +31,6 @@
 - Any Eheads
 - Any Rivermaya
 - Any Silent Sanctuary
-- Any December Avenue
 
 ### English Songs:
 #### Radiohead:
