@@ -85,6 +85,8 @@ Notes:
 					- Slowdive
 					- The Strokes <- Is this It
 					- Arctic Monkeys <- Whatever People Say I Am, That's What I'm Not, Humbug, AM 
+				- Weeb stuff
+					- Persona 5 OST
 				- Modern-day music
 					- I don't have much in mind tbh
 
