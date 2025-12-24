@@ -14,3 +14,4 @@ Getting these would also involve having to learn how to use them...
 
 But essentially I wanna improve the sound of my covers. And then hopefully once I get good enough, I'll be able to write my own tracks/songs. I think I have a lot of use cases for owning my own music. Ex. drawing stream bgm, music for any animations I might make, and also just expressing my self in the most accurate way possible, being able to say what I wanna say about the world.
 
+Gear wishlist: (Super nice to have but I can live without it)
