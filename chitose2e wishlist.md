@@ -12,7 +12,7 @@ Anyways, wishlist:
 - More digital sounding synths <- I think something like Flip D (exbatallion) kinds of sounds,  something like PinocchioP sounds as well. Something modern sounding.
 	- I think there's value in doing a modernized cover of an old song that I love
 		- Say, imagine bisrock stuff but it has instrumentations that are more akin to vocaloid music
-	- Biggest inspiration for wanting a more digital sound as well is because I've been listening a lot to chicosci lately and they've been doing really cool digital sounds to their music. Ex. raspberry girl and last look
+	- Biggest inspiration for wanting a more digital sound as well is because I've been listening a lot to chicosci lately and they've been doing really cool digital sounds to their music which I feel adds soooo much to their songs. Ex. raspberry girl and last look
 		- ![](https://youtu.be/gLlfheWNETQ)
 		- ![](https://youtu.be/7aCtZsqu1Pg)
 		- 
