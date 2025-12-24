@@ -5,3 +5,4 @@ Wanna do:
 	- Parokya ni Edgar - Halaga
 	- A Thorn for Every Heart - You're the One
 	- Dashboard Confessional - Am I missing
+	- Shanti Dope - AMATS
