@@ -61,7 +61,7 @@ The future:
 		- Granted, there are AI art accounts that I follow on twitter, mostly anime related. I see it, but I had zero desire to go out of my way to support the person behind it. Whereas there are artists who I see their works, and I want merch of their stuff. I don't even know much about who the artist behind the work is. They're basically anonymous and yet, just knowing there's a person/artist behind it already makes things feel so much more resonant. 
 - TLDR TLDR TLDR
 	- I'm never doubting myself again
-		- never my decisions
+		- never my decisions <- also applies to the works I publish. If i think it's good enough to post, it's good enough to post. If it's bad then it's bad.
 		- never my skills and capabilities <- skill doesn't really matter as much, vision and human/emotional resonance is more important, it's why i like making music covers and even listening to other people's music covers, there's relatability and human connection, that stuff resonates with me and I think that matters more when making art
 		- never my (financial or literal) future <- I've never made decisions in the past that I regret now. I wouldn't be who I am today if I didn't take detours or changed directions. Sure, I'm struggling financially right now, but I think I'd also still be struggling if I took a different path in life.
 	- I know what I want. I have what it takes. I know what to do. 
