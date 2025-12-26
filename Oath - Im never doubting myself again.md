@@ -42,11 +42,17 @@ The future:
 - I think if I'm able to make stable income from art or music, I'd be okay.
 - The plan:
 	- I think it's to build stuff that I can earn consistently from:
-		- Unifans commissions - I had a lot of gripes with this and I wanted to quit entirely, but I think it's okay if I do it sparingly, as long as my whole livelihood doesn't entirely depend on it, I'll be fine since that would allow me to accept commissions on my own terms. 
+		- Unifans commissions - I had a lot of gripes with this and I wanted to quit entirely, but I think it's okay if I do it sparingly, as long as my whole livelihood doesn't entirely depend on it, I'll be fine since that would allow me to accept commissions on my own terms (aka, longer delivery times, less pressure/stress from client communications). 
 		- chitose2e - I think there's potential here. And I think I have what it takes to make it work. I love the stuff that I make, like I listen to the covers I make and actually enjoy listening to it. 
 			- Regarding income from music:
 				- I don't really know if the YT channel will earn ad rev by itself, if it does that'd be nice.
 				- However, I think there's potential when it comes to doing production work.
 					- I think there are people who need help with music production. aspiring vtubers who want to make their song covers etc.
 				- Still though, I think just the fact that there's potential for my YT to start generating revenue already makes it worth it for me to actually keep pursuing. Just one video going viral could unlock stable means of income if I do it right. 
-		- 21glucose / shirt prints / merch - I used to think this is going to be the way, but I'd be shelving this idea at the moment. I'll prolly dabble with it here and there because it's fun to design stuff. 
+		- 21glucose / shirt prints / merch - I used to think this is going to be the way, but I'd be shelving this idea at the moment. I'll prolly dabble with it here and there because it's fun to design stuff.
+- I wanna make the most of what I currently have instead of hurting about what I've lost.
+	- I still have pixiv to get clients for unifans commissions, there are still people who want to commission me contrary to what I used to believe, and there are still ways to attract clients, as I found out from a dota fan-art I made. 
+	- I have a YT channel now to post music covers in
+	- Twitter sucks atm. But I feel a lot better now I've realized it's not really as important as I thought. Twitter reach/audience isn't really that good of a measure of how many people are willing to support you. Legitimately, I found vtubers and musicians who had zero reach on twitter and are still doing really well on their streams/youtube. 
+	- Regarding generative AI:
+		- Upon retrospect, I've never once had the desire or urge to look for ai
