@@ -43,4 +43,10 @@ The future:
 - The plan:
 	- I think it's to build stuff that I can earn consistently from:
 		- Unifans commissions - I had a lot of gripes with this and I wanted to quit entirely, but I think it's okay if I do it sparingly, as long as my whole livelihood doesn't entirely depend on it, I'll be fine since that would allow me to accept commissions on my own terms. 
-		- chitose2e - I think there's potential here. And I think I have what it takes to make it work. I love the stuff that I make, like I listen to the covers I make and actually enjoy listening to it.
+		- chitose2e - I think there's potential here. And I think I have what it takes to make it work. I love the stuff that I make, like I listen to the covers I make and actually enjoy listening to it. 
+			- Regarding income from music:
+				- I don't really know if the YT channel will earn ad rev by itself, if it does that'd be nice.
+				- However, I think there's potential when it comes to doing production work.
+					- I think there are people who need help with music production. aspiring vtubers who want to make their song covers etc.
+				- Still though, I think just the fact that there's potential for my YT to start generating revenue already makes it worth it for me to actually keep pursuing. Just one video going viral could unlock stable means of income if I do it right. 
+		- 21glucose / shirt prints / merch - I used to think this is going to be the way, but I'd be shelving this idea at the moment. I'll prolly dabble with it here and there because it's fun to design stuff. 
