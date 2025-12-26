@@ -21,15 +21,17 @@ However, when I look back and really dissect it, I don't think I've made any wro
 	- Income: commissions -> I think this was the most that I earned and could have even been so much more had I not been in a relationship with someone.
 - 2023
 	- Joined /DAD/ -> learned sooo much about anatomy
-	- Income: zero income -> 
+	- Didn't make any money while on /DAD/ but I don't regret it. I drew so much during this period and also learned so much.
+	- Income: boxing comm income -> zero income 
 - 2024
-	- Returned to twitter, did a few nsfw boxing commissions for a bit, then finally called it quits.
+	- Returned to twitter, did a few nsfw boxing commissions for a bit, then finally called it quits with catering to boxing stuff.
 	- Started doing some vtuber fan art. Particularly neuro. Then pippa. Then phase in general.
 	- Started defining my art style.
 	- Income: boxing comm then a tiny bit from fanbox -> It was a massive struggle to make money during this time. I switched to making nsfw loli content which was really hard to do commissions with. I couldn't use paypal for transactions like before and I couldn't find a platform to accept commissions with.
 - 2025
 	- Obliterated by getting banned from twitter.
 	- Ended 5 yr+ relationship with gf. This plus losing my twitter account which I saw as my only means of income ended up really fucking me up mentally. 
+	- Called it quits with cater
 	- Started getting into FlyFF and made art of FlyFF Characters -> gave me chitose
 	- Started using unifans and finally got a bit of a start from it thanks to kai for commissioning an artwork.
 	- Late nov/early december -> irl stress + feeling like I had no future again due to prevalence of generative AI content and just generally having lost direction. 
