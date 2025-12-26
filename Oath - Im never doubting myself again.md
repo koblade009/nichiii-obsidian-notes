@@ -60,4 +60,5 @@ The future:
 - TLDR TLDR TLDR
 	- I'm never doubting myself again
 		- never my decisions
-		- never my skills and capabilities <- skill doesn't really matter as much, vision and human/emotional resonance is more important, it's why i like making music covers and even listening to other people's music covers, there's relatability and human connection, that stuff resonates with me
+		- never my skills and capabilities <- skill doesn't really matter as much, vision and human/emotional resonance is more important, it's why i like making music covers and even listening to other people's music covers, there's relatability and human connection, that stuff resonates with me and I think that matters more when making art
+		- never my (financial or literal) future <- I've never made decisions in the past that I regret now. I wouldn't be who I am today if I didn't take detours or changed directions. Sure, I'm struggling financially right now, but I think I'd also still be struggling if I took a different path in life.
