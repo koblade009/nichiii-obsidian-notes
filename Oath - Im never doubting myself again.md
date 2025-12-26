@@ -12,16 +12,22 @@ I had doubts and was miserable with the fact that my numbers now are low and the
 However, when I look back and really dissect it, I don't think I've made any wrong decisions since I started doing art back in 2021
 
 - 2021 - 
-	- Made in Abyss fanart
-	- KPop fanart
+	- Made in Abyss, General Anime Fanart + Kpop fanart
 	- First ever paid commission -> boxing art
+	- Income: commissions -> I think it was really good. It wasn't much but I was so happy.
 - 2022
-	- 
+	- My very first consistent client -> nsfw boxing art
+	- Somewhat livable income from commissions. It was so painful but in the end I think it was all worth it. I improved so much and developed my drawing process.
+	- Income: commissions -> I think this was the most that I earned and could have even been so much more had I not been in a relationship with someone.
 - 2023
-	- 
+	- Joined /DAD/ -> learned sooo much about anatomy
 - 2024
-	- 
+	- Returned to twitter, did a few nsfw boxing commissions for a bit, then finally called it quits.
+	- Started doing some vtuber fan art. Particularly neuro. Then pippa. Then phase in general.
+	- Started defining my art style.
 - 2025
+	- Obliterated by getting banned from twitter.
+	- Ended relationship with gf
 	- Started getting into FlyFF and made art of FlyFF Characters -> gave me chitose
 	- Started getting into music and made music-related art 
 	- Started making covers using chitose
