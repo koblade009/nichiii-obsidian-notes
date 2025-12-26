@@ -1,6 +1,7 @@
 
 ![](https://youtu.be/Idn0Kur-I2Q)
 
+
 How the algo works:
 - It's sorta all about algo confidence, if your channel is clear in what it is then the algo knows who to recommend it to.
 
