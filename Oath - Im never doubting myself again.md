@@ -26,7 +26,7 @@ However, when I look back and really dissect it, I don't think I've made any wro
 	- Returned to twitter, did a few nsfw boxing commissions for a bit, then finally called it quits.
 	- Started doing some vtuber fan art. Particularly neuro. Then pippa. Then phase in general.
 	- Started defining my art style.
-	- Income: boxing comm then zero income -> It was a massive struggle to make money during this time. I switched to making nsfw loli content which was really hard to do c
+	- Income: boxing comm then a tiny bit from fanbox -> It was a massive struggle to make money during this time. I switched to making nsfw loli content which was really hard to do commissions with. I couldn't use paypal for transactions like before and I couldn't find a platform to accept commissions with.
 - 2025
 	- Obliterated by getting banned from twitter.
 	- Ended 5 yr+ relationship with gf. This plus losing my twitter account which I saw as my only means of income ended up really fucking me up mentally. 
@@ -35,4 +35,12 @@ However, when I look back and really dissect it, I don't think I've made any wro
 	- Late nov/early december -> irl stress + feeling like I had no future again due to prevalence of generative AI content and just generally having lost direction. 
 	- Started getting into music and made music-related art 
 	- Started making covers using chitose
-- 2026
+	- Income: zero then commissions (unifans) 
+
+The future:
+- I think a lot of my misery and self doubt is rooted in financial worries for the future.
+- I think if I'm able to make stable income from art or music, I'd be okay.
+- The plan:
+	- I think it's to build stuff that I can earn consistently from:
+		- Unifans commissions - I had a lot of gripes with this and I wanted to quit entirely, but I think it's okay if I do it sparingly, as long as my whole livelihood doesn't entirely depend on it, I'll be fine since that would allow me to accept commissions on my own terms. 
+		- chitose2e - I think there's potential here. And I think I have what it takes to make it work. I love the stuff that I make, like I listen to the covers I make and actually enjoy listening to it.
