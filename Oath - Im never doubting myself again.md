@@ -55,4 +55,9 @@ The future:
 	- I have a YT channel now to post music covers in
 	- Twitter sucks atm. But I feel a lot better now I've realized it's not really as important as I thought. Twitter reach/audience isn't really that good of a measure of how many people are willing to support you. Legitimately, I found vtubers and musicians who had zero reach on twitter and are still doing really well on their streams/youtube. 
 	- Regarding generative AI:
-		- Upon retrospect, I've never once had the desire or urge to look for ai
+		- Upon retrospect, I've never once had the desire or urge to look for ai art/music/content. It was all just shoved on me by twitter algo. And whenever I search up art, I tend to just automatically ignore art that I felt was done with AI. I don't think this is only a me thing. I think most people also feel this way.
+		- Granted, there are AI art accounts that I follow on twitter, mostly anime related. I see it, but I had zero desire to go out of my way to support the person behind it. Whereas there are artists who I see their works, and I want merch of their stuff. I don't even know much about who the artist behind the work is. They're basically anonymous and yet, just knowing there's a person/artist behind it already makes things feel so much more resonant. 
+- TLDR TLDR TLDR
+	- I'm never doubting myself again
+		- never my decisions
+		- never my skills and capabilities <- skill doesn't really matter as much, vision and human/emotional resonance is more important, it's why i like making music covers and even listening to other people's music covers, there's relatability and human connection, that stuff resonates with me
