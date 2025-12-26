@@ -9,3 +9,8 @@ Ideally I could also make an animated backdrop.
 And also, literally the very first note/words have to be on point with my singing. 
 If I fuck up the beginning, I think most people would leave.
 That also applies to the instrumentals
+The very first few seconds should be pleasing as fuck
+
+
+I think my thumbnails also need work and even my titles.
+Make it more clickable.
