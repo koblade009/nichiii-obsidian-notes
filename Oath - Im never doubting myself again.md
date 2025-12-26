@@ -31,13 +31,13 @@ However, when I look back and really dissect it, I don't think I've made any wro
 - 2025
 	- Obliterated by getting banned from twitter.
 	- Ended 5 yr+ relationship with gf. This plus losing my twitter account which I saw as my only means of income ended up really fucking me up mentally. 
-	- Called it quits with cater
-	- Started getting into FlyFF and made art of FlyFF Characters -> gave me chitose
+	- Called it quits with catering to vtuber audience, started making art on other stuff I love
+	- Started getting into FlyFF and made art of FlyFF Characters -> gave me chitose/golden troupe chars
 	- Started using unifans and finally got a bit of a start from it thanks to kai for commissioning an artwork.
-	- Late nov/early december -> irl stress + feeling like I had no future again due to prevalence of generative AI content and just generally having lost direction. 
+	- Late nov/early december -> irl stress, typhoon season, family needed money badly and I couldn't provide + feeling like I had no future again due to prevalence of generative AI content and just generally having lost direction. 
 	- Started getting into music and made music-related art 
 	- Started making covers using chitose
-	- Income: zero then commissions (unifans) 
+	- Income: zero then commissions (unifans) then a tiny bit of irl income
 
 The future:
 - I think a lot of my misery and self doubt is rooted in financial worries for the future.
