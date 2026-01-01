@@ -13,4 +13,4 @@ I think the healthiest way to view it now is to look at it as if it's an esport 
 - but at the same time, you're also looking at other artists and potentially get something from their strats
 - most importantly, it's skill expression. youre expressing yourself but at the same time it's not just about you
 - there is an audience too, there are people who believe in you and you should appreciate and try not to let down
-- there's so much more to it as well. like the achieving your dream aspect. I've rewatched the ti8 ti9 documentary on OG esports and like there's something magical about it. magic that 
+- there's so much more to it as well. like the achieving your dream aspect. I've rewatched the ti8 ti9 documentary on OG esports and like there's something magical about it. magic that I feel have been missing severely in my art journey for so damn long. 
