@@ -15,7 +15,7 @@
 
 ## Overall resolution: 
 - stay in my lane, do things that I love, stay true to who I am
-- [[Oath of never doubting myself again]]
+- [[never doubting myself again - an oath]]
 - develop my identity as a content creator
 	- put myself out there
 	- give away who i am both the good and the bad
