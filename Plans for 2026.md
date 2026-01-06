@@ -1,0 +1,8 @@
+
+- chitose2e - music 
+- chitose gaming - DOTA 2 - yt content, I'm not sure if I should put it on the same channel as the music/art channel, prolly should since I can just make a playlist for music stuff
+	- low effort, chill/vacation style, quantity content
+- nsfw art stuff <- I'm having trouble with this. I wanna stream but at the same time, I don't feel very good streaming on pomf. I don't necessarily really want to just draw loli content. 
+- sfw art stuff <- 
+	- dota 2 fanart
+	- chitose stuff
