@@ -13,8 +13,8 @@
 
 
 Overall: 
-- stay in my lane, do things that I love
+- stay in my lane, do things that I love 
 - develop my identity as a content creator
 	- put myself out there
 	- give away who i am both the good and the bad
-
+- find my ikigai ![[IKIGAI]]
