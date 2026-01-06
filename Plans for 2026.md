@@ -1,4 +1,5 @@
 
+Plans:
 - chitose2e - moar music covers throughout the year
 - chitose3e - yt content, I'm not sure if I should put it on the same channel as the music/art channel, prolly should since I can just make a playlist for music stuff
 	- low effort, chill/vacation style, quantity focused content
@@ -12,8 +13,8 @@
 	- fan art for dota 2 vtubers
 
 
-Overall: 
-- stay in my lane, do things that I love 
+Overall resolution: 
+- stay in my lane, do things that I love, stay true to who I am
 - develop my identity as a content creator
 	- put myself out there
 	- give away who i am both the good and the bad
