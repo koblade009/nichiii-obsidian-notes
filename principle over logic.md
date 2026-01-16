@@ -8,5 +8,6 @@ Think something like:
 	- Don't do things because it's logical. Do things because it's part of your principles/values. [[Core Values of Nichiii]]
 	- Or to put it on another way, don't do things when it's against your values, even when it's super tempting to do it. 
 	- Some amendments to core values I would like to add:
-		-  Never beg for help. Never beg for support. Make money not because people pity you. Rather I want to make money because people want to buy my product.
+		-  Never beg for help. Never beg for support. Earn money not because people pity you. Rather I want to make money because people want to buy my product.
 			- Reinforces my decision to never open a patreon/fanbox account.
+			- Factor for this as well is because it creates a power dynamic between me and my audience. Say a client helps me out, I'd end up feeling indebted, and it would end making me do things that I wouldn't do otherwise.
