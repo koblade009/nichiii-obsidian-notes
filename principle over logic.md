@@ -9,4 +9,4 @@ Think something like:
 	- Or to put it on another way, don't do things when it's against your values, even when it's super tempting to do it. 
 	- Some amendments to core values I would like to add:
 		-  Never beg for help. Never beg for support. Make money not because people pity you. Rather I want to make money because people want to buy my product.
-			- reinforces my decision to never open a patreon/fanbox account.
+			- Reinforces my decision to never open a patreon/fanbox account.
