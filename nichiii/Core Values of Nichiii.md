@@ -3,6 +3,8 @@
 	- I'm aware it's going to be hard. Modern internet forces artists/cc's to stick to one thing that works in order to succeed. But I don't want that. My brain just doesn't thrive on that. When I do something repeatedly for long, I become depressed.
 2. Push only love. Kalmado mentality (Influenced by Omar Baliw / 1096 Gang / G WOLF)
 	- Office politics will only make the workplace feel like hell. 
+3. Never beg for support
+4. Principles over logic
 
 ## Values that I clearly need to work on:
 - Treasuring connection/Initiating friendly relationship to someone
