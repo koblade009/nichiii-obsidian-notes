@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Really good content style"
             }
+          },
+          {
+            "id": "d5f90a8371fc5077",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a65a0a03f9244856",
+  "active": "d5f90a8371fc5077",
   "lastOpenFiles": [
     "principle over logic.md",
     "Really good content style.md",
