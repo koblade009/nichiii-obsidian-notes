@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "d5f90a8371fc5077",
+            "id": "7e708847f5e237d7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "Dota Offline play.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "icon": "lucide-file",
+              "title": "Dota Offline play"
             }
           }
         ],
@@ -197,10 +199,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5f90a8371fc5077",
+  "active": "7e708847f5e237d7",
   "lastOpenFiles": [
-    "principle over logic.md",
     "Really good content style.md",
+    "Dota Offline play.md",
+    "principle over logic.md",
     "nichiii/Core Values of Nichiii.md",
     "Pasted image 20260116104536.png",
     "Pasted image 20260116104520.png",
@@ -229,7 +232,6 @@
     "images/Pasted image 20251205015340.png",
     "images",
     "Music related/Scales Formula.md",
-    "Music related/Knowing every note in the fretboard.md",
     "images/Pasted image 20251219033443.png",
     "images/Pasted image 20251213004139.png",
     "images/Pasted image 20251213002707.png",
