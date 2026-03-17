@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "77f3a36514e3a4b6",
+        "id": "a78300a24dbdcf94",
         "type": "tabs",
         "children": [
           {
-            "id": "a65a0a03f9244856",
+            "id": "b618d46bacff0985",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Really good content style.md",
+                "file": "Canicee/Witchlands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Really good content style"
-            }
-          },
-          {
-            "id": "7e708847f5e237d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dota Offline play.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dota Offline play"
-            }
-          },
-          {
-            "id": "2b703a053d68dc8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Expectations suck the fun out of everything.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Expectations suck the fun out of everything"
+              "title": "Witchlands"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,36 +184,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b703a053d68dc8a",
+  "active": "b618d46bacff0985",
   "lastOpenFiles": [
+    "index.md",
+    "images/Pasted image 20260116104536.png",
+    "nichiii_misc/nmattach/a2.jpeg",
+    "nichiii_misc/nmattach/Pasted image 20251117010357.png",
+    "Art is an esport.md",
+    "Youtube Growth.md",
+    "yt grind links.md",
+    "Plans for 2026.md",
+    "Pasted image 20260116104520.png",
+    "Really good content style.md",
     "Dota Offline play.md",
     "Expectations suck the fun out of everything.md",
-    "Really good content style.md",
     "principle over logic.md",
     "nichiii/Core Values of Nichiii.md",
-    "Pasted image 20260116104536.png",
-    "Pasted image 20260116104520.png",
     "why artists should be on youtube.md",
     "To promote chitose2e music I should make a tiktok account.md",
-    "Plans for 2026.md",
     "never doubting myself again - an oath.md",
-    "index.md",
     "IKIGAI.md",
     "Cure for analysis paralysis.md",
     "chitose2e wishlist.md",
     "chitose2e song list.md",
     "BSJ advice for content creators.md",
     "Best YT tutorial.md",
-    "Art is an esport.md",
     "README.md",
-    "yt grind links.md",
     "Wu Wei.md",
-    "Youtube Growth.md",
     "Task list.md",
     "Music related/Guitar scales cheat sheet.md",
     "Music related/Figuring out melody for bass and guitar solo.md",
     "Music related/Reaper stuff.md",
-    "21glucose/chitose2e.md",
     "images/Pasted image 20251204183909.png",
     "images/Pasted image 20251205015340.png",
     "images",
@@ -250,8 +222,6 @@
     "images/Pasted image 20251213004139.png",
     "images/Pasted image 20251213002707.png",
     "images/Pasted image 20251205191139.png",
-    "images/Pasted image 20251205162624.png",
-    "images/Pasted image 20251205162551.png",
     "Music related",
     "nichiii_misc/nmattach",
     "nichiii_misc",
