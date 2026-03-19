@@ -15,5 +15,4 @@ Rhea sees him as her son
 He doesn't reciprocate this however and only looks at her as his master
 He is aware that his parents are still alive. And he is currently searching for them.
 
-He got this information from his brother Ken (close friend of [[John Merriweather Goldman]])
-
+He got this information from his brother [[Ken]] (close friend of [[John Merriweather Goldman]])
