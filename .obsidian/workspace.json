@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "i sometimes wonder"
             }
+          },
+          {
+            "id": "d69be2754a87801b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1456afd25e347b89",
+  "active": "d69be2754a87801b",
   "lastOpenFiles": [
     "Canicee/Witchlands.md",
     "i sometimes wonder.md",
