@@ -11,12 +11,14 @@
             "id": "cd04f43518465d99",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "elevator pitch.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "elevator pitch"
             }
           }
         ]
@@ -184,6 +186,7 @@
   },
   "active": "cd04f43518465d99",
   "lastOpenFiles": [
+    "elevator pitch.md",
     "21glucose/21glucose Clothing.md",
     "21glucose/21glucose offerings.md",
     "21glucose/21glucose.md",
@@ -209,7 +212,6 @@
     "Canicee/Jeff.md",
     "21gbrainstorm/Dota Offline play.md",
     "21gbrainstorm/IKIGAI.md",
-    "21gbrainstorm/i sometimes wonder.md",
     "images/Pasted image 20260116104536.png",
     "nichiii_misc/nmattach/a2.jpeg",
     "nichiii_misc/nmattach/Pasted image 20251117010357.png",
