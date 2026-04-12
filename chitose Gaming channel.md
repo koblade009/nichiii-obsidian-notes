@@ -20,6 +20,11 @@ I think content creation for gacha/games is a huge part, education AND social
 So the approach/intention for the channel would be educational...
 However, it would have to be done in a social way... in other words... it'll be like me talking to a friend and telling them the best ways to approach the game...
 
+Note:
+I've just realized this game is fucking dense... It is like MMO levels of knowledge required to know it...
+
+
+
 ---
 
 I got a couple ideas...
@@ -42,7 +47,7 @@ How to acquire heroes:
 - Summons <- Not worth spending gems on
 - Calling the chase <- Not very good as you cannot upgrade them via Titanic Growth
 - Guild Shop <- Only for established players
-- Hero Fusion
+- There are some heroes that you literally cannot get anymore (S-heroes)
 
 
 
