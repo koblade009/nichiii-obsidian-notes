@@ -29,12 +29,36 @@ Grand Chase Dimensional Chasers (GCDC)
 Hero Overview - Video by video guide on how to use a character/what a character does
 
 Gameplay Guides - 
+What a hero does:
+- Normal Attack and Passives
+- Skills
+- Ultimate
+- Chaser Skill
+- Soul Upgrades: Changes your hero after investing a lot on them
+- Spirit Upgrade: Bonus ... Lots of investment so it's just something you get on top
+
+How to acquire heroes:
+- Most reliable way is clearing the map and get the hero selectors
+- Summons <- Not worth spending gems on
+- Calling the chase <- Not very good as you cannot upgrade them via Titanic Growth
+
+
+
 
 Beginner Teams - 
 Concept of a team - 
-Damage and Sustain ...
-Damage
+DPS and Sustain ...
+DPS: Assault, Ranger, or Mage ... Usually AOE vs Boss Killer
+
+Sustain: Healer and Tanker (Sometimes Assault (Jin))
+usually sustain needs heal AND shield. this is because your team can get one shot
 
 Green -
+	Damage: Elesis 
+	Sustain: Urara
 Blue - 
+	 Damage: Vice
+	 Sustain: Jin + Amy
 Red - 
+	 Damage: Mari T
+	 Sustain: Serdin + Elesis T
