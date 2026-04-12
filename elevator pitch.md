@@ -1,9 +1,12 @@
 
 [[chitose2e]] Youtube Channel - 
-imagine if an anime girl covers music that is as far from weeb culture as possible? like normie music type shit
+imagine if an anime girl covers music that is as far from weeb culture as possible? 
 
 21glucose -
 weeb art done with bisayawa swag
 
+21g fourthwall -
+swag merch for weebs
+
 kobenichiii -
-imagine if a degenerate artist has zero reservations about their fetishes
+degenerate artist has zero reservations about their fetishes
