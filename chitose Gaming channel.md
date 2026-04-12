@@ -41,6 +41,8 @@ How to acquire heroes:
 - Most reliable way is clearing the map and get the hero selectors
 - Summons <- Not worth spending gems on
 - Calling the chase <- Not very good as you cannot upgrade them via Titanic Growth
+- Guild Shop <- Only for established players
+- Hero Fusion
 
 
 
