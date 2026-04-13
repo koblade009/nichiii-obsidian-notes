@@ -24,6 +24,7 @@ Note:
 I've just realized this game is fucking dense... It is like MMO levels of knowledge required to know it...
 
 
+
 I guess another way to look at it would be to see this as a community building project... I'm tempted to start a new account/identity tbh... a new twitter.. fresh and solely dedicated to grand chase
 
 
