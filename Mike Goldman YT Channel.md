@@ -52,7 +52,17 @@ How to acquire heroes:
 - Guild Shop <- Only for established players
 - There are some heroes that you literally cannot get anymore (S-heroes)
 
+Misc Guide, Pets:
+Every single pet has their own unique skills
+All Heal Pets
+All Shield Pets
+All Damage Pets
+How to upgrade pets
+How to acquire pets (Do not use gems!!)
 
+Beginner Tips:
+Use gems to unlock research slots, research stuff
+Max out your inventory using gold
 
 
 Beginner Teams - 
