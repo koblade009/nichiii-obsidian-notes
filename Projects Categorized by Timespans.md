@@ -43,5 +43,8 @@ Everything that I do should have an end. Establishing a finish line for my proje
 6. kobenichiii nsfw art
 	1. Short Term Project Ideas:
 		1. Futarina Futalors
+		2. Futa getting sucked off by a girl while she gets a dildo shoved in her ass
+			1. Futa on Futa anal sex
+			2. Futa kissing girl while she gets a handjob while getting drilled by a vibrating dildo anally
 	2. Fight-porn content:
 	
