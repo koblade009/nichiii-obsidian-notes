@@ -1,4 +1,7 @@
 
+
+## Channel for GrandChase Dimensional Chasers Content
+
 I see an opportunity. a void in the market.
 
 I think there is a severe lack of english content creators / community for 

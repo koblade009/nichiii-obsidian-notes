@@ -1,5 +1,5 @@
 
-[[chitose2e]] Youtube Channel - 
+[[chitose2e youtube channel]] Youtube Channel - 
 imagine if an anime girl covers music that is as far from weeb culture as possible? 
 
 21glucose -

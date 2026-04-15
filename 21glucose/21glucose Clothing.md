@@ -3,7 +3,7 @@
 - **Once the design is made, it can be sold forever.** 
 - **Benefits from accumulation. The more products and choices, the better.**
 - Manufacturing, Customer Service, and Logistics is handled by Fourthwall
-- Great synerygy with [[chitose2e]]
+- Great synerygy with [[chitose2e youtube channel]]
 
 ## Value proposition
 - Addressing the need for : ESTEEM: Self-esteem, Status, Recognition  [[Value creation]]
@@ -15,5 +15,6 @@
 - Hard Head, Thick Skin - > Celebration of pushing through in spite of opposition.
 - MSPG x MDSKRT - > Celebration of combining hard work and street smarts. Work smart, not sloppy.
 - [[Wu Wei]]  無為
+- Hit Makers - > Targeted content ... exbatallion music
 
 ![](https://files.catbox.moe/dg9h3d.jpg)

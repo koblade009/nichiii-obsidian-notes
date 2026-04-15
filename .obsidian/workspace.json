@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mike Goldman YT Channel.md",
+                "file": "Projects Categorized by Timespans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mike Goldman YT Channel"
+              "title": "Projects Categorized by Timespans"
             }
           }
         ]
@@ -185,5 +185,12 @@
     }
   },
   "active": "9cf05e1c2bafbcc3",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "21glucose/21glucose Clothing.md",
+    "Projects Categorized by Timespans.md",
+    "Serpent of Greed Tshirt.md",
+    "README.md",
+    "Mike Goldman YT Channel.md",
+    "21glucose/chitose2e youtube channel.md"
+  ]
 }
