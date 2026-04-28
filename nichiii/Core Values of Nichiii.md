@@ -4,6 +4,7 @@
 2. Push only love. Kalmado mentality (Influenced by Omar Baliw / 1096 Gang / G WOLF)
 	- Office politics will only make the workplace feel like hell. 
 3. Never beg for support
+	1. Always shill, never beg
 4. Principles over logic
 
 ## Values that I clearly need to work on:
@@ -17,6 +18,8 @@
 - Boundless Greed
 - Opportunistic
 - Hard Head, Thick Skin
+- Shameless
+- Shill First, Beg Never
 
 These values influence how I conduct business [[Businesses of Nichiii]]
 
