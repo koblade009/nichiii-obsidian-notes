@@ -26,6 +26,10 @@ Content types:
 	- This is content aiming to help a viewer understand/digest things that they wanna understand. Guides, Lores, Story breakdown, etc
 	- Goal is to break down things into simple concepts so that they are easy to absorb.
 	- Shill mechanism - Same as content A... Might also be good to be sponsored
+- [[YT Video Content C - Stimulate Engagement]]
+	- This content aims to shake things up in an otherwise stagnant space.
+	- Goal is to get people talking. Get them to speak out their opinions about things. 
+	- Shill mechanism - This content prolly doesn't need it, this content itself is a shill mechanism for the YT Channel
 - [[YT Stream Content A - Drawing while Yapping with Viewer]]
 	- Shill mechanism - Ad of my fourthwall fashion shit on my stream overlays
 	- Get this SWAGSHIT cap at the pinned link!
