@@ -24,7 +24,7 @@ Everything that I do should have an end. Establishing a finish line for my proje
 		1. Boundless Greed Series
 			1. Greedy Heart
 			2. [[Serpent of Greed Tshirt]]
-4. [[Mike Goldman YT Channel]]
+4. [[nichiii_vt YT Channel]]
 	1. GrandChase Content
 		1. Playthrough
 			1. Event Playthrough
