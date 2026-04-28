@@ -8,13 +8,18 @@
 ## Value proposition
 - Addressing the need for : ESTEEM: Self-esteem, Status, Recognition  [[Value creation]]
 
-## Clothing lines:
+## Clothing lines (In deliberation/needs improving):
 - Sweetened Death - > Celebration of living a full life
-- Boundless Greed - > Celebration of taking action to get what you want
 - Opportunistic - > Celebration of being already equipped to capitalize when the opportunity falls. As opposed to waiting for opportunity and then scrambling on how to capitalize on it.
-- Hard Head, Thick Skin - > Celebration of pushing through in spite of opposition.
 - MSPG x MDSKRT - > Celebration of combining hard work and street smarts. Work smart, not sloppy.
 - [[Wu Wei]]  無為
 - Hit Makers - > Targeted content ... exbatallion music
+- Alchemist - Scrap to Gold
+- Cannot be boxed in - All about not being trapped
+
+## Clothing Lines:
+- Boundless Greed - Celebration of taking action to get what you want
+- Shameless Advancement - Celebration of pushing through in spite of opposition.
+
 
 ![](https://files.catbox.moe/dg9h3d.jpg)

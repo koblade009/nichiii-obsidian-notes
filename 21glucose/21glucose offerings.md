@@ -12,7 +12,6 @@
 	- Reasoning: No audience for it yet
 
 ## Low chance but considering:
-- 3D animation for YouTube
 - [[Fan Merch]] - for gacha games
 
 ## Absolute no-go:
