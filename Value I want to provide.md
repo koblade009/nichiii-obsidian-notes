@@ -9,4 +9,4 @@ The "art" that I post is just in a sense, marketing. It's how some people are go
 
 YouTube to me, is going to be my main vehicle. Videos and streams are the best way for people to get to know me as a CC and understand where I come from and what my intentions are.
 
-I think in the end, 
+I think in the end, porn and NSFW stuff doesn't really align with as much with the value I want to provide. The only way I can think of integrating it is with doing NSFW drawing streams and chatting with my audience and producing porn for the community I serve.
