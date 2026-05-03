@@ -33,4 +33,4 @@ At some point, I will have to grown beyond Mongil and get myself into more lucra
 
 ---
 
-Knowing all of this that I am eventually aiming for mainstream success/financial gains... I think it wi
+Knowing all of this that I am eventually aiming for mainstream success/financial gains... I think it will be inevitable that I will have to hide and pretty much straight up nuke my NSFW aspirations basically. 
