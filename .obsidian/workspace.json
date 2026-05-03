@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Who my supporters really are.md",
+                "file": "Value I want to provide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Who my supporters really are"
+              "title": "Value I want to provide"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "9cf05e1c2bafbcc3",
   "lastOpenFiles": [
-    "Value I want to provide.md",
     "Who my supporters really are.md",
+    "Value I want to provide.md",
     "Serpent of Greed Tshirt.md",
     "Fandom is not community, alignment of opinion is.md",
     "index.md",
