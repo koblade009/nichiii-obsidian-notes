@@ -55,16 +55,52 @@ Heroes I dont have: Arsad, Nepteon, Metatron, Gaian
 #### My read on these units
 
 
-| Type           | Unit        | Assessment                                         | Build or Nah? |
-| -------------- | ----------- | -------------------------------------------------- | ------------- |
-| Green, Tank    | Tia         |                                                    |               |
-| Green, Tank    | Ai(T)       |                                                    |               |
-| Green, Tank    | Sieghart(T) |                                                    |               |
-| Green, Assault | Elesis      | Allrounder, Hard to kill, great damage, team buffs | Yeah          |
-| Green, Assault | Callisto    |                                                    |               |
-| Green, Assault | Brammash    |                                                    |               |
-| Green, Assault | Amy T       |                                                    |               |
-| Green, Assault | Werner T    |                                                    |               |
-| Green, Ranger  | Lire        | Single Target Boss Killer                          |               |
-|                | Lapis       |                                                    |               |
-|                | Mayden      |                                                    |               |
+| Type           | Unit          | Assessment                                                                                    | Build or Nah? |
+| -------------- | ------------- | --------------------------------------------------------------------------------------------- | ------------- |
+| Green, Tank    | Tia           |                                                                                               |               |
+| Green, Tank    | Ai(T)         |                                                                                               |               |
+| Green, Tank    | Sieghart(T)   |                                                                                               |               |
+| Green, Assault | Elesis        | Allrounder, Hard to kill, great damage, team buffs                                            | Yeah          |
+| Green, Assault | Callisto      |                                                                                               |               |
+| Green, Assault | Brammash      |                                                                                               |               |
+| Green, Assault | Amy T         |                                                                                               |               |
+| Green, Assault | Werner T      |                                                                                               |               |
+| Green, Ranger  | Lire          | Single Target Boss Killer                                                                     |               |
+| Green, Ranger  | Lapis         |                                                                                               |               |
+| Green, Ranger  | Mayden        |                                                                                               |               |
+| Green, Ranger  | Iyoung        |                                                                                               |               |
+| Green, Ranger  | Werner        |                                                                                               |               |
+| Green, Mage    | Mari          |                                                                                               |               |
+| Green, Mage    | Ley           |                                                                                               |               |
+| Green, Mage    | Myst T        |                                                                                               |               |
+| Green, Mage    | Grandiel T    |                                                                                               |               |
+| Green, Mage    | Serdin T      |                                                                                               |               |
+| Green, Mage    | Rin T         |                                                                                               |               |
+| Green, Mage    | Gaian         |                                                                                               |               |
+| Green, Healer  | Grandiel      |                                                                                               |               |
+| Green, Healer  | Urara         | Insane SP generation, Insane Shield, Buffs damage                                             | YES           |
+| Green, Healer  | Deia T        |                                                                                               |               |
+| Green, Healer  | Ley T         |                                                                                               |               |
+| Blue, Tank     | Jin           |                                                                                               |               |
+| Blue, Tank     | Ryan          |                                                                                               |               |
+| Blue, Tank     | Lime T        |                                                                                               |               |
+| Blue, Tank     | Arsad         |                                                                                               |               |
+| Blue, Assault  | Lire T        |                                                                                               |               |
+| Blue, Assault  | Lass          | Small damage/dps                                                                              | Not worth it  |
+| Blue, Assault  | Decanee T     |                                                                                               |               |
+| Blue, Assault  | Lapis T       |                                                                                               |               |
+| Blue, Ranger   | Rufus         |                                                                                               |               |
+| Blue, Ranger   | Ganymede T    |                                                                                               |               |
+| Blue, Ranger   | Lass T        |                                                                                               |               |
+| Blue, Ranger   | Edel T        |                                                                                               |               |
+| Blue, Mage     | Vice          | Strong damage                                                                                 | Yes           |
+| Blue, Mage     | MyungHwarin T |                                                                                               |               |
+| Blue, Mage     | Veigas        |                                                                                               |               |
+| Blue, Mage     | Ronan T       |                                                                                               |               |
+| Blue, Healer   | Amy           | Buffs buffs buffs!!                                                                           | Yes           |
+| Blue, Healer   | Mayden T      |                                                                                               |               |
+| Blue, Healer   | Io T          |                                                                                               |               |
+| Blue, Healer   | Zero T        |                                                                                               |               |
+| Red, Tank      | Callisto T    |                                                                                               |               |
+| Red, Tank      | Elesis T      | Kinda Eh, makes your team unkillable, but also doesnt really do much, no damage, doesnt bufff |               |
+| Red, Tank      | Ronan         |                                                                                               |               |
