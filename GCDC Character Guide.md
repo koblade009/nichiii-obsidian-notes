@@ -20,15 +20,21 @@ A shielder unit that deals physical aoe damage. Gathers enemies, and freezes. Mo
 Elesis
 # Callisto
 
-| Skill    | Name                 | Description                                                                                               | Imprint Upgrade |
-| -------- | -------------------- | --------------------------------------------------------------------------------------------------------- | --------------- |
-| Passive  | Unparalleled Warrior | If below 50% hp, +50% resist to basic and skill damage                                                    |                 |
-|          |                      | Heal 5% mhp if hitting 6+ enemies and increase maximize chance by 1%(up to 25%)                           |                 |
-|          |                      | If skill is maximized, +50 Chaser and 10 imprint resources for callisto and mage allies                   |                 |
-| Active 1 | Aggressive Tackle    | Drag + 378% AOE phys damage + Slow.                                                                       |                 |
-|          |                      | Grant shield to allies. 40% of mhp + 1% per enemy (up to 65%)                                             |                 |
-|          |                      | Grants invulnerability to allies if they take 30% mhp damage. Then they gain 30% magic resist for 5 secs. |                 |
-| Active 2 | Great Split          | Directional AOE, 420% phys dmg.                                                                           |                 |
+| Skill    | Name                 | Description                                                                                               | Imprint Upgrade                                                          |
+| -------- | -------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Passive  | Unparalleled Warrior | If below 50% hp, +50% resist to basic and skill damage                                                    | During imprint, deal 350% AOE phys dmg                                   |
+|          |                      | Heal 5% mhp if hitting 6+ enemies and increase maximize chance by 1%(up to 25%)                           | Stacking buff to allies as battle goes on, +1% HP, Atk and Def up to 10% |
+|          |                      | If skill is maximized, +50 Chaser and 10 imprint resources for callisto and mage allies                   |                                                                          |
+| Active 1 | Aggressive Tackle    | Drag + 378% AOE phys damage + Slow.                                                                       | Grants immunity to abnormal status effects                               |
+|          |                      | Grant shield to allies. 40% of mhp + 1% per enemy (up to 65%)                                             |                                                                          |
+|          |                      | Grants invulnerability to allies if they take 30% mhp damage. Then they gain 30% magic resist for 5 secs. |                                                                          |
+| Active 2 | Great Split          | Directional AOE, 420% phys dmg.                                                                           | Now also reduces crit rate of enemies by 40% for 15 secs.                |
+|          |                      | Enemies hit, take 40% more skill damage for 15 secs                                                       |                                                                          |
+|          |                      | Also amps allies skill damage by 35% + 1% per target (up to 55%)                                          |                                                                          |
+| Special  | Ground Zero          | 1750% AOE phys dmg.                                                                                       |                                                                          |
+|          |                      | Amplify damage recieved by enemies by 35% for 15 secs.                                                    |                                                                          |
+| Chaser   | Heavy Cyclone        | Drag + 546 AOE phys dmg then 1456% AOE phys dmg over 8 secs.                                              |                                                                          |
+|          |                      | Amp damage for Assault and Mage allies by 40% to enemies hit                                              |                                                                          |
 
 
 Brammash
