@@ -51,3 +51,20 @@ Considerations:
 | Light | Myst, Dio T                 | Europa, Sieghart                            | Ragnar, Deia                              | Harpe, Ai,                                            | Lime, Ragnar T                    |
 | Dark  | Asin, Zero, Harpe T,        | Dio, Asin T                                 | Bastet, Decanee                           | Nelia, Metatron                                       | MyungHwarin, Rin, Arme T          |
 Heroes I dont have: Arsad, Nepteon, Metatron, Gaian
+
+#### My read on these units
+
+
+| Type           | Unit        | Assessment                                         | Build or Nah? |
+| -------------- | ----------- | -------------------------------------------------- | ------------- |
+| Green, Tank    | Tia         |                                                    |               |
+| Green, Tank    | Ai(T)       |                                                    |               |
+| Green, Tank    | Sieghart(T) |                                                    |               |
+| Green, Assault | Elesis      | Allrounder, Hard to kill, great damage, team buffs | Yeah          |
+| Green, Assault | Callisto    |                                                    |               |
+| Green, Assault | Brammash    |                                                    |               |
+| Green, Assault | Amy T       |                                                    |               |
+| Green, Assault | Werner T    |                                                    |               |
+| Green, Ranger  | Lire        | Single Target Boss Killer                          |               |
+|                | Lapis       |                                                    |               |
+|                | Mayden      |                                                    |               |
