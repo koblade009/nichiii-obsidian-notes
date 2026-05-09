@@ -40,3 +40,13 @@ Considerations:
 |      |               |        | Asin     |         |
 |      |               |        | Zero     |         |
 |      |               |        | Elesis T |         |
+
+#### Table of all units
+
+|       | Tank                 | Assault                    | Ranger                      | Mage                         | Healer               |
+| ----- | -------------------- | -------------------------- | --------------------------- | ---------------------------- | -------------------- |
+| Green | Tia,                 | Elesis, Callisto, Brammash | Lire, Lapis, Mayden, Iyoung | Mari, Ley,                   | Grandiel, Urara      |
+| Blue  | Jin, Ryan            | Lire T, Lass               | Rufus                       | Vice, MyungHwarin(T), Veigas | Amy, Mayden T, Io T, |
+| Red   | Callisto T, Elesis T | Kanavan                    | Mari T,                     | Rufus T, Ganymede,           | Kanavan T, Serdin,   |
+| Light |                      |                            |                             |                              |                      |
+| Dark  |                      |                            |                             |                              |                      |
