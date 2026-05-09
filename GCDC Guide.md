@@ -15,19 +15,19 @@ PVP - Metatron
 
 Some heroes are naturally more worth building
 
-According to the [GCDC Meta Spreadsheet](https://docs.google.com/spreadsheets/d/1FU4RI2MMvSQkO0k4c4IxgwY-hx2YFKNBIfhsXT4uC-I/edit?pli=1&gid=658435636#gid=658435636) these are the heroes worth looking out for:
+According to the [GCDC Meta Spreadsheet](https://docs.google.com/spreadsheets/d/1FU4RI2MMvSQkO0k4c4IxgwY-hx2YFKNBIfhsXT4uC-I/edit?pli=1&gid=658435636#gid=658435636) these are the heroes worth looking out for (PVE):
 
-| Red                    | Green         | Blue     | PVP and others |
-| ---------------------- | ------------- | -------- | -------------- |
-| Calisto (T)            | Ai (T)        | Jin      |                |
-| Edel                   | Elesis        | Ryan (s) |                |
-| Myrielle (with Spirit) | Iyoung        |          |                |
-| Lime (S)               | Grandiel (T)  |          |                |
-| Nelie (T)              | Deia (T)      |          |                |
-| Nepteon                | Brammash      |          |                |
-| Io                     | Lire(S)       |          |                |
-| Cindy (T)              | Mari (Spirit) |          |                |
-|                        | Urara         |          |                |
+| Red                    | Green         | Blue          | Others                 |
+| ---------------------- | ------------- | ------------- | ---------------------- |
+| Calisto (T)            | Ai (T)        | Jin           | Metatron (with Spirit) |
+| Edel                   | Elesis        | Ryan (Spirit) | Zero                   |
+| Myrielle (with Spirit) | Iyoung        | Lass (Spirit) | Bastet                 |
+| Lime (S)               | Grandiel (T)  | Vice          | Dio (T)                |
+| Nelia (T)              | Deia (T)      | Amy           | Ragnar                 |
+| Nepteon                | Brammash      | Lire (T)      |                        |
+| Io                     | Lire(S)       | Ronan (T)     |                        |
+| Cindy (T)              | Mari (Spirit) | Rufus         |                        |
+|                        | Urara         | Mayden (T)    |                        |
 
 
 Considerations:
