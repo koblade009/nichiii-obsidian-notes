@@ -53,6 +53,7 @@ Considerations:
 Heroes I dont have: Arsad, Nepteon, Metatron, Gaian
 
 #### My read on these units
+Assessment is only based on SL15 - Spirit will be on another table
 
 | Type           | Unit            | Assessment                                                                                    | Build or Nah? |
 | -------------- | --------------- | --------------------------------------------------------------------------------------------- | ------------- |
