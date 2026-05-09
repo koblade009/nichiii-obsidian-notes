@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GCDC Guide.md",
+                "file": "GCDC Character Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GCDC Guide"
+              "title": "GCDC Character Guide"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "16f04d7943e704b0",
   "lastOpenFiles": [
-    "Value I want to provide.md",
     "GCDC Guide.md",
+    "GCDC Character Guide.md",
+    "Value I want to provide.md",
     "Pursuit for long-term sustained success.md",
     "Who my supporters really are.md",
     "YT Video Content A - Bonding with Viewer.md",
