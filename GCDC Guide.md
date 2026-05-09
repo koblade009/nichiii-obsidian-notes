@@ -43,10 +43,10 @@ Considerations:
 
 #### Table of all units
 
-|       | Tank                 | Assault                    | Ranger                      | Mage                         | Healer               |
-| ----- | -------------------- | -------------------------- | --------------------------- | ---------------------------- | -------------------- |
-| Green | Tia,                 | Elesis, Callisto, Brammash | Lire, Lapis, Mayden, Iyoung | Mari, Ley,                   | Grandiel, Urara      |
-| Blue  | Jin, Ryan            | Lire T, Lass               | Rufus                       | Vice, MyungHwarin(T), Veigas | Amy, Mayden T, Io T, |
-| Red   | Callisto T, Elesis T | Kanavan                    | Mari T,                     | Rufus T, Ganymede,           | Kanavan T, Serdin,   |
-| Light |                      |                            |                             |                              |                      |
-| Dark  |                      |                            |                             |                              |                      |
+|       | Tank                        | Assault                                     | Ranger                                    | Mage                                           | Healer                            |
+| ----- | --------------------------- | ------------------------------------------- | ----------------------------------------- | ---------------------------------------------- | --------------------------------- |
+| Green | Tia, Ai T, Sieghart T       | Elesis, Callisto, Brammash, Amy T, Werner T | Lire, Lapis, Mayden, Iyoung               | Mari, Ley, Myst T, Grandiel T, Serdin T, Rin T | Grandiel, Urara, Deia T, Ley T    |
+| Blue  | Jin, Ryan, Lime T, Arsad    | Lire T, Lass, Decanee T, Lapis T,           | Rufus, Ganymede T, Lass T, Edel T,        | Vice, MyungHwarin(T), Veigas, Ronan T,         | Amy, Mayden T, Io T, Zero T       |
+| Red   | Callisto T, Elesis T, Ronan | Kanavan, Sol, Edel, Tia T, Jin T, Nepteon   | Mari T, Io, Myrielle, Europa T, Viegas T, | Rufus T, Ganymede, Arme, Cindy T, Ryan T       | Kanavan T, Serdin, Cindy, Nelia T |
+| Light | Myst, Dio T                 | Europa, Sieghart                            | Ragnar, Deia                              | Harpe, Ai,                                     | Lime, Ragnar T                    |
+| Dark  | Asin, Zero, Harpe T,        | Dio, Asin T                                 | Bastet, Decanee                           | Nelia                                          | MyungHwarin, Rin, Arme T          |
