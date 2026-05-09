@@ -104,3 +104,45 @@ Heroes I dont have: Arsad, Nepteon, Metatron, Gaian
 | Red, Tank      | Callisto T    |                                                                                               |               |
 | Red, Tank      | Elesis T      | Kinda Eh, makes your team unkillable, but also doesnt really do much, no damage, doesnt bufff |               |
 | Red, Tank      | Ronan         |                                                                                               |               |
+| Red, Assault   | Kanavan       | Great nuke                                                                                    |               |
+| Red, Assault   | Sol           |                                                                                               |               |
+| Red, Assault   | Edel          |                                                                                               |               |
+| Red, Assault   | Tia T         |                                                                                               |               |
+| Red, Assault   | Jin T         |                                                                                               |               |
+| Red, Assault   | Nepteon       |                                                                                               |               |
+| Red, Ranger    | Mari T        | More of an AOE damage dealer                                                                  | Yea           |
+| Red, Ranger    | Io            |                                                                                               |               |
+| Red, Ranger    | Myrielle      |                                                                                               |               |
+| Red, Ranger    | Europa T      |                                                                                               |               |
+| Red, Ranger    | Viegas T      |                                                                                               |               |
+| Red, Mage      | Rufus T       |                                                                                               |               |
+| Red, Mage      | Ganymede      |                                                                                               |               |
+| Red, Mage      | Arme          |                                                                                               |               |
+| Red, Mage      | Cindy T       |                                                                                               |               |
+| Red, Mage      | Ryan T        |                                                                                               |               |
+| Red, Healer    | Kanavan T     |                                                                                               |               |
+| Red, Healer    | Serdin        |                                                                                               |               |
+| Red, Healer    | Cindy         |                                                                                               |               |
+| Red, Healer    | Nelia T       |                                                                                               |               |
+| Light, Tank    | Myst          |                                                                                               |               |
+| Light, Tank    | Dio T         |                                                                                               |               |
+| Light, Assault | Europa        |                                                                                               |               |
+| Light, Assault | Sieghart      |                                                                                               |               |
+| Light, Ranger  | Ragnar        |                                                                                               |               |
+| Light, Ranger  | Deia          |                                                                                               |               |
+| Light, Mage    | Harpe         |                                                                                               |               |
+| Light, Mage    | Ai            |                                                                                               |               |
+| Light, Healer  | Lime          |                                                                                               |               |
+| Light, Healer  | Ragnar T      |                                                                                               |               |
+| Dark, Tank     | Asin          |                                                                                               |               |
+| Dark, Tank     | Zero          |                                                                                               |               |
+| Dark, Tank     | Harpe T       |                                                                                               |               |
+| Dark, Assault  | Dio           |                                                                                               |               |
+| Dark, Assault  | Asin T        |                                                                                               |               |
+| Dark, Ranger   | Bastet        | Supposedly the best DPS, I have her and yeah shes pretty good                                 |               |
+| Dark, Ranger   | Decanee       |                                                                                               |               |
+| Dark, Mage     | Nelia         |                                                                                               |               |
+| Dark, Mage     | Metatron      | Supposedly the best PVP DPS in the game                                                       |               |
+| Dark, Healer   | MyungHwarin   |                                                                                               |               |
+| Dark, Healer   | Rin           |                                                                                               |               |
+| Dark, Healer   | Arme T        |                                                                                               |               |
