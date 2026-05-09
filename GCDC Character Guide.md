@@ -15,3 +15,91 @@ A shielder unit that deals physical aoe damage. Gathers enemies, and freezes. Mo
 
 
 # Ai (T)
+
+# Sieghart (T)
+Elesis
+Callisto
+Brammash
+Amy (T)
+Werner (T)
+Lire
+Lapis
+Mayden
+Iyoung
+Werner
+Mari
+ Ley 
+| Myst (T) 
+| Grandiel (T)    |
+| Serdin (T)      |
+| Rin (T)         |
+| Gaian           |
+| Grandiel        |
+| Urara           |
+| Deia (T)        |
+| Ley (T)         |
+| Jin             |
+| Ryan            |
+| Lime (T)        |
+| Arsad           |
+| Lire (T)        |
+| Lass            |
+| Decanee (T)     |
+| Lapis (T)       |
+| Rufus           |
+| Ganymede (T)    |
+| Lass (T)        |
+| Edel (T)        |
+| Vice            |
+| MyungHwarin (T) |
+| Veigas          |
+| Ronan (T)       |
+| Amy             |
+| Mayden (T)      |
+| Io (T)          |
+| Zero (T)        |
+| Callisto (T)    |
+| Elesis (T)      |
+| Ronan           |
+| Kanavan         |
+| Sol             |
+| Edel            |
+| Tia (T)         |
+| Jin (T)         |
+| Nepteon         |
+| Mari (T)        |
+| Io              |
+| Myrielle        |
+| Europa (T)      |
+| Viegas (T)      |
+| Rufus (T)       |
+| Ganymede        |
+| Arme            |
+| Cindy (T)       |
+| Ryan (T)        |
+| Kanavan (T)     |
+| Serdin          |
+| Cindy           |
+| Nelia (T)       |
+| Myst            |
+| Dio (T)         |
+| Europa          |
+| Sieghart        |
+| Ragnar          |
+| Deia            |
+| Harpe           |
+| Ai              |
+| Lime            |
+| Ragnar (T)      |
+| Asin            |
+| Zero            |
+| Harpe (T)       |
+| Dio             |
+| Asin (T)        |
+| Bastet          |
+| Decanee         |
+| Nelia           |
+| Metatron        |
+| MyungHwarin     |
+| Rin             |
+| Arme (T)        |
