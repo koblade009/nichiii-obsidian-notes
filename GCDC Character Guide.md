@@ -18,7 +18,19 @@ A shielder unit that deals physical aoe damage. Gathers enemies, and freezes. Mo
 
 # Sieghart (T)
 Elesis
-Callisto
+# Callisto
+
+| Skill    | Name                 | Description                                                                                               | Imprint Upgrade |
+| -------- | -------------------- | --------------------------------------------------------------------------------------------------------- | --------------- |
+| Passive  | Unparalleled Warrior | If below 50% hp, +50% resist to basic and skill damage                                                    |                 |
+|          |                      | Heal 5% mhp if hitting 6+ enemies and increase maximize chance by 1%(up to 25%)                           |                 |
+|          |                      | If skill is maximized, +50 Chaser and 10 imprint resources for callisto and mage allies                   |                 |
+| Active 1 | Aggressive Tackle    | Drag + 378% AOE phys damage + Slow.                                                                       |                 |
+|          |                      | Grant shield to allies. 40% of mhp + 1% per enemy (up to 65%)                                             |                 |
+|          |                      | Grants invulnerability to allies if they take 30% mhp damage. Then they gain 30% magic resist for 5 secs. |                 |
+| Active 2 | Great Split          | Directional AOE, 420% phys dmg.                                                                           |                 |
+
+
 Brammash
 Amy (T)
 Werner (T)
