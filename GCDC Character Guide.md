@@ -80,16 +80,18 @@ Mari
 # Io (T)
 Magic healer
 
-| Skill    | Name             | Description                                                                                                                                  | Imprint Upgrade |
-| -------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| Passive  | Almighty Capsule | At start, gain SP based on number of blue allies.                                                                                            |                 |
-|          |                  | 30% chance to heal ally for 115% matk and gain 1 SP when enemy takes damage                                                                  |                 |
-| Active 1 | Cure Drain       | Shield allies for 50% matk and deal 260% matk to 1 enemy. Reduce damage dealt by enemies hit by 25% for 6 secs                               |                 |
-|          |                  | afterwards, heal allies for 260% matk, and lowest hp ally by 5% of missing hp every second and buff basic and skill damage by 25% for 8 secs |                 |
-| Active 2 | Heal injection   | in AOE, Heal allies for 215% matk, and buff crit chance by 30% for 8 secs                                                                    |                 |
-|          |                  | in AOE, deal 325% matk                                                                                                                       |                 |
-|          |                  | When removed, heal lowest hp ally for 80% matk per second for 8 seconds, and buff damage against red enemies by 5%                           |                 |
-| Special  | Overdose         | AOE field. Heal allies                                                                                                                       |                 |
+| Skill    | Name             | Description                                                                                                                                  | Imprint Upgrade                                                                                                        |
+| -------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Passive  | Almighty Capsule | At start, gain SP based on number of blue allies.                                                                                            | If Edel (T) is on team, increase blue allies attack speed by 50 % for 15 secs                                          |
+|          |                  | 30% chance to activate capsule everytime enemy takes damage                                                                                  | During imprint stage, activate capsule and basic attack damage deal 180% matk                                          |
+|          |                  | Capsule: Heal ally for 115% matk and gain 1 SP when enemy takes damage                                                                       |                                                                                                                        |
+| Active 1 | Cure Drain       | Shield allies for 50% matk and deal 260% matk to 1 enemy. Reduce damage dealt by enemies hit by 25% for 6 secs                               | Amp damage to enemies by 35% for 8 secs.                                                                               |
+|          |                  | afterwards, heal allies for 260% matk, and lowest hp ally by 5% of missing hp every second and buff basic and skill damage by 25% for 8 secs | AOE field - Heal allies by 315% and amp their damage by 35% abd reduce SP cost by 35% and heal 205% matk for 5 seconds |
+| Active 2 | Heal injection   | in AOE, Heal allies for 215% matk, and buff crit chance by 30% for 8 secs                                                                    | crit rate > 35% and also now buff crit damage by 30%                                                                   |
+|          |                  | in AOE, deal 325% matk                                                                                                                       | reduce skill cooldown for blue allies by 35%, and double attack chance +60% and damage to shield +30%                  |
+|          |                  | When removed, heal lowest hp ally for 80% matk per second for 8 seconds, and buff damage against red enemies by 5%                           |                                                                                                                        |
+| Special  | Overdose         | AOE field. Heal allies for 3000% of matk, reduce skill cooldowns by 10%                                                                      |                                                                                                                        |
+|          |                  | Also 30% chance to activate capsule                                                                                                          |                                                                                                                        |
 
 | Zero (T)        |
 | Callisto (T)    |
