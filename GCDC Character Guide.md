@@ -75,23 +75,33 @@ Mari
 | MyungHwarin (T) |
 | Veigas          |
 | Ronan (T)       |
-| Amy             |
-# Mayden (T)
+# Amy
+| Skill   | Name               | Description                                                              | Imprint Upgrade                                      |
+| ------- | ------------------ | ------------------------------------------------------------------------ | ---------------------------------------------------- |
+| Passive | Everyones Favorite | Everytime she uses skill, 0.7x no of allies over 2 secs (3 sec cooldown) | +35% shield gain and 80% damage to shields to allies |
 
-| Skill           | Name            | Description                                                                                                                  | Imprint Upgrade                                                                          |
-| --------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Passive         | Assist          | Everytime she uses skill, 0.7x no of allies over 2 secs (3 sec cooldown)                                                     | +35% shield gain and 80% damage to shields to allies                                     |
-|                 |                 | When ally deal damage 20 times, apply support time for 10 secs to that ally                                                  | blue allies take 30% less damage from red enemies                                        |
-|                 |                 | Support time: Shield for 35%mhp, Skill cooldown -40%, Crit Chance + 35%                                                      | During imprint stage. Support time now also amps damage by 30% while shield is up        |
-| Active 1        | X Rescue        | Targeted AOE. deal 330% matk. Heal allies for 210% matk and amps their damage by 35% and reduce sp cost by 30% for 8 seconds | Now also deals 120% matk 4 times. Blue allies take 35% less damage for 10 secs           |
-| Active 2        | Vital Terror    | Targeted AOE. Heal allies by 180% matk, and 15% mhp heal for 8 secs                                                          | Now heals 1760% matk distributed evenly.                                                 |
-|                 |                 |                                                                                                                              | During imprint stage. Heal by 2% x no of times vital terror skill is used (max 20 times) |
-| Special 40 cost | Perfect Hit     | Targeted AOE. Heal for 800% matk. Also amps damage to mage enemies by 60% for 40 secs. And +100% resource gain for 10 secs.  |                                                                                          |
-| Chaser          | Damage Clearing | Heal all allies by 1300% of matk/                                                                                            |                                                                                          |
+
+# Mayden (T)
+Healer that also does a bit of matk damage
+Overall assessment:
+Good shields, good heals. Decent SP gain and SP cost reduction. Cooldown reduction. Buffs crit chance. Chaser skill cleanses. Lots of damage amps. Very similar to Io(T) tbh. 
+
+| Skill           | Name            | Description                                                                                                                  | Imprint Upgrade                                                                                              |
+| --------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Passive         | Assist          | Everytime she uses skill, 0.7x no of allies over 2 secs (3 sec cooldown)                                                     | +35% shield gain and 80% damage to shields to allies                                                         |
+|                 |                 | When ally deal damage 20 times, apply support time for 10 secs to that ally                                                  | blue allies take 30% less damage from red enemies                                                            |
+|                 |                 | Support time: Shield for 35%mhp, Skill cooldown -40%, Crit Chance + 35%                                                      | During imprint stage. Support time now also amps damage by 30% while shield is up                            |
+| Active 1        | X Rescue        | Targeted AOE. deal 330% matk. Heal allies for 210% matk and amps their damage by 35% and reduce sp cost by 30% for 8 seconds | Now also deals 120% matk 4 times. Blue allies take 35% less damage for 10 secs                               |
+| Active 2        | Vital Terror    | Targeted AOE. Heal allies by 180% matk, and 15% mhp heal for 8 secs                                                          | Now heals 1760% matk distributed evenly.                                                                     |
+|                 |                 |                                                                                                                              | During imprint stage. Heal by 2% x no of times vital terror skill is used (max 20 times)                     |
+| Special 40 cost | Perfect Hit     | Targeted AOE. Heal for 800% matk. Also amps damage to mage enemies by 60% for 40 secs. And +100% resource gain for 10 secs.  |                                                                                                              |
+| Chaser          | Damage Clearing | Heal all allies by 1300% of matk. And nullifies debuffs for 5 secs                                                           | +40% chaser damage to blue allies if there are more than 4 enemies. Support time now also amps damage by 20% |
+|                 |                 |                                                                                                                              | Blue allies deal 60% more damage to Tanks                                                                    |
+|                 |                 |                                                                                                                              | Blue allies deal 20% more damage to red enemies                                                              |
 # Io (T)
 Magic healer
 Overall assessment:
-Decent SP gain, healing scales on matk. bit of shield. Lots of damage amp and resistance buff. Also buff crit and crit damage. AOE field dependent  Pretty good methinks. 
+SP gain is chance based, healing scales on matk. bit of shield. Lots of damage amp and resistance buff. Also buff crit and crit damage. AOE field dependent  Pretty good methinks. 
 
 | Skill           | Name             | Description                                                                                                                                  | Imprint Upgrade                                                                                                                                                                                                                                    |
 | --------------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
