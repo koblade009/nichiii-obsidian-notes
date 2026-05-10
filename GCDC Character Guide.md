@@ -77,7 +77,20 @@ Mari
 | Ronan (T)       |
 | Amy             |
 | Mayden (T)      |
-| Io (T)          |
+# Io (T)
+Magic healer
+
+| Skill    | Name             | Description                                                                                                                                  | Imprint Upgrade |
+| -------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| Passive  | Almighty Capsule | At start, gain SP based on number of blue allies.                                                                                            |                 |
+|          |                  | 30% chance to heal ally for 115% matk and gain 1 SP when enemy takes damage                                                                  |                 |
+| Active 1 | Cure Drain       | Shield allies for 50% matk and deal 260% matk to 1 enemy. Reduce damage dealt by enemies hit by 25% for 6 secs                               |                 |
+|          |                  | afterwards, heal allies for 260% matk, and lowest hp ally by 5% of missing hp every second and buff basic and skill damage by 25% for 8 secs |                 |
+| Active 2 | Heal injection   | in AOE, Heal allies for 215% matk, and buff crit chance by 30% for 8 secs                                                                    |                 |
+|          |                  | in AOE, deal 325% matk                                                                                                                       |                 |
+|          |                  | When removed, heal lowest hp ally for 80% matk per second for 8 seconds, and buff damage against red enemies by 5%                           |                 |
+| Special  | Overdose         | AOE field. Heal allies                                                                                                                       |                 |
+
 | Zero (T)        |
 | Callisto (T)    |
 | Elesis (T)      |
