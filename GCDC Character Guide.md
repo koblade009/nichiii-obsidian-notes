@@ -76,9 +76,12 @@ Mari
 | Veigas          |
 | Ronan (T)       |
 # Amy
-| Skill   | Name               | Description                                                              | Imprint Upgrade                                      |
-| ------- | ------------------ | ------------------------------------------------------------------------ | ---------------------------------------------------- |
-| Passive | Everyones Favorite | Everytime she uses skill, 0.7x no of allies over 2 secs (3 sec cooldown) | +35% shield gain and 80% damage to shields to allies |
+| Skill    | Name               | Description                                                                                                 | Imprint Upgrade                                                                                                                 |
+| -------- | ------------------ | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Passive  | Everyones Favorite | 15% chance to gain 2 SP when using basic attacks. (+25% chance after using skill for 15 secs)               | 30% heal and +70% damage resist to allies when the get to 70%/40% hp                                                            |
+|          |                    | If SP is below 5, gain +0.25 SP per second                                                                  | During imprint, every basic attack gains 0.5 SP and (+10% chance)                                                               |
+| Active 1 | Loving You         | Heal allies by 250% of matk.                                                                                | When "Love Buffed" allies do basic attack, they gain 1 cheer. When it reaches 7, +20% crit damage. Every 4th skill is maximized |
+|          |                    | Also applies "Love Buff" to allies. Amps damage by 30% also gains 0.1SP every critical hit (1 sec cooldown) | +15% movement speed.                                                                                                            |
 
 
 # Mayden (T)
