@@ -76,6 +76,10 @@ Mari
 | Veigas          |
 | Ronan (T)       |
 # Amy
+SP battery, good buffs, bit of heals and shield. Must use her SS as much as possible. She deals zero damage btw. But she does need to do basic attacks for the sp battery.
+Overall assessment: 
+Insane SP battery. Bit of amp/crit damage buffs here and there. She makes everything move faster. Skill cooldowns go faster. Allies attack faster. SP is gained faster. She speeds up tempo of team essentially. 
+
 | Skill           | Name               | Description                                                                                                                                    | Imprint Upgrade                                                                                                                                        |
 | --------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Passive         | Everyones Favorite | 15% chance to gain 2 SP when using basic attacks. (+25% chance after using skill for 15 secs)                                                  | 30% heal and +70% damage resist to allies when the get to 70%/40% hp                                                                                   |
@@ -88,7 +92,9 @@ Mari
 | Chaser          | Fan Service        | Heal allies in range by 540%,. If allies consume SP higher than 2, it reduces it by 1. Buffs Jin's phy attack by 100%. These last for 16 secs. | Now also reduces skill cooldown by 50%.                                                                                                                |
 |                 |                    |                                                                                                                                                | Every time this skill activates, max SP is increased by 2.                                                                                             |
 |                 |                    |                                                                                                                                                | Damage to boss is increased by 1% per increased max sp (Max 10%)                                                                                       |
-|                 |                    |                                                                                                                                                |                                                                                                                                                        |
+|                 |                    |                                                                                                                                                | Amps ally damage by 2%. Gain 1 SP, Reduce cooldown of Special by 8 secs.                                                                               |
+|                 |                    |                                                                                                                                                | For 15 secs. Skill 1 imprint grants +5% crit chance and grats 15% damage reduction to allies                                                           |
+
 
 
 # Mayden (T)
